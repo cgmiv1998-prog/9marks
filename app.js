@@ -28,6 +28,10 @@
   let current = null;
   let lastSave = 0;
   let seeking = false;
+  let bibleShow = null;                  // the Bible Talk show, browsed by book/chapter
+  let bibleIndex = null;                 // Map(book -> { chapters: Map(ch -> [{ep,from}]), count })
+  let bibleOther = [];                   // episodes with no passage in the title
+  let bibleNav = { book: null, ch: null };
 
   const fmt = (s) => {
     s = Math.max(0, Math.floor(s || 0));
@@ -60,6 +64,7 @@
       return;
     }
     for (const show of shows) for (const ep of show.episodes) byId.set(ep.id, { ep, show });
+    setupBible();
     renderChips();
     renderList();
     restoreLast();
@@ -73,7 +78,7 @@
       const b = el("button", "chip", label);
       b.dataset.key = key;
       b.setAttribute("aria-pressed", String(filter === key));
-      b.addEventListener("click", () => { filter = key; renderChips(); renderList(); window.scrollTo(0, 0); });
+      b.addEventListener("click", () => { filter = key; bibleNav = { book: null, ch: null }; renderChips(); renderList(); window.scrollTo(0, 0); });
       nav.appendChild(b);
     };
     mk("Latest", "latest");
@@ -99,37 +104,141 @@
 
   function renderList() {
     const list = $("list");
+    if (bibleShow && filter === bibleShow.id) { renderBible(list); return; }
     const items = visibleEpisodes();
     if (!items.length) { list.replaceChildren(el("p", "muted pad", "Nothing here.")); return; }
     const frag = document.createDocumentFragment();
-    for (const { ep, show } of items) {
-      const row = el("button", "ep");
-      row.dataset.id = ep.id;
-      if (played[ep.id]) row.classList.add("done");
-      if (current && current.ep.id === ep.id) row.classList.add("current");
+    for (const { ep, show } of items) frag.appendChild(epRow(ep, show));
+    list.replaceChildren(frag);
+  }
 
-      const img = el("img");
-      img.src = ep.image || show.image || "";
-      img.alt = "";
-      img.loading = "lazy";
-      img.width = 56; img.height = 56;
+  function epRow(ep, show) {
+    const row = el("button", "ep");
+    row.dataset.id = ep.id;
+    if (played[ep.id]) row.classList.add("done");
+    if (current && current.ep.id === ep.id) row.classList.add("current");
 
-      const body = el("div", "body");
-      body.appendChild(el("div", "show", shortName(show.name)));
-      body.appendChild(el("div", "t", ep.title));
-      const bits = [fmtDate(ep.date), ep.duration ? Math.round(ep.duration / 60) + " min" : ""].filter(Boolean);
-      if (played[ep.id]) bits.push("played");
-      body.appendChild(el("div", "sub", bits.join(" · ")));
+    const img = el("img");
+    img.src = ep.image || show.image || "";
+    img.alt = "";
+    img.loading = "lazy";
+    img.width = 56; img.height = 56;
 
-      const saved = pos[ep.id];
-      if (saved && ep.duration && !played[ep.id]) {
-        const bar = el("div", "bar"), fill = el("i");
-        fill.style.width = Math.min(100, (saved / ep.duration) * 100) + "%";
-        bar.appendChild(fill); body.appendChild(bar);
+    const body = el("div", "body");
+    body.appendChild(el("div", "show", shortName(show.name)));
+    body.appendChild(el("div", "t", ep.title));
+    const bits = [fmtDate(ep.date), ep.duration ? Math.round(ep.duration / 60) + " min" : ""].filter(Boolean);
+    if (played[ep.id]) bits.push("played");
+    body.appendChild(el("div", "sub", bits.join(" · ")));
+
+    const saved = pos[ep.id];
+    if (saved && ep.duration && !played[ep.id]) {
+      const bar = el("div", "bar"), fill = el("i");
+      fill.style.width = Math.min(100, (saved / ep.duration) * 100) + "%";
+      bar.appendChild(fill); body.appendChild(bar);
+    }
+    row.append(img, body);
+    row.addEventListener("click", () => play(ep.id));
+    return row;
+  }
+
+  // ---------- Bible Talk: browse by book -> chapter -> episodes ----------
+  function setupBible() {
+    bibleShow = shows.find((s) => /^Bible Talk/i.test(s.name)) || null;
+    if (!bibleShow || !window.Bible) { bibleShow = null; return; }
+    bibleIndex = new Map();
+    bibleOther = [];
+    for (const ep of bibleShow.episodes) {
+      const ref = window.Bible.parseLeading(ep.title);
+      if (!ref) { bibleOther.push(ep); continue; }
+      if (!bibleIndex.has(ref.book)) bibleIndex.set(ref.book, { chapters: new Map(), count: 0 });
+      const entry = bibleIndex.get(ref.book);
+      entry.count++;
+      // An episode on chapters 2-3 shows up in the folder for 2 and the folder for 3.
+      for (let c = ref.from; c <= ref.to; c++) {
+        if (!entry.chapters.has(c)) entry.chapters.set(c, []);
+        entry.chapters.get(c).push({ ep, from: ref.from });
       }
-      row.append(img, body);
-      row.addEventListener("click", () => play(ep.id));
-      frag.appendChild(row);
+    }
+    window.addEventListener("popstate", (e) => {
+      bibleNav = (e.state && e.state.bible) || { book: null, ch: null };
+      if (bibleShow && filter === bibleShow.id) { renderList(); window.scrollTo(0, 0); }
+    });
+  }
+
+  function bibleGo(book, ch) {
+    bibleNav = { book, ch };
+    // History entries make the iOS edge-swipe (and the back button below) step up one level.
+    try { history.pushState({ bible: bibleNav }, ""); } catch {}
+    renderList();
+    window.scrollTo(0, 0);
+  }
+
+  function bibleHeader(title, sub, backLabel) {
+    const h = el("div", "bhead");
+    if (backLabel) {
+      const b = el("button", "back", "‹ " + backLabel);
+      b.addEventListener("click", () => history.back());
+      h.appendChild(b);
+    }
+    h.appendChild(el("h2", null, title));
+    if (sub) h.appendChild(el("div", "muted small", sub));
+    return h;
+  }
+
+  const plural = (n, w) => `${n} ${w}${n === 1 ? "" : "s"}`;
+
+  function renderBible(list) {
+    const frag = document.createDocumentFragment();
+    const { book, ch } = bibleNav;
+    const keep = (ep) => !hidePlayed || !played[ep.id] || (current && current.ep.id === ep.id);
+
+    if (!book) {
+      frag.appendChild(bibleHeader("Bible Talk", plural(bibleShow.episodes.length, "episode")));
+      for (const [label, t] of [["Old Testament", "OT"], ["New Testament", "NT"]]) {
+        const books = window.Bible.BOOKS.filter((b) => b.testament === t && bibleIndex.has(b.name));
+        if (!books.length) continue;
+        frag.appendChild(el("h3", "tsec", label));
+        const grid = el("div", "grid books");
+        for (const b of books) {
+          const tile = el("button", "tile");
+          tile.append(el("span", "tn", b.name), el("span", "tc", plural(bibleIndex.get(b.name).count, "ep")));
+          tile.addEventListener("click", () => bibleGo(b.name, null));
+          grid.appendChild(tile);
+        }
+        frag.appendChild(grid);
+      }
+      if (bibleOther.length) {
+        frag.appendChild(el("h3", "tsec", "Other"));
+        const grid = el("div", "grid books");
+        const tile = el("button", "tile");
+        tile.append(el("span", "tn", "Specials"), el("span", "tc", plural(bibleOther.length, "ep")));
+        tile.addEventListener("click", () => bibleGo("__other", null));
+        grid.appendChild(tile);
+        frag.appendChild(grid);
+      }
+    } else if (book === "__other") {
+      frag.appendChild(bibleHeader("Specials", "Episodes not tied to one passage", "Books"));
+      for (const ep of bibleOther.filter(keep)) frag.appendChild(epRow(ep, bibleShow));
+    } else if (ch == null) {
+      const entry = bibleIndex.get(book);
+      const def = window.Bible.byName.get(book);
+      const max = Math.max(def ? def.chapters : 0, ...entry.chapters.keys());
+      frag.appendChild(bibleHeader(book, plural(entry.count, "episode"), "Books"));
+      const grid = el("div", "grid chapters");
+      for (let c = 1; c <= max; c++) {
+        const n = entry.chapters.get(c);
+        const tile = el("button", "tile ch" + (n ? " has" : ""), String(c));
+        if (n) tile.addEventListener("click", () => bibleGo(book, c));
+        else tile.disabled = true;
+        grid.appendChild(tile);
+      }
+      frag.appendChild(grid);
+    } else {
+      const entry = bibleIndex.get(book);
+      const items = (entry.chapters.get(ch) || []).slice().sort((a, b) => a.from - b.from || (a.ep.date || "").localeCompare(b.ep.date || ""));
+      frag.appendChild(bibleHeader(`${book} ${ch}`, plural(items.length, "episode"), book));
+      for (const { ep } of items.filter(({ ep }) => keep(ep))) frag.appendChild(epRow(ep, bibleShow));
     }
     list.replaceChildren(frag);
   }

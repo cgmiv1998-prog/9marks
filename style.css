@@ -90,3 +90,20 @@ input[type="range"]::-moz-range-thumb { width: 18px; height: 18px; border: 0; bo
 .btn.small-btn.on { color: var(--accent); border-color: var(--accent); }
 .btn:active { opacity: 0.6; }
 [hidden] { display: none !important; }
+
+/* Bible Talk: books -> chapters -> episodes */
+.bhead { padding: 6px 16px 10px; }
+.bhead h2 { margin: 0; font-size: 24px; letter-spacing: -0.02em; }
+.back { border: 0; background: transparent; color: var(--accent); font: inherit; font-size: 16px; padding: 6px 0 8px; margin-left: -2px; }
+.tsec { margin: 14px 16px 8px; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.grid { display: grid; gap: 8px; padding: 0 16px 8px; }
+.grid.books { grid-template-columns: repeat(2, 1fr); }
+.grid.chapters { grid-template-columns: repeat(5, 1fr); }
+.tile { border: 1px solid var(--line); background: var(--panel); color: var(--text); font: inherit; border-radius: 12px; text-align: left; }
+.books .tile { padding: 12px 14px; display: flex; flex-direction: column; gap: 2px; min-height: 62px; }
+.tile .tn { font-weight: 600; }
+.tile .tc { font-size: 12px; color: var(--muted); }
+.tile:active { background: var(--line); }
+.tile.ch { aspect-ratio: 1; display: grid; place-items: center; text-align: center; font-size: 17px; font-variant-numeric: tabular-nums; color: var(--muted); background: transparent; }
+.tile.ch.has { color: var(--text); background: var(--panel); border-color: var(--accent); font-weight: 600; }
+.tile.ch:disabled { opacity: 0.35; }
