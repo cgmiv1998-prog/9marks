@@ -1,11 +1,11 @@
 // Caches the app shell and the latest feeds.json. Audio is never cached (iOS range-request issues).
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL = `shell-${VERSION}`;
 const DATA = "data";
 const FILES = ["./", "index.html", "style.css", "app.js", "bible.js", "manifest.json", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(SHELL).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(SHELL).then((c) => Promise.all(FILES.map((f) => c.add(new Request(f, { cache: "reload" }))))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (e) => {
@@ -39,16 +39,14 @@ self.addEventListener("fetch", (e) => {
     return;
   }
 
-  // App shell: cache first, refresh in background.
+  // App shell: network first (always revalidated, so updates show on the next open),
+  // saved copy only when offline.
   e.respondWith(
-    caches.match(req, { ignoreSearch: true }).then((hit) => {
-      const net = fetch(req)
-        .then((res) => {
-          if (res.ok) caches.open(SHELL).then((c) => c.put(req, res.clone()));
-          return res;
-        })
-        .catch(() => hit);
-      return hit || net;
-    })
+    fetch(req, { cache: "no-cache" })
+      .then((res) => {
+        if (res.ok) { const copy = res.clone(); caches.open(SHELL).then((c) => c.put(req, copy)); }
+        return res;
+      })
+      .catch(() => caches.match(req, { ignoreSearch: true }))
   );
 });
