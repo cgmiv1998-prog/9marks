@@ -4,7 +4,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
 
 const config = JSON.parse(await readFile(new URL("../feeds.config.json", import.meta.url), "utf8"));
-const LIMIT = config.episodesPerShow ?? 25;
+const LIMIT = config.episodesPerShow || Infinity; // 0 = every episode
 const OUT = process.env.OUT_FILE || new URL("../feeds.json", import.meta.url).pathname;
 // Test hook: FEEDS_OVERRIDE='[{"name":"x","feedUrl":"http://localhost:8123/feed.xml"}]' skips Apple lookups.
 const OVERRIDE = process.env.FEEDS_OVERRIDE ? JSON.parse(process.env.FEEDS_OVERRIDE) : null;
@@ -122,7 +122,7 @@ async function readFeed(meta) {
         duration: toSeconds(it["itunes:duration"]),
         audio: https(audio),
         image: it["itunes:image"]?.["@_href"] || "",
-        description: strip(it["itunes:summary"] || it.description).slice(0, 400),
+        description: strip(it["itunes:summary"] || it.description).slice(0, 200),
       };
     })
     .filter(Boolean)

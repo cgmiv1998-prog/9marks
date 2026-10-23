@@ -14,14 +14,14 @@ Every hour a GitHub Action finds all podcasts published by "9Marks" (via Apple's
 
 ## How it behaves
 
-- Home shows the latest 40 episodes across all shows. Chips filter to one show (25 most recent each).
+- Home shows the latest 40 episodes across all shows. Chips filter to one show (every episode).
 - Tap an episode to play. It resumes where you left off. Nothing plays after an episode ends.
 - Controls: back 15s, forward 30s, speed (1x to 2x), mark played. Lock screen and AirPods controls are wired up.
 - Progress and played state are stored on the phone only.
 
 ## Changing things
 
-- Show more or fewer episodes per show: `episodesPerShow` in `feeds.config.json`.
+- Show more or fewer episodes per show: `episodesPerShow` in `feeds.config.json` (0 = every episode).
 - Add a show that isn't published under the 9Marks name: add its Apple Podcasts ID to `appleIds` or its RSS URL to `extraFeeds`.
 - After editing `app.js`, `style.css` or `index.html`, bump `VERSION` in `sw.js` so phones pick up the change.
 
