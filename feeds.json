@@ -1,528 +1,6 @@
 {
- "updated": "2026-11-02T10:15:07.833Z",
+ "updated": "2026-11-03T11:00:00.838Z",
  "shows": [
-  {
-   "id": "1737540431",
-   "name": "Counseling Talk — A podcast by 9Marks",
-   "author": "9Marks",
-   "image": "https://img.transistorcdn.com/Qhzlsz_4HKkVwOumQx9qhUV9KGRLhrHQ5IpvClGbghc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTQy/MzQ0MTMzNmYyOGNh/NDkxMzFlNGM3OTk5/YTRjNi5qcGc.jpg",
-   "link": "https://www.9marks.org/podcast/counseling-talk/",
-   "episodes": [
-    {
-     "id": "1737540431|6fea90d7-cba9-4253-afae-d57818c8a20b",
-     "title": "On Pre-Marital Part 1: 8 Things that Pastors Need to Consider (Ep. 57)",
-     "date": "2026-11-02T10:00:00.000Z",
-     "duration": 2137,
-     "audio": "https://media.transistor.fm/2a5f46d1/005f659a.mp3",
-     "image": "https://img.transistorcdn.com/BGYnxA6cZC-ArFIIE7IuB-qxoouwXMe5CnwiwQgnsdI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTUy/NWUyMDBjZGJmODlj/OGRiZmUxZGYxNGFj/NDQ2Mi5wbmc.jpg",
-     "description": "Deepak, Hayley and Garrett discuss 8 things that every pastor and couple should consider with premarital counseling."
-    },
-    {
-     "id": "1737540431|7b4886dc-483b-4bbd-83c1-e70ff18d9b4c",
-     "title": "On Getting Engaged: 8 Myths About Engagement (Ep. 56)",
-     "date": "2026-10-19T09:00:00.000Z",
-     "duration": 2779,
-     "audio": "https://media.transistor.fm/846c7277/b284ce23.mp3",
-     "image": "https://img.transistorcdn.com/V7XZpOTGqeeE_abDqTR3i8p3TDHV1qnWlVqCK9ceDmQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMzU5/ZDhhMzNhZjZjYjlj/MDE5MDgzYzQ1ZDcw/Nzk4NS5wbmc.jpg",
-     "description": "Deepak, Hayley and Garrett discuss 8 myths about Engagement. Resources: Just Do Something by Kevin DeYoung Pre-Engagement: Five Questions to Ask Yourselves by David Powlison Preparing for Engagement b"
-    },
-    {
-     "id": "1737540431|7c0d4480-f644-49c9-b0a4-fc6a6a08c4ad",
-     "title": "On Dating Part 7: On Breaking Up for the Glory of God (Ep. 55)",
-     "date": "2026-10-05T09:00:00.000Z",
-     "duration": 1821,
-     "audio": "https://media.transistor.fm/0fd68681/7ff6c64f.mp3",
-     "image": "https://img.transistorcdn.com/tsxj__oV0ZC4cB29tSz6jRFDkW_5zrKp34MrTGt9yhM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xOTRh/MWI5NGFjZTIyZGEx/Mjc1YzdhOTI1OWZl/MWFkOS5wbmc.jpg",
-     "description": "Deepak Hayley and Garrett talk about what to do and what not to do when you break up. Resources: Who Should I Date? Relationship Advice in a Real World by William P. Smith Starting Over: How Not to Sc"
-    },
-    {
-     "id": "1737540431|4f8de4e8-a468-41b8-97e3-41d60abc4e9e",
-     "title": "On Dating Part 6: On Six “Things that Go Wrong in a Dating Culture” (Ep. 54)",
-     "date": "2026-09-21T09:00:00.000Z",
-     "duration": 2461,
-     "audio": "https://media.transistor.fm/4bc704f7/77064ab5.mp3",
-     "image": "https://img.transistorcdn.com/frJsR8xlcTGBQfypBd2gdGxJTP2CuFwbusWAxAp9VOE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xOWU5/ODRiNmI3ZTAwYTIz/NzZkMjE1NzhjYzU0/MTFjYS5wbmc.jpg",
-     "description": "Deepak, Haley and Garrett discuss things that go wrong in a dating church culture. Resources: Single and Lonely by Jayne Clark Struggling Through Your Singleness by Jayne Clark"
-    },
-    {
-     "id": "1737540431|f07f6af9-2a92-4d38-abce-42b41801499d",
-     "title": "On Dating Part 5: Interview with Marshall Segal (Ep. 53)",
-     "date": "2026-09-07T09:00:00.000Z",
-     "duration": 2214,
-     "audio": "https://media.transistor.fm/f7cb2cd9/1dbdbbe3.mp3",
-     "image": "",
-     "description": "Garrett, Deepak and Hayley interview Desiring God ministries President & CEO Marshall Segal on his book “Not Yet Married: The Pursuit of Joy in Singleness and Dating. Resources: Not Yet Married: The P"
-    },
-    {
-     "id": "1737540431|68aade99-c0ed-4a05-a840-6387a5a06f71",
-     "title": "On Dating Part 4: Assessment (13 Fs) (Ep. 52)",
-     "date": "2026-08-24T09:00:00.000Z",
-     "duration": 2285,
-     "audio": "https://media.transistor.fm/ecdc2c48/9791302a.mp3",
-     "image": "https://img.transistorcdn.com/dUf8lDuSAviHn4p78LsnCRIP1OzX0jdSlJ6gibHipO0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNmQ1/YWI3ZjdmNzdjMDQx/MTRjNDMxMGM2OTIz/MTJmMi5qcGc.jpg",
-     "description": "Deepak, Garrett and Hayley talk about 13 F's that help you to assess your dating relationship. Resources: 13 Fs Dating Assessment PDF Disclosing Past Sexual Sin in a Dating Relationship by Garrett Kel"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/73739242",
-     "title": "On Dating Part 3: Affection (Ep. 51)",
-     "date": "2026-08-10T09:05:36.000Z",
-     "duration": 2682,
-     "audio": "https://media.transistor.fm/e3cc07ed/aed6e744.mp3",
-     "image": "https://img.transistorcdn.com/Lc6jcZqCVcI-XPJhQNivM4G7Bu9yWEEJ5BfqXdAlV2E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWVi/YWUxNGY4MGM3OGJl/M2UxYTg2NjNlNTBk/OTFiNy5qcGc.jpg",
-     "description": "Deepak, Hayley and Deepak about about what the Bible says on physical and emotional intimacy."
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/73187409",
-     "title": "On Dating Part 2: Alignment (Ep. 50)",
-     "date": "2026-07-27T09:00:19.000Z",
-     "duration": 1982,
-     "audio": "https://media.transistor.fm/52296c83/a97674c4.mp3",
-     "image": "https://img.transistorcdn.com/qB-LOWoazTU3Ujwbv9OIcEiwZRphaCAPjLL9mxByfN0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMGVj/NTUwYTMwOWZmYzUy/OTI2NjczM2MxNjFk/ZWJiOC5qcGc.jpg",
-     "description": "Garrett, Deepak and Hayley talk about ALIGNMENT in dating. How do you move from an informal to a more formal relationship? Resources MentionedShe’s Got the Wrong Guy: Why Smart Women Settle by Deepak "
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/72944581",
-     "title": "On Dating Part 1: Appreciation and Attraction (Ep. 49)",
-     "date": "2026-07-13T09:00:19.000Z",
-     "duration": 2269,
-     "audio": "https://media.transistor.fm/d9b22dfd/1b7cb6e3.mp3",
-     "image": "https://img.transistorcdn.com/atGu7RfC5bKuIlLLGG5-kDRdjji7GzeZ0rQCiXbPWq4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMTA1/NGRlNzYxNDE4NWU2/NDVkNTk3ZDBlYmE5/OWQyYS5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak start season 4 with a conversation about dating, starting with the role of appreciation and attraction."
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/71663877",
-     "title": "On How to Use Homework Part 2 (Ep. 48)",
-     "date": "2026-04-27T09:00:22.000Z",
-     "duration": 2446,
-     "audio": "https://media.transistor.fm/70d1a15c/6bd34ff8.mp3",
-     "image": "https://img.transistorcdn.com/sp_13TW-_QXcJP2cFxm6xlH9Ajn92uOO6V49Hj_CGTw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZTdk/MGQyMjZjOTU1MjJj/YmY5YjIzNzNmMzVl/YThkOC5qcGc.jpg",
-     "description": "Deepak, Hayley and Garrett talk about using Scripture as homework. Resources Mentioned: 31-Day Devotionals for Life (Series) Workbooks and resources from Christian Counseling & Educational Foundation"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/71285032",
-     "title": "On How to Use Homework Part 1 (Ep. 47)",
-     "date": "2026-04-13T09:00:17.000Z",
-     "duration": 1781,
-     "audio": "https://media.transistor.fm/327fd07b/edfb5a55.mp3",
-     "image": "https://img.transistorcdn.com/7y_vXPO952GVTxvOPKYfPDxY7tUtpReMXGcNv22LYFw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZjUz/NTUwZjQ3MjgwNzM0/ZDEyOWMwN2Q2ZmI4/YmEzYS5qcGc.jpg",
-     "description": "Deepak, Hayley and Garrett talk about the importance of homework and how and when to assign it in counseling. Sounds boring but it’s more important than you might realize! Resources Mentioned Good and"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/70988211",
-     "title": "On Sexual Sin with Ellen Dykas (Ep. 46)",
-     "date": "2026-03-30T09:00:18.000Z",
-     "duration": 2500,
-     "audio": "https://media.transistor.fm/7e144050/75a4ff43.mp3",
-     "image": "https://img.transistorcdn.com/FEU0f1cP955OzU-JZFNxQopE9m9Uow36_lM1UPsmm58/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNmEy/MTVmNTlmOGU0Y2Jl/Y2ZiZDg5NmZlMmJk/YmUyOC5qcGc.jpg",
-     "description": "Garrett, Deepak and Hayley interview Ellen on a woman’s battle with sexual sin. Resources MentionedSexual Sanity for Women by Ellen Dykas Sex and the Single Girl by Ellen Dykas Your Dating Relationshi"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/70653381",
-     "title": "On Helping Singles Fight for Purity (Ep. 45)",
-     "date": "2026-03-16T09:00:20.000Z",
-     "duration": 2521,
-     "audio": "https://media.transistor.fm/09d356a4/9bc181c9.mp3",
-     "image": "https://img.transistorcdn.com/gbMbRfWB8sD-jj_NdL9N3wI7bXRcv45YvRQkPlQyooY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOTdh/ZDU1YTVjZWIxNGVm/MjYwNjFjNDgwYmY5/MDc5My5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak offer ten thoughts for singles on why and how to fight for purity. Resources Mentioned: Pure in Heart: Sexual Sin and the Promises of God by Garrett Kell Pornography: Fighti"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/70382702",
-     "title": "On Medications (Ep. 44)",
-     "date": "2026-03-02T10:00:21.000Z",
-     "duration": 2577,
-     "audio": "https://media.transistor.fm/0afe62ec/5e09f804.mp3",
-     "image": "https://img.transistorcdn.com/zhc8A0becLUO82CiuduDdzx4Wp0_Anknhin6rFta-Zs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOTJi/NDIxNTZmYmRkYzMx/ZjVjM2RkZGVhMDQ1/NmQyZi5qcGc.jpg",
-     "description": "Deepak, Hayley, and Garrett talk about the good and bad about medications and working with doctors. Resources MentionedDescriptions and Prescriptions by Michael Emlet Listening to Prozac…and to the Sc"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/70075889",
-     "title": "Ed Welch on Depression (Ep. 43)",
-     "date": "2026-02-16T10:00:18.000Z",
-     "duration": 2855,
-     "audio": "https://media.transistor.fm/a84e5146/c5ccf278.mp3",
-     "image": "https://img.transistorcdn.com/OoYXMmHsJduU3Af1SYk9ZfR-hxAlNQldeBte1rmiVis/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZWUy/ZTNjY2ViNTRhZTUx/NjhiOTRjZGNiYzli/YjMxZS5qcGc.jpg",
-     "description": "Deepak, Hayley and Garrett interview counselor and author Ed Welch about the experience of depression and how to minister to those who suffer from it."
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/69733859",
-     "title": "Depression Part 3 (Ep. 42)",
-     "date": "2026-02-02T10:00:18.000Z",
-     "duration": 2579,
-     "audio": "https://media.transistor.fm/ed7efcda/1da0a9f9.mp3",
-     "image": "https://img.transistorcdn.com/RfXvRBB60YTlqqfSC7ETFwUNKU0muAxGe5RpiU-S4pQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjY3/MDc5ZTBkZWJlYWY1/ODgwOGI1NjQ5Yjcy/ZDE2Mi5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak share how to care for a friend struggling with depression. Resources MentionedDepression: Finding Christ in the Darkness by Ed Welch (31-day Devotional) Depression: Looking "
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/69502099",
-     "title": "Depression Part 2 (Ep. 41)",
-     "date": "2026-01-19T10:00:20.000Z",
-     "duration": 2371,
-     "audio": "https://media.transistor.fm/9c103db8/05332572.mp3",
-     "image": "https://img.transistorcdn.com/Ea4x9RLpjj_0dZN8-jes4p6CIYDvZTZNZ9QDFUcdY8c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZTgw/ZTlhMDQ0ZjA2MDg3/NzkxZmFlZGZkODJk/MGE1MS5qcGc.jpg",
-     "description": "Hayley, Deepak and Garrett talk about depression and how to think about depression as complicated suffering. Resources Mentioned Depression: Finding Christ in the Darkness by Ed Welch (31-day Devotion"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/69305503",
-     "title": "On Depression Part 1 (Ep. 40)",
-     "date": "2026-01-05T12:37:30.000Z",
-     "duration": 2544,
-     "audio": "https://media.transistor.fm/3901892d/8463842e.mp3",
-     "image": "https://img.transistorcdn.com/W4Hl1CuecROWZSfFAoDtjnWSRuqg5BwkcWoX69M-kYY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDA2/ZmMwMjU4MDcxNDFk/YWZkZWRhYzIwZmI2/OWQyOS5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak talk about what the Bible says about depression. Warning label: This episode also talks about a depressed person’s battle with suicide. Resources Mentioned Depression: Findi"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/69163070",
-     "title": "On How to Apologize (Ep. 39)",
-     "date": "2025-12-22T10:00:18.000Z",
-     "duration": 1784,
-     "audio": "https://media.transistor.fm/a4c138b7/e1d945e7.mp3",
-     "image": "https://img.transistorcdn.com/LxtzNLZL3HNRYWPJEitRb0hb6FL1hAvfnoC9eG7iJzw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzU3/NmVjMGMxNjM1ODdh/MWQ5MjA3Zjc0NTJj/ODFlNi5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak talk about how to offer a good or bad apology and why we struggle to apologize. Resources Mentioned The Peacemaker by Ken Sande"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/68939880",
-     "title": "On Anger, with Chris Moles (Ep. 38)",
-     "date": "2025-12-08T10:00:19.000Z",
-     "duration": 2761,
-     "audio": "https://media.transistor.fm/30aa9ccf/bac6ba9e.mp3",
-     "image": "https://img.transistorcdn.com/VHA9MFL6DL_qlGMY4mE1BLjUAnYKGyH6PEzWSV2EHVU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjRh/ZmVmMzkxYmU5NzA1/M2Y2Nzg5M2RjYjI2/ZDYwOS5qcGc.jpg",
-     "description": "Garrett, Deepak and Hayley interview pastor and counselor Chris Moles, who says you can’t bully a bully. You change a person’s anger with kindness, compassion and forgiveness. Resources Mentioned Upro"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/68715182",
-     "title": "On Anger Part 3 (Ep. 37)",
-     "date": "2025-11-24T10:00:20.000Z",
-     "duration": 3190,
-     "audio": "https://media.transistor.fm/c631116e/f027a7ee.mp3",
-     "image": "https://img.transistorcdn.com/1nHK-8Mlfnc0SHOTrBOq6iLY_n65SSRDz2f6QF3QlgY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZDcx/OGFlZGM5ZTg1ZWNm/OWVkMTcxYzcwZTJk/N2Q0OC5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak explore redemptive strategies for dealing with anger problems and growing in faith in Christ. Books Mentioned Anger: Calming Your Heart (31-Day Devotional) by Robert D. Jone"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/68491487",
-     "title": "On Anger Part 2 (Ep. 36)",
-     "date": "2025-11-10T10:00:18.000Z",
-     "duration": 2274,
-     "audio": "https://media.transistor.fm/24aab4f3/a98c4c1a.mp3",
-     "image": "https://img.transistorcdn.com/3X7PVc6qmgbRNevBk-VQGNTVq5uFuVhuCEaFpaB5Fus/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjNl/ZjY1YTdkYjZlNDQ3/MGY5MzJlMjI0MzY2/YzRmYS5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak talk about how people change when they're wrestling with anger. What should we believe, say, think and do if we want to overcome our anger. Resources mentioned: The Heart of"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/68299604",
-     "title": "On Anger Part 1 (Ep. 35)",
-     "date": "2025-10-27T16:18:04.000Z",
-     "duration": 2835,
-     "audio": "https://media.transistor.fm/7a116b19/00aa1a68.mp3",
-     "image": "https://img.transistorcdn.com/f-rZbsJ0UyfeDO0lA59aXBpiWupTMu4WF_JccW5AxdU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZTdi/NDBlNDU0ZjZlMTk4/ZDVhMWZiZThmODQx/ZjIzYy5qcGc.jpg",
-     "description": "Garrett, Deepak and Hayley introduce the topic of anger and reflect on their own struggles and encounters with it. They explore the complexity of anger—how it can be both righteous and sinful, hot and"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/68113606",
-     "title": "On How To Become A Better Listener (Ep. 34)",
-     "date": "2025-10-13T09:00:19.000Z",
-     "duration": 2442,
-     "audio": "https://media.transistor.fm/1ff5f7ca/261061bb.mp3",
-     "image": "https://img.transistorcdn.com/tMdhigb8r2tfbdEDN3039PJOJmDxpAmhz2qdKUGP78Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NDky/MTE4N2EzYjg4NTdh/NjJiZWI5ZDNkMDA2/NDM3OC5qcGc.jpg",
-     "description": "Deepak, Garrett, and Hayley talk about the good and bad qualities of a listener and how to grow in your skill of listening."
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/67329566",
-     "title": "Interview With Abby Wedgeworth (Ep. 33)",
-     "date": "2025-08-11T12:06:01.000Z",
-     "duration": 2677,
-     "audio": "https://media.transistor.fm/6194533d/2ebdf03f.mp3",
-     "image": "https://img.transistorcdn.com/_UEPOii0ebJtT_cAhDhZ-2KaASxQym4V5lOsgu4mvT8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YWMz/ZTVhYWQzMDFkM2Ji/MDlkN2Q3NmJkZDdi/MTA1Zi5qcGc.jpg",
-     "description": "Hayley, Garrett and Deepak interview Abby Wedgeworth (author of best-selling book HELD) about how to care for women who have suffered from a miscarriage. Resources Mentioned: Held: 31 Biblical Reflect"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/67148691",
-     "title": "On Miscarriage and Infertility Part 2 (Ep. 32)",
-     "date": "2025-07-28T09:00:15.000Z",
-     "duration": 2511,
-     "audio": "https://media.transistor.fm/1f85274a/59be2913.mp3",
-     "image": "https://img.transistorcdn.com/I5vYzTCTLNGFqR07YaHs_MH1sYcrntLZqDAn7UAyMe0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMWMz/YjkwZGMxMTYxN2Yy/N2UzODViZDMxYzdh/MTc0MS5qcGc.jpg",
-     "description": "Hayley, Garrett and Deepak offer 5 Do's and 5 Don'ts in coming alongside those who have suffered with infertility or miscarriage."
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/66973381",
-     "title": "On Miscarriage and Infertility Part 1 (Ep. 31)",
-     "date": "2025-07-14T13:05:27.000Z",
-     "duration": 2239,
-     "audio": "https://media.transistor.fm/63c59617/823f72f8.mp3",
-     "image": "https://img.transistorcdn.com/HGNy_JBsv-3Q876oc7USfRZPDAilpFmqrapO_dXR4EE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wMTIz/MjNiYTVlNDExN2Vh/ZTg4Yjc5OGEyOTUy/YjAzMC5qcGc.jpg",
-     "description": "Hayley, Garrett and Deepak consider the painful experiences of infertility and miscarriage, and how the Lord walks with us in our grief."
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/66800995",
-     "title": "On What to Do When You're Stuck (Ep. 30)",
-     "date": "2025-06-30T09:00:18.000Z",
-     "duration": 2061,
-     "audio": "https://media.transistor.fm/c8a1ed91/156f6599.mp3",
-     "image": "https://img.transistorcdn.com/Hs41unHZnp5KJ9_ETNR8k-KgO4BJwH7vvuEMvRPedNo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZjli/NzI0YjY4ZGRmODJm/MjZkNTUwMzQ2Njky/Y2EwOC5qcGc.jpg",
-     "description": "What do you do when you're feeling stuck in counseling? How do you help someone when it feels like nothing is changing? Hayley, Deepak and Garrett offer eleven suggestions on how to get unstuck!"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/66571898",
-     "title": "On Relational Idolatry, with Ellen Dykas (Ep. 29)",
-     "date": "2025-06-16T09:00:17.000Z",
-     "duration": 2515,
-     "audio": "https://media.transistor.fm/7daf1c09/467d4d66.mp3",
-     "image": "https://img.transistorcdn.com/nzuUxVFZuPCh98wmUXdeznvWR8-fTPyz3lcK-t8x_JY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YjY0/MTY2MmZlNzQ4ODE0/MzE5YjcxZjNmNTgx/ZjVkNS5qcGc.jpg",
-     "description": "Hayley and Deepak talk with Ellen Dykas about the problems of relational idolatry. What can you do when you turn an important relationship into an idol? How can you find satisfaction in Christ rather "
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/66362847",
-     "title": "On Eating Disorders, with The Dunhams (Ep. 28)",
-     "date": "2025-06-02T09:00:15.000Z",
-     "duration": 2410,
-     "audio": "https://media.transistor.fm/586d9cc2/4a1655ce.mp3",
-     "image": "https://img.transistorcdn.com/ru9QAdd6Kqfsn4EnQrpTGW3gBt8RQw1LPecPJrQqFlw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Y2Nh/MWExN2NmMmJlNzdh/OWZkNWYwN2ZlZjkx/MWMwMC5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak interview the Dunhams about their journey through Krista’s eating disorder. Dave and Krista explain how she let go of control, sorted through all of the unhelpful things she"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/66145667",
-     "title": "On Eating Disorders Part 3 (Ep. 27)",
-     "date": "2025-05-19T09:00:12.000Z",
-     "duration": 2382,
-     "audio": "https://media.transistor.fm/d74ddda7/4f2e65cf.mp3",
-     "image": "https://img.transistorcdn.com/hss10nzMWbaIVN-BonUXC_0sCcIbglwR9EFwZBXDEh8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNWI2/ZWY1Y2FjN2NkNGQy/MmUwOThkM2U4NzQx/NWE4NS5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak explore 12 principles that people struggling with eating disorders should follow, like facing their shame, turning down the outside cultural influences, fighting against per"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/65913596",
-     "title": "On Eating Disorders Part 2 (Ep. 26)",
-     "date": "2025-05-05T09:00:14.000Z",
-     "duration": 1917,
-     "audio": "https://media.transistor.fm/8e91dc5e/2edb18c0.mp3",
-     "image": "https://img.transistorcdn.com/XYZ6yhM6ChSOr3bqhsQgOw14bniMKnfuUVylbxDwZiM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMWJk/NTYxYWI4MWQ3NDUz/OGZiODljYjdmYmFh/MTUwOS5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak think about how pastors can care for a member who confesses a battle with an eating disorder. What are the theological, medical and practical considerations? How does the go"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/65647476",
-     "title": "On Eating Disorders Part 1 (Ep. 25)",
-     "date": "2025-04-21T09:00:13.000Z",
-     "duration": 2107,
-     "audio": "https://media.transistor.fm/0a9b2042/f4fa05ca.mp3",
-     "image": "https://img.transistorcdn.com/IPqDxJz1cJp--oGWwaapCFary02mYDvFhs-Dt-vly3s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZjFh/NDQ2NjhhMjVlNTMx/ODgzZDQ2MGE3ZjJh/NjlmZi5qcGc.jpg",
-     "description": "Garrett, Hayley and Deepak think about what the Bible has to say about food and our relationship with food. Related resources:Helping Bulimics by Elyse Fitzpatrick Helping Anorexics by Elyse Fitzpatri"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/65385781",
-     "title": "On How to End Counseling Sessions (Ep. 24)",
-     "date": "2025-04-07T09:00:13.000Z",
-     "duration": 2050,
-     "audio": "https://media.transistor.fm/3270d8a7/ff80630b.mp3",
-     "image": "https://img.transistorcdn.com/7Its7qCQ84Ag2Qgr23Mrt-LTRLlZ5jXOCHVZ1Nd3jo4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YzE0/NmRjMDcxOTQ5YzZk/M2Q1YmUyOWM5NmRm/YjA0Mi5qcGc.jpg",
-     "description": "The decision to bring the counseling process to a close is sometimes clear, but often not. In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom talk about how to end counse"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/65064724",
-     "title": "On Adultery, with Michael Gembola (Ep. 23)",
-     "date": "2025-03-24T09:00:14.000Z",
-     "duration": 1917,
-     "audio": "https://media.transistor.fm/3153a14c/8a913f2c.mp3",
-     "image": "https://img.transistorcdn.com/1-Vyde3dwMj4zgsw4tgdAtArzGf4pGiQ2IZkQNjDi3c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjU5/NTQ3YzhjMzBlYmRm/MGM0Zjg1NGMyODU0/ZThmNy5qcGc.jpg",
-     "description": "In this episode of Counseling Talk, Deepak, Garrett, and Hayley interview Michael Gembola, the author of After an Affair. Related resources:After an Affair by Michael Gembola"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/64782696",
-     "title": "On Adultery Part 3 (Ep. 22)",
-     "date": "2025-03-10T09:00:12.000Z",
-     "duration": 3056,
-     "audio": "https://media.transistor.fm/bc43dff6/913af925.mp3",
-     "image": "https://img.transistorcdn.com/qnLLo2Cbc6pCijeu3a78qVQKdYzvRqlb1jebsAyqwVA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MzIy/MDQ2ODJmOTdmMDU2/NmE3MzYxNjE0NGU5/YzllNy5qcGc.jpg",
-     "description": "In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom finish their mini-series on adultery, talking about reconciliation after adultery. Related resources:My Spouse Was Unfa"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/64536789",
-     "title": "On Adultery Part 2 (Ep. 21)",
-     "date": "2025-02-24T10:00:13.000Z",
-     "duration": 2716,
-     "audio": "https://media.transistor.fm/cedec36a/24283fde.mp3",
-     "image": "https://img.transistorcdn.com/RlQTXeVkcPM6A3iyb1M6uKo3bA9EZ_QpMBRBvrwsyVg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lODQ0/NzEwOWJiMzc3YjEz/MWYzZDFlODZhYzk5/MTkyOC5qcGc.jpg",
-     "description": "What should counselors do when adultery comes to light? In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom continue their mini-series on adultery. Related resources:Resto"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/64303940",
-     "title": "On Adultery Part 1 (Ep. 20)",
-     "date": "2025-02-10T18:58:14.000Z",
-     "duration": 2561,
-     "audio": "https://media.transistor.fm/cfb9f2f6/ede73410.mp3",
-     "image": "https://img.transistorcdn.com/qbz37vryjQtaHhrxYJJ_J_KST3Pj9BQnpdkzOWlBw2Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYWIx/YjZjYTFiZTJhYzhh/Y2Q4NWFmN2Y0MjBi/ZTg1MS5qcGc.jpg",
-     "description": "In this episode of Counseling Talk, Garrett, Deepak, and Hayley begin a 3-part series on adultery and discuss what the Bible says about adultery. Related resources:Envision the End of Your Sin by Garr"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/63924801",
-     "title": "On How to Ask Questions (Ep. 19)",
-     "date": "2025-01-27T10:00:12.000Z",
-     "duration": 3090,
-     "audio": "https://media.transistor.fm/3d352746/669d041c.mp3",
-     "image": "https://img.transistorcdn.com/_BhUIqsMNu_OpmHKrb6QE1wiyfRBIFcFGmiZS_Ib3a8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZTg5/ZDM3YzY2YjlkZTZm/YTEwYTFiYTA5NTgx/NTk1ZC5qcGc.jpg",
-     "description": "Counseling Talk is back for season 2! In this episode, Garrett, Deepak, and Hayley discuss how to ask good questions in a counseling session. They share personal stories and practical examples that th"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/62783372",
-     "title": "On Fighting Anxiety, with John Henderson (Ep. 18)",
-     "date": "2024-11-18T11:00:08.000Z",
-     "duration": 3146,
-     "audio": "https://media.transistor.fm/5b91ab93/5dcc2081.mp3",
-     "image": "https://img.transistorcdn.com/vhRZxOhs5C6WNMR7rkGAIsge0KJ_7_8AhXJHEFbx6nw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTZh/ZjVkYTExMDA4YzAx/YjUzMzdlZDg3YmM3/Y2MyNC5qcGc.jpg",
-     "description": "In this final episode of Counseling Talk Season 1, Deepak Reju, Hayley Satrom, and Garrett Kell interview John Henderson on how to fight anxiety. Related resources:Running Scared by Ed Welch When I'm "
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/62601615",
-     "title": "On Common Mistakes (Ep. 17)",
-     "date": "2024-11-04T11:00:03.000Z",
-     "duration": 2484,
-     "audio": "https://media.transistor.fm/9acba021/20e2a3e2.mp3",
-     "image": "https://img.transistorcdn.com/_tsskMETdaggzj4Tq7z50BMNlHbmPSeMAAcWsodY6xg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMWZm/NjJmMjRiOTc5ZGNj/YWUwOTUwNjZlN2Rm/NzBlOS5qcGc.jpg",
-     "description": "In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom share common mistakes that counselors make and how to avoid them. Related resources:Is It Abuse? by Darby Strickland"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/62433258",
-     "title": "On Anxiety Part 3 (Ep. 16)",
-     "date": "2024-10-21T09:00:07.000Z",
-     "duration": 1649,
-     "audio": "https://media.transistor.fm/d1999ebf/8812dcc8.mp3",
-     "image": "https://img.transistorcdn.com/TZ836YGJN7QBT3SN32ElrjVvM8gYJkSHMTqdShVxoQA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ODZl/NzZmMmM1MTdmOGE4/NmJkYjAwNzdjOTgx/ZWY1Yy5qcGc.jpg",
-     "description": "How do we fight our anxiety and how we help others fight it? In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell finish the mini-series on anxiety. Related resources:Engag"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/62270614",
-     "title": "On Anxiety Part 2 (Ep.15)",
-     "date": "2024-10-07T14:07:46.000Z",
-     "duration": 1960,
-     "audio": "https://media.transistor.fm/1d521fce/c1cb22f6.mp3",
-     "image": "https://img.transistorcdn.com/T19HCgE_A-GVlMwBmwPEmpuataaoCn303iFQ2QuZsrU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Zjkw/MDNmZDAwMDkzNTJl/ZjczNDlhMjkyYTAw/OTk0Ny5qcGc.jpg",
-     "description": "What does the Bible say about anxiety? Listen to the second episode of a mini-series on anxiety as Deepak Reju, Hayley Satrom, and Garrett Kell discuss. Related Resource: Help, I don't know where my a"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/62077025",
-     "title": "On Anxiety Part 1 (Ep. 14)",
-     "date": "2024-09-23T13:10:35.000Z",
-     "duration": 2191,
-     "audio": "https://media.transistor.fm/6ad28b6a/20564a8c.mp3",
-     "image": "https://img.transistorcdn.com/iup3G7dWNyVZcN5DO9krLqbH1MhwOAuaKO8vuW1-yzU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZTcy/YzkwMjQ4MjUyZTE2/YjQwNTJiM2UxNzM5/M2NkNC5qcGc.jpg",
-     "description": "Anxiety is the spiritual x-ray that God uses to reveal who or what you worship. In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell start the first of three episodes on an"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/61309708",
-     "title": "On How to Work With Other Counselors (Ep. 13)",
-     "date": "2024-09-09T11:48:55.000Z",
-     "duration": 1882,
-     "audio": "https://media.transistor.fm/16f1a486/5d53bc05.mp3",
-     "image": "https://img.transistorcdn.com/RnTcFIDmFu3J0fDJb-y0_otrEW0LZFk46JlExSkuEME/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZWQ4/N2Y0ZDMxYjM5Yzhj/ZTk5ZDc0MjI2OTlk/NDhlMi5qcGc.jpg",
-     "description": "Related resources: https://www.heartsongcounseling.org/ C4 announcementC4 is a group of like-minded Christian counseling centers across the country that are joining together to foster a spirit of mutu"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/61157661",
-     "title": "On Shame, with Esther Liu (Ep. 12)",
-     "date": "2024-08-26T14:02:27.000Z",
-     "duration": 2786,
-     "audio": "https://media.transistor.fm/aa1d92e1/c03729ce.mp3",
-     "image": "https://img.transistorcdn.com/L0JuhiJoRzuA0pSPGmDB8thVejD7mBIvZRB0Lw8mQlc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYmNi/OGNlZjU2MWVkZWU0/MTQzZGQ3YWM3MTA4/YWIzMC5qcGc.jpg",
-     "description": "In this episode of Counseling Talk, Deepak, Hayley, and Garrett interview Esther Liu about shame and how pastors and counselors can view shame in the light of Scripture and the gospel. Related Resourc"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60999909",
-     "title": "On Pornography Part 3 (Ep. 11)",
-     "date": "2024-08-12T13:34:29.000Z",
-     "duration": 1891,
-     "audio": "https://media.transistor.fm/535abe9b/e858cb28.mp3",
-     "image": "https://img.transistorcdn.com/xIoSwu82uukXI2p7rUbgAX0LyEGQ_XF27A-M5j6oS0Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYmZk/Y2FiMDFhODJmMTFl/Y2U2Zjc1NGRjMzA4/ZjdkMC5qcGc.jpg",
-     "description": "Reconciliation after confessing a struggle of pornography can be difficult. In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell finish up a series on pornography as they l"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60847716",
-     "title": "On Pornography Part 2 (Ep. 10)",
-     "date": "2024-07-29T14:39:02.000Z",
-     "duration": 2292,
-     "audio": "https://media.transistor.fm/00ff5ed9/90e5fb51.mp3",
-     "image": "https://img.transistorcdn.com/OdiEQHMuQdaokPB4HSgpQjZEMSaT2jsV0DiZx32uL4E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjNi/Mzg4NGVhYmEyNTY5/Y2MwMWRiYzM0MTZl/ZmFlZi5qcGc.jpg",
-     "description": "What you retreat to for refreshment turns into love. For some Christians, that's pornography. In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell share some of the practic"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60692304",
-     "title": "On Pornography Part 1 (Ep. 9)",
-     "date": "2024-07-15T09:01:11.000Z",
-     "duration": 2471,
-     "audio": "https://media.transistor.fm/3bb83a5c/df4ab2f1.mp3",
-     "image": "https://img.transistorcdn.com/IFM_vMnD3uL_eElMh9VEcXhpkWPPV75RxyiZFowQYvs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zN2Fj/ZjczZDIxZDFhMDc4/NTFkNzExMDE5ZTZj/ODNlNC5qcGc.jpg",
-     "description": "In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell start a mini-series on pornography and how pastors and members can help one another fight the battle. Resources for Sho"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60562168",
-     "title": "On Wayward Children, with Stuart Scott (Ep.8)",
-     "date": "2024-07-01T09:00:08.000Z",
-     "duration": 2853,
-     "audio": "https://media.transistor.fm/4179ca0e/a4a4b43e.mp3",
-     "image": "https://img.transistorcdn.com/Wbj57C2WU-NkK6cB_YFfHi6gpM4YiPQ_R1SFvjcx9N0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Yjdh/YjFkYjQ3MTQ1NTk5/YjljMjhjZDcwMGVj/ZWIxZi5qcGc.jpg",
-     "description": "Seeing your children to come to faith should be every parent's desire. But what happens when they don't? In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell interview Stua"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60407507",
-     "title": "On Confidentiality (Ep. 7)",
-     "date": "2024-06-17T09:00:09.000Z",
-     "duration": 1734,
-     "audio": "https://media.transistor.fm/a93156e9/c7d73371.mp3",
-     "image": "https://img.transistorcdn.com/j-OG206QM05NApTECHQSdwqjBDmzsa6RAHDTLxHQb98/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYmIy/ZGI4NjFkNDJmMTYx/NjJmMmM1YTVjZWZi/MWQ2ZC5qcGc.jpg",
-     "description": "Christians expect strict confidentiality when speaking of their own sins. But is that good for them? In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell discuss how to she"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60262515",
-     "title": "Special Episode: The Kells' Story Part 2 (Ep. 6)",
-     "date": "2024-06-03T13:31:42.000Z",
-     "duration": 2784,
-     "audio": "https://media.transistor.fm/393b6aef/af8bf18a.mp3",
-     "image": "https://img.transistorcdn.com/8-1I8x3t8xV1kwYG6cmnt8AGUqcjbL6t3yHBvOtgvSY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNmY1/ODYxY2E4YWY2OWY0/M2U0MDQyNmRkOGYy/MTQ5ZC5qcGc.jpg",
-     "description": "When members of the church suffer it provides a unique opportunity to show tangible love. In this episode of Counseling Talk, Garrett Kell shares with Deepak Reju and Hayley Satrom practical ways of h"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/60097933",
-     "title": "Special Episode: The Kells' Story Part 1 (Ep. 5)",
-     "date": "2024-05-20T15:08:32.000Z",
-     "duration": 3333,
-     "audio": "https://media.transistor.fm/810ae066/9b916670.mp3",
-     "image": "https://img.transistorcdn.com/iZ6L3oyyV3QtgAc7Bd-OOxWMo71Kglw96ZWXrV1dxJs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OGEw/YTZjNGRmZjBjYmM3/MTMyZTJmZWNjY2Rl/Nzk1Mi5qcGc.jpg",
-     "description": "Pastors are not excluded from suffering. When trials come they uniquely become in need of their own pastoral care. In this episode of Counseling Talk, pastor Garrett Kell shares about trusting God ami"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/59865256",
-     "title": "On Suicide Part 3 (Ep. 4)",
-     "date": "2024-05-06T09:00:07.000Z",
-     "duration": 1467,
-     "audio": "https://media.transistor.fm/348abf67/3cee7dc4.mp3",
-     "image": "https://img.transistorcdn.com/VTVb1VexP_pX6a9Qkr9xQN4vDxguO7nvrryj4gujmzE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOGNl/ZmE0NDU1NTUzNDg2/MjU1NjU5MGUwOWMz/NjNlZi5qcGc.jpg",
-     "description": "How can Christians best assess the seriousness of someone's suicidal feelings? And how should we walk with those left behind after the suicide of a loved one? In this episode of Counseling Talk, Deepa"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/59578538",
-     "title": "On Suicide Part 2 (Ep. 3)",
-     "date": "2024-04-22T09:00:05.000Z",
-     "duration": 1920,
-     "audio": "https://media.transistor.fm/7a937abc/45a8c346.mp3",
-     "image": "https://img.transistorcdn.com/evhLrTErgwuKTJwbxlLs_maLRufQVcEDFlPJSnol0TY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85M2Y4/MTg4OTcxNTQ1MGQ5/ODIxYjdjN2YzMWQz/YmExMC5qcGc.jpg",
-     "description": "Helping someone with suicidal thoughts can be overwhelming. How should we develop a care plan for someone struggling with on-going suicidal thoughts? In this episode of Counseling Talk, Deepak, Garret"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/59339339",
-     "title": "On Suicide Part 1 (Ep. 2)",
-     "date": "2024-04-08T09:00:03.000Z",
-     "duration": 1915,
-     "audio": "https://media.transistor.fm/a07fef1d/7b220950.mp3",
-     "image": "https://img.transistorcdn.com/NC9xOkWABxlYfpRZscFM_cSS6FPPSOFYwHd_E1gnLso/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNmI4/YzlmNTNjNWE4MGFk/M2MwNjc0ZjE3ODNj/ZjVmNi5qcGc.jpg",
-     "description": "The temptation to suicide tricks us that death is better than life. So how should pastors and members help fellow believers who are struggling with suicidal temptations? In this episode, Deepak, Garre"
-    },
-    {
-     "id": "1737540431|https://api.spreaker.com/episode/59144291",
-     "title": "On Counseling Talk (Counseling Talk, Ep. 1)",
-     "date": "2024-03-23T01:34:08.000Z",
-     "duration": 2022,
-     "audio": "https://media.transistor.fm/8252ff48/88cb9323.mp3",
-     "image": "https://img.transistorcdn.com/9Z3QPCxIh4kVCy7EtnSj35ftGUUHFaF3WSUv3ZjketA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ODNh/NTNmNDA0NTI4ZjZi/MzRlZGZjNmExMWZk/NzA3NC5qcGc.jpg",
-     "description": "Counseling Talk is here! In this episode, Jonathan Leeman interviews the hosts—Deepak Reju, Hayley Satrom, and Garrett Kell—about the what and why of Counseling Talk."
-    }
-   ]
-  },
   {
    "id": "1205903016",
    "name": "Pastors Talk - A podcast by 9Marks",
@@ -530,6 +8,15 @@
    "image": "https://img.transistorcdn.com/QtCkAHO3FcQrJBfEYpSnsoWKnvPkxBVLYvs-IPg6-Gg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zOWZm/N2JhYmZmMzFjNWFh/ODUzMzE0ZTc5YjA5/MTUzMi5qcGc.jpg",
    "link": "https://www.9marks.org/podcast/pastors-talk/",
    "episodes": [
+    {
+     "id": "1205903016|39697550-b80f-4ca2-9d11-57f1fea63577",
+     "title": "On Thriving in Lifelong Ministry (Ep. 348)",
+     "date": "2026-11-03T10:00:00.000Z",
+     "duration": 2211,
+     "audio": "https://media.transistor.fm/5f72fde2/74b32c0a.mp3",
+     "image": "https://img.transistorcdn.com/7DQKxB4cNHgjAuCjJVuhpkwyW8VFfiq2ISYi-C25l3g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMzE5/YzE5NzE1MjhlNTU3/ZTU5YWE5YTg1ZDlm/OTEzYy5wbmc.jpg",
+     "description": "In this episode of Pastors Talk, Jonathan and Mark talk with Joel Beeke about his new book A Thriving and Lifelong Ministry: Cultivating Spiritual and Pastoral Vitality for the Long Haul. With pastors"
+    },
     {
      "id": "1205903016|8b18ed0a-d473-4d8d-b416-765b2be1f6e2",
      "title": "On a Radical Conversion with Mez McConnell (Ep. 347)",
@@ -3697,6 +3184,528 @@
      "audio": "https://media.transistor.fm/ea2c6e86/9afaafdc.mp3",
      "image": "https://img.transistorcdn.com/EjsM5eXN-ijfhK2brMCRvVQNB6K5J_W7wO8Uyi7oAx8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMDBl/ZDgwMzExOGIyOTdm/ZDE0N2IxZDU0NjU2/NjNiMS5qcGc.jpg",
      "description": "In the inaugural episode of our new podcast Pastors’ Talk, Jonathan Leeman sits down with Mark Dever to talk about seeing the gospel grow in your city, not just your church. SHOW NOTES: – What do you "
+    }
+   ]
+  },
+  {
+   "id": "1737540431",
+   "name": "Counseling Talk — A podcast by 9Marks",
+   "author": "9Marks",
+   "image": "https://img.transistorcdn.com/Qhzlsz_4HKkVwOumQx9qhUV9KGRLhrHQ5IpvClGbghc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTQy/MzQ0MTMzNmYyOGNh/NDkxMzFlNGM3OTk5/YTRjNi5qcGc.jpg",
+   "link": "https://www.9marks.org/podcast/counseling-talk/",
+   "episodes": [
+    {
+     "id": "1737540431|6fea90d7-cba9-4253-afae-d57818c8a20b",
+     "title": "On Pre-Marital Part 1: 8 Things that Pastors Need to Consider (Ep. 57)",
+     "date": "2026-11-02T10:00:00.000Z",
+     "duration": 2137,
+     "audio": "https://media.transistor.fm/2a5f46d1/005f659a.mp3",
+     "image": "https://img.transistorcdn.com/BGYnxA6cZC-ArFIIE7IuB-qxoouwXMe5CnwiwQgnsdI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTUy/NWUyMDBjZGJmODlj/OGRiZmUxZGYxNGFj/NDQ2Mi5wbmc.jpg",
+     "description": "Deepak, Hayley and Garrett discuss 8 things that every pastor and couple should consider with premarital counseling."
+    },
+    {
+     "id": "1737540431|7b4886dc-483b-4bbd-83c1-e70ff18d9b4c",
+     "title": "On Getting Engaged: 8 Myths About Engagement (Ep. 56)",
+     "date": "2026-10-19T09:00:00.000Z",
+     "duration": 2779,
+     "audio": "https://media.transistor.fm/846c7277/b284ce23.mp3",
+     "image": "https://img.transistorcdn.com/V7XZpOTGqeeE_abDqTR3i8p3TDHV1qnWlVqCK9ceDmQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMzU5/ZDhhMzNhZjZjYjlj/MDE5MDgzYzQ1ZDcw/Nzk4NS5wbmc.jpg",
+     "description": "Deepak, Hayley and Garrett discuss 8 myths about Engagement. Resources: Just Do Something by Kevin DeYoung Pre-Engagement: Five Questions to Ask Yourselves by David Powlison Preparing for Engagement b"
+    },
+    {
+     "id": "1737540431|7c0d4480-f644-49c9-b0a4-fc6a6a08c4ad",
+     "title": "On Dating Part 7: On Breaking Up for the Glory of God (Ep. 55)",
+     "date": "2026-10-05T09:00:00.000Z",
+     "duration": 1821,
+     "audio": "https://media.transistor.fm/0fd68681/7ff6c64f.mp3",
+     "image": "https://img.transistorcdn.com/tsxj__oV0ZC4cB29tSz6jRFDkW_5zrKp34MrTGt9yhM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xOTRh/MWI5NGFjZTIyZGEx/Mjc1YzdhOTI1OWZl/MWFkOS5wbmc.jpg",
+     "description": "Deepak Hayley and Garrett talk about what to do and what not to do when you break up. Resources: Who Should I Date? Relationship Advice in a Real World by William P. Smith Starting Over: How Not to Sc"
+    },
+    {
+     "id": "1737540431|4f8de4e8-a468-41b8-97e3-41d60abc4e9e",
+     "title": "On Dating Part 6: On Six “Things that Go Wrong in a Dating Culture” (Ep. 54)",
+     "date": "2026-09-21T09:00:00.000Z",
+     "duration": 2461,
+     "audio": "https://media.transistor.fm/4bc704f7/77064ab5.mp3",
+     "image": "https://img.transistorcdn.com/frJsR8xlcTGBQfypBd2gdGxJTP2CuFwbusWAxAp9VOE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xOWU5/ODRiNmI3ZTAwYTIz/NzZkMjE1NzhjYzU0/MTFjYS5wbmc.jpg",
+     "description": "Deepak, Haley and Garrett discuss things that go wrong in a dating church culture. Resources: Single and Lonely by Jayne Clark Struggling Through Your Singleness by Jayne Clark"
+    },
+    {
+     "id": "1737540431|f07f6af9-2a92-4d38-abce-42b41801499d",
+     "title": "On Dating Part 5: Interview with Marshall Segal (Ep. 53)",
+     "date": "2026-09-07T09:00:00.000Z",
+     "duration": 2214,
+     "audio": "https://media.transistor.fm/f7cb2cd9/1dbdbbe3.mp3",
+     "image": "",
+     "description": "Garrett, Deepak and Hayley interview Desiring God ministries President & CEO Marshall Segal on his book “Not Yet Married: The Pursuit of Joy in Singleness and Dating. Resources: Not Yet Married: The P"
+    },
+    {
+     "id": "1737540431|68aade99-c0ed-4a05-a840-6387a5a06f71",
+     "title": "On Dating Part 4: Assessment (13 Fs) (Ep. 52)",
+     "date": "2026-08-24T09:00:00.000Z",
+     "duration": 2285,
+     "audio": "https://media.transistor.fm/ecdc2c48/9791302a.mp3",
+     "image": "https://img.transistorcdn.com/dUf8lDuSAviHn4p78LsnCRIP1OzX0jdSlJ6gibHipO0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNmQ1/YWI3ZjdmNzdjMDQx/MTRjNDMxMGM2OTIz/MTJmMi5qcGc.jpg",
+     "description": "Deepak, Garrett and Hayley talk about 13 F's that help you to assess your dating relationship. Resources: 13 Fs Dating Assessment PDF Disclosing Past Sexual Sin in a Dating Relationship by Garrett Kel"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/73739242",
+     "title": "On Dating Part 3: Affection (Ep. 51)",
+     "date": "2026-08-10T09:05:36.000Z",
+     "duration": 2682,
+     "audio": "https://media.transistor.fm/e3cc07ed/aed6e744.mp3",
+     "image": "https://img.transistorcdn.com/Lc6jcZqCVcI-XPJhQNivM4G7Bu9yWEEJ5BfqXdAlV2E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWVi/YWUxNGY4MGM3OGJl/M2UxYTg2NjNlNTBk/OTFiNy5qcGc.jpg",
+     "description": "Deepak, Hayley and Deepak about about what the Bible says on physical and emotional intimacy."
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/73187409",
+     "title": "On Dating Part 2: Alignment (Ep. 50)",
+     "date": "2026-07-27T09:00:19.000Z",
+     "duration": 1982,
+     "audio": "https://media.transistor.fm/52296c83/a97674c4.mp3",
+     "image": "https://img.transistorcdn.com/qB-LOWoazTU3Ujwbv9OIcEiwZRphaCAPjLL9mxByfN0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMGVj/NTUwYTMwOWZmYzUy/OTI2NjczM2MxNjFk/ZWJiOC5qcGc.jpg",
+     "description": "Garrett, Deepak and Hayley talk about ALIGNMENT in dating. How do you move from an informal to a more formal relationship? Resources MentionedShe’s Got the Wrong Guy: Why Smart Women Settle by Deepak "
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/72944581",
+     "title": "On Dating Part 1: Appreciation and Attraction (Ep. 49)",
+     "date": "2026-07-13T09:00:19.000Z",
+     "duration": 2269,
+     "audio": "https://media.transistor.fm/d9b22dfd/1b7cb6e3.mp3",
+     "image": "https://img.transistorcdn.com/atGu7RfC5bKuIlLLGG5-kDRdjji7GzeZ0rQCiXbPWq4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMTA1/NGRlNzYxNDE4NWU2/NDVkNTk3ZDBlYmE5/OWQyYS5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak start season 4 with a conversation about dating, starting with the role of appreciation and attraction."
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/71663877",
+     "title": "On How to Use Homework Part 2 (Ep. 48)",
+     "date": "2026-04-27T09:00:22.000Z",
+     "duration": 2446,
+     "audio": "https://media.transistor.fm/70d1a15c/6bd34ff8.mp3",
+     "image": "https://img.transistorcdn.com/sp_13TW-_QXcJP2cFxm6xlH9Ajn92uOO6V49Hj_CGTw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZTdk/MGQyMjZjOTU1MjJj/YmY5YjIzNzNmMzVl/YThkOC5qcGc.jpg",
+     "description": "Deepak, Hayley and Garrett talk about using Scripture as homework. Resources Mentioned: 31-Day Devotionals for Life (Series) Workbooks and resources from Christian Counseling & Educational Foundation"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/71285032",
+     "title": "On How to Use Homework Part 1 (Ep. 47)",
+     "date": "2026-04-13T09:00:17.000Z",
+     "duration": 1781,
+     "audio": "https://media.transistor.fm/327fd07b/edfb5a55.mp3",
+     "image": "https://img.transistorcdn.com/7y_vXPO952GVTxvOPKYfPDxY7tUtpReMXGcNv22LYFw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZjUz/NTUwZjQ3MjgwNzM0/ZDEyOWMwN2Q2ZmI4/YmEzYS5qcGc.jpg",
+     "description": "Deepak, Hayley and Garrett talk about the importance of homework and how and when to assign it in counseling. Sounds boring but it’s more important than you might realize! Resources Mentioned Good and"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/70988211",
+     "title": "On Sexual Sin with Ellen Dykas (Ep. 46)",
+     "date": "2026-03-30T09:00:18.000Z",
+     "duration": 2500,
+     "audio": "https://media.transistor.fm/7e144050/75a4ff43.mp3",
+     "image": "https://img.transistorcdn.com/FEU0f1cP955OzU-JZFNxQopE9m9Uow36_lM1UPsmm58/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNmEy/MTVmNTlmOGU0Y2Jl/Y2ZiZDg5NmZlMmJk/YmUyOC5qcGc.jpg",
+     "description": "Garrett, Deepak and Hayley interview Ellen on a woman’s battle with sexual sin. Resources MentionedSexual Sanity for Women by Ellen Dykas Sex and the Single Girl by Ellen Dykas Your Dating Relationshi"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/70653381",
+     "title": "On Helping Singles Fight for Purity (Ep. 45)",
+     "date": "2026-03-16T09:00:20.000Z",
+     "duration": 2521,
+     "audio": "https://media.transistor.fm/09d356a4/9bc181c9.mp3",
+     "image": "https://img.transistorcdn.com/gbMbRfWB8sD-jj_NdL9N3wI7bXRcv45YvRQkPlQyooY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOTdh/ZDU1YTVjZWIxNGVm/MjYwNjFjNDgwYmY5/MDc5My5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak offer ten thoughts for singles on why and how to fight for purity. Resources Mentioned: Pure in Heart: Sexual Sin and the Promises of God by Garrett Kell Pornography: Fighti"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/70382702",
+     "title": "On Medications (Ep. 44)",
+     "date": "2026-03-02T10:00:21.000Z",
+     "duration": 2577,
+     "audio": "https://media.transistor.fm/0afe62ec/5e09f804.mp3",
+     "image": "https://img.transistorcdn.com/zhc8A0becLUO82CiuduDdzx4Wp0_Anknhin6rFta-Zs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOTJi/NDIxNTZmYmRkYzMx/ZjVjM2RkZGVhMDQ1/NmQyZi5qcGc.jpg",
+     "description": "Deepak, Hayley, and Garrett talk about the good and bad about medications and working with doctors. Resources MentionedDescriptions and Prescriptions by Michael Emlet Listening to Prozac…and to the Sc"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/70075889",
+     "title": "Ed Welch on Depression (Ep. 43)",
+     "date": "2026-02-16T10:00:18.000Z",
+     "duration": 2855,
+     "audio": "https://media.transistor.fm/a84e5146/c5ccf278.mp3",
+     "image": "https://img.transistorcdn.com/OoYXMmHsJduU3Af1SYk9ZfR-hxAlNQldeBte1rmiVis/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZWUy/ZTNjY2ViNTRhZTUx/NjhiOTRjZGNiYzli/YjMxZS5qcGc.jpg",
+     "description": "Deepak, Hayley and Garrett interview counselor and author Ed Welch about the experience of depression and how to minister to those who suffer from it."
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/69733859",
+     "title": "Depression Part 3 (Ep. 42)",
+     "date": "2026-02-02T10:00:18.000Z",
+     "duration": 2579,
+     "audio": "https://media.transistor.fm/ed7efcda/1da0a9f9.mp3",
+     "image": "https://img.transistorcdn.com/RfXvRBB60YTlqqfSC7ETFwUNKU0muAxGe5RpiU-S4pQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjY3/MDc5ZTBkZWJlYWY1/ODgwOGI1NjQ5Yjcy/ZDE2Mi5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak share how to care for a friend struggling with depression. Resources MentionedDepression: Finding Christ in the Darkness by Ed Welch (31-day Devotional) Depression: Looking "
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/69502099",
+     "title": "Depression Part 2 (Ep. 41)",
+     "date": "2026-01-19T10:00:20.000Z",
+     "duration": 2371,
+     "audio": "https://media.transistor.fm/9c103db8/05332572.mp3",
+     "image": "https://img.transistorcdn.com/Ea4x9RLpjj_0dZN8-jes4p6CIYDvZTZNZ9QDFUcdY8c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZTgw/ZTlhMDQ0ZjA2MDg3/NzkxZmFlZGZkODJk/MGE1MS5qcGc.jpg",
+     "description": "Hayley, Deepak and Garrett talk about depression and how to think about depression as complicated suffering. Resources Mentioned Depression: Finding Christ in the Darkness by Ed Welch (31-day Devotion"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/69305503",
+     "title": "On Depression Part 1 (Ep. 40)",
+     "date": "2026-01-05T12:37:30.000Z",
+     "duration": 2544,
+     "audio": "https://media.transistor.fm/3901892d/8463842e.mp3",
+     "image": "https://img.transistorcdn.com/W4Hl1CuecROWZSfFAoDtjnWSRuqg5BwkcWoX69M-kYY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDA2/ZmMwMjU4MDcxNDFk/YWZkZWRhYzIwZmI2/OWQyOS5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak talk about what the Bible says about depression. Warning label: This episode also talks about a depressed person’s battle with suicide. Resources Mentioned Depression: Findi"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/69163070",
+     "title": "On How to Apologize (Ep. 39)",
+     "date": "2025-12-22T10:00:18.000Z",
+     "duration": 1784,
+     "audio": "https://media.transistor.fm/a4c138b7/e1d945e7.mp3",
+     "image": "https://img.transistorcdn.com/LxtzNLZL3HNRYWPJEitRb0hb6FL1hAvfnoC9eG7iJzw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzU3/NmVjMGMxNjM1ODdh/MWQ5MjA3Zjc0NTJj/ODFlNi5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak talk about how to offer a good or bad apology and why we struggle to apologize. Resources Mentioned The Peacemaker by Ken Sande"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/68939880",
+     "title": "On Anger, with Chris Moles (Ep. 38)",
+     "date": "2025-12-08T10:00:19.000Z",
+     "duration": 2761,
+     "audio": "https://media.transistor.fm/30aa9ccf/bac6ba9e.mp3",
+     "image": "https://img.transistorcdn.com/VHA9MFL6DL_qlGMY4mE1BLjUAnYKGyH6PEzWSV2EHVU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjRh/ZmVmMzkxYmU5NzA1/M2Y2Nzg5M2RjYjI2/ZDYwOS5qcGc.jpg",
+     "description": "Garrett, Deepak and Hayley interview pastor and counselor Chris Moles, who says you can’t bully a bully. You change a person’s anger with kindness, compassion and forgiveness. Resources Mentioned Upro"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/68715182",
+     "title": "On Anger Part 3 (Ep. 37)",
+     "date": "2025-11-24T10:00:20.000Z",
+     "duration": 3190,
+     "audio": "https://media.transistor.fm/c631116e/f027a7ee.mp3",
+     "image": "https://img.transistorcdn.com/1nHK-8Mlfnc0SHOTrBOq6iLY_n65SSRDz2f6QF3QlgY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZDcx/OGFlZGM5ZTg1ZWNm/OWVkMTcxYzcwZTJk/N2Q0OC5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak explore redemptive strategies for dealing with anger problems and growing in faith in Christ. Books Mentioned Anger: Calming Your Heart (31-Day Devotional) by Robert D. Jone"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/68491487",
+     "title": "On Anger Part 2 (Ep. 36)",
+     "date": "2025-11-10T10:00:18.000Z",
+     "duration": 2274,
+     "audio": "https://media.transistor.fm/24aab4f3/a98c4c1a.mp3",
+     "image": "https://img.transistorcdn.com/3X7PVc6qmgbRNevBk-VQGNTVq5uFuVhuCEaFpaB5Fus/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjNl/ZjY1YTdkYjZlNDQ3/MGY5MzJlMjI0MzY2/YzRmYS5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak talk about how people change when they're wrestling with anger. What should we believe, say, think and do if we want to overcome our anger. Resources mentioned: The Heart of"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/68299604",
+     "title": "On Anger Part 1 (Ep. 35)",
+     "date": "2025-10-27T16:18:04.000Z",
+     "duration": 2835,
+     "audio": "https://media.transistor.fm/7a116b19/00aa1a68.mp3",
+     "image": "https://img.transistorcdn.com/f-rZbsJ0UyfeDO0lA59aXBpiWupTMu4WF_JccW5AxdU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZTdi/NDBlNDU0ZjZlMTk4/ZDVhMWZiZThmODQx/ZjIzYy5qcGc.jpg",
+     "description": "Garrett, Deepak and Hayley introduce the topic of anger and reflect on their own struggles and encounters with it. They explore the complexity of anger—how it can be both righteous and sinful, hot and"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/68113606",
+     "title": "On How To Become A Better Listener (Ep. 34)",
+     "date": "2025-10-13T09:00:19.000Z",
+     "duration": 2442,
+     "audio": "https://media.transistor.fm/1ff5f7ca/261061bb.mp3",
+     "image": "https://img.transistorcdn.com/tMdhigb8r2tfbdEDN3039PJOJmDxpAmhz2qdKUGP78Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NDky/MTE4N2EzYjg4NTdh/NjJiZWI5ZDNkMDA2/NDM3OC5qcGc.jpg",
+     "description": "Deepak, Garrett, and Hayley talk about the good and bad qualities of a listener and how to grow in your skill of listening."
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/67329566",
+     "title": "Interview With Abby Wedgeworth (Ep. 33)",
+     "date": "2025-08-11T12:06:01.000Z",
+     "duration": 2677,
+     "audio": "https://media.transistor.fm/6194533d/2ebdf03f.mp3",
+     "image": "https://img.transistorcdn.com/_UEPOii0ebJtT_cAhDhZ-2KaASxQym4V5lOsgu4mvT8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YWMz/ZTVhYWQzMDFkM2Ji/MDlkN2Q3NmJkZDdi/MTA1Zi5qcGc.jpg",
+     "description": "Hayley, Garrett and Deepak interview Abby Wedgeworth (author of best-selling book HELD) about how to care for women who have suffered from a miscarriage. Resources Mentioned: Held: 31 Biblical Reflect"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/67148691",
+     "title": "On Miscarriage and Infertility Part 2 (Ep. 32)",
+     "date": "2025-07-28T09:00:15.000Z",
+     "duration": 2511,
+     "audio": "https://media.transistor.fm/1f85274a/59be2913.mp3",
+     "image": "https://img.transistorcdn.com/I5vYzTCTLNGFqR07YaHs_MH1sYcrntLZqDAn7UAyMe0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMWMz/YjkwZGMxMTYxN2Yy/N2UzODViZDMxYzdh/MTc0MS5qcGc.jpg",
+     "description": "Hayley, Garrett and Deepak offer 5 Do's and 5 Don'ts in coming alongside those who have suffered with infertility or miscarriage."
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/66973381",
+     "title": "On Miscarriage and Infertility Part 1 (Ep. 31)",
+     "date": "2025-07-14T13:05:27.000Z",
+     "duration": 2239,
+     "audio": "https://media.transistor.fm/63c59617/823f72f8.mp3",
+     "image": "https://img.transistorcdn.com/HGNy_JBsv-3Q876oc7USfRZPDAilpFmqrapO_dXR4EE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wMTIz/MjNiYTVlNDExN2Vh/ZTg4Yjc5OGEyOTUy/YjAzMC5qcGc.jpg",
+     "description": "Hayley, Garrett and Deepak consider the painful experiences of infertility and miscarriage, and how the Lord walks with us in our grief."
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/66800995",
+     "title": "On What to Do When You're Stuck (Ep. 30)",
+     "date": "2025-06-30T09:00:18.000Z",
+     "duration": 2061,
+     "audio": "https://media.transistor.fm/c8a1ed91/156f6599.mp3",
+     "image": "https://img.transistorcdn.com/Hs41unHZnp5KJ9_ETNR8k-KgO4BJwH7vvuEMvRPedNo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZjli/NzI0YjY4ZGRmODJm/MjZkNTUwMzQ2Njky/Y2EwOC5qcGc.jpg",
+     "description": "What do you do when you're feeling stuck in counseling? How do you help someone when it feels like nothing is changing? Hayley, Deepak and Garrett offer eleven suggestions on how to get unstuck!"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/66571898",
+     "title": "On Relational Idolatry, with Ellen Dykas (Ep. 29)",
+     "date": "2025-06-16T09:00:17.000Z",
+     "duration": 2515,
+     "audio": "https://media.transistor.fm/7daf1c09/467d4d66.mp3",
+     "image": "https://img.transistorcdn.com/nzuUxVFZuPCh98wmUXdeznvWR8-fTPyz3lcK-t8x_JY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YjY0/MTY2MmZlNzQ4ODE0/MzE5YjcxZjNmNTgx/ZjVkNS5qcGc.jpg",
+     "description": "Hayley and Deepak talk with Ellen Dykas about the problems of relational idolatry. What can you do when you turn an important relationship into an idol? How can you find satisfaction in Christ rather "
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/66362847",
+     "title": "On Eating Disorders, with The Dunhams (Ep. 28)",
+     "date": "2025-06-02T09:00:15.000Z",
+     "duration": 2410,
+     "audio": "https://media.transistor.fm/586d9cc2/4a1655ce.mp3",
+     "image": "https://img.transistorcdn.com/ru9QAdd6Kqfsn4EnQrpTGW3gBt8RQw1LPecPJrQqFlw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Y2Nh/MWExN2NmMmJlNzdh/OWZkNWYwN2ZlZjkx/MWMwMC5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak interview the Dunhams about their journey through Krista’s eating disorder. Dave and Krista explain how she let go of control, sorted through all of the unhelpful things she"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/66145667",
+     "title": "On Eating Disorders Part 3 (Ep. 27)",
+     "date": "2025-05-19T09:00:12.000Z",
+     "duration": 2382,
+     "audio": "https://media.transistor.fm/d74ddda7/4f2e65cf.mp3",
+     "image": "https://img.transistorcdn.com/hss10nzMWbaIVN-BonUXC_0sCcIbglwR9EFwZBXDEh8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNWI2/ZWY1Y2FjN2NkNGQy/MmUwOThkM2U4NzQx/NWE4NS5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak explore 12 principles that people struggling with eating disorders should follow, like facing their shame, turning down the outside cultural influences, fighting against per"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/65913596",
+     "title": "On Eating Disorders Part 2 (Ep. 26)",
+     "date": "2025-05-05T09:00:14.000Z",
+     "duration": 1917,
+     "audio": "https://media.transistor.fm/8e91dc5e/2edb18c0.mp3",
+     "image": "https://img.transistorcdn.com/XYZ6yhM6ChSOr3bqhsQgOw14bniMKnfuUVylbxDwZiM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMWJk/NTYxYWI4MWQ3NDUz/OGZiODljYjdmYmFh/MTUwOS5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak think about how pastors can care for a member who confesses a battle with an eating disorder. What are the theological, medical and practical considerations? How does the go"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/65647476",
+     "title": "On Eating Disorders Part 1 (Ep. 25)",
+     "date": "2025-04-21T09:00:13.000Z",
+     "duration": 2107,
+     "audio": "https://media.transistor.fm/0a9b2042/f4fa05ca.mp3",
+     "image": "https://img.transistorcdn.com/IPqDxJz1cJp--oGWwaapCFary02mYDvFhs-Dt-vly3s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZjFh/NDQ2NjhhMjVlNTMx/ODgzZDQ2MGE3ZjJh/NjlmZi5qcGc.jpg",
+     "description": "Garrett, Hayley and Deepak think about what the Bible has to say about food and our relationship with food. Related resources:Helping Bulimics by Elyse Fitzpatrick Helping Anorexics by Elyse Fitzpatri"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/65385781",
+     "title": "On How to End Counseling Sessions (Ep. 24)",
+     "date": "2025-04-07T09:00:13.000Z",
+     "duration": 2050,
+     "audio": "https://media.transistor.fm/3270d8a7/ff80630b.mp3",
+     "image": "https://img.transistorcdn.com/7Its7qCQ84Ag2Qgr23Mrt-LTRLlZ5jXOCHVZ1Nd3jo4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YzE0/NmRjMDcxOTQ5YzZk/M2Q1YmUyOWM5NmRm/YjA0Mi5qcGc.jpg",
+     "description": "The decision to bring the counseling process to a close is sometimes clear, but often not. In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom talk about how to end counse"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/65064724",
+     "title": "On Adultery, with Michael Gembola (Ep. 23)",
+     "date": "2025-03-24T09:00:14.000Z",
+     "duration": 1917,
+     "audio": "https://media.transistor.fm/3153a14c/8a913f2c.mp3",
+     "image": "https://img.transistorcdn.com/1-Vyde3dwMj4zgsw4tgdAtArzGf4pGiQ2IZkQNjDi3c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjU5/NTQ3YzhjMzBlYmRm/MGM0Zjg1NGMyODU0/ZThmNy5qcGc.jpg",
+     "description": "In this episode of Counseling Talk, Deepak, Garrett, and Hayley interview Michael Gembola, the author of After an Affair. Related resources:After an Affair by Michael Gembola"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/64782696",
+     "title": "On Adultery Part 3 (Ep. 22)",
+     "date": "2025-03-10T09:00:12.000Z",
+     "duration": 3056,
+     "audio": "https://media.transistor.fm/bc43dff6/913af925.mp3",
+     "image": "https://img.transistorcdn.com/qnLLo2Cbc6pCijeu3a78qVQKdYzvRqlb1jebsAyqwVA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MzIy/MDQ2ODJmOTdmMDU2/NmE3MzYxNjE0NGU5/YzllNy5qcGc.jpg",
+     "description": "In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom finish their mini-series on adultery, talking about reconciliation after adultery. Related resources:My Spouse Was Unfa"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/64536789",
+     "title": "On Adultery Part 2 (Ep. 21)",
+     "date": "2025-02-24T10:00:13.000Z",
+     "duration": 2716,
+     "audio": "https://media.transistor.fm/cedec36a/24283fde.mp3",
+     "image": "https://img.transistorcdn.com/RlQTXeVkcPM6A3iyb1M6uKo3bA9EZ_QpMBRBvrwsyVg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lODQ0/NzEwOWJiMzc3YjEz/MWYzZDFlODZhYzk5/MTkyOC5qcGc.jpg",
+     "description": "What should counselors do when adultery comes to light? In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom continue their mini-series on adultery. Related resources:Resto"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/64303940",
+     "title": "On Adultery Part 1 (Ep. 20)",
+     "date": "2025-02-10T18:58:14.000Z",
+     "duration": 2561,
+     "audio": "https://media.transistor.fm/cfb9f2f6/ede73410.mp3",
+     "image": "https://img.transistorcdn.com/qbz37vryjQtaHhrxYJJ_J_KST3Pj9BQnpdkzOWlBw2Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYWIx/YjZjYTFiZTJhYzhh/Y2Q4NWFmN2Y0MjBi/ZTg1MS5qcGc.jpg",
+     "description": "In this episode of Counseling Talk, Garrett, Deepak, and Hayley begin a 3-part series on adultery and discuss what the Bible says about adultery. Related resources:Envision the End of Your Sin by Garr"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/63924801",
+     "title": "On How to Ask Questions (Ep. 19)",
+     "date": "2025-01-27T10:00:12.000Z",
+     "duration": 3090,
+     "audio": "https://media.transistor.fm/3d352746/669d041c.mp3",
+     "image": "https://img.transistorcdn.com/_BhUIqsMNu_OpmHKrb6QE1wiyfRBIFcFGmiZS_Ib3a8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZTg5/ZDM3YzY2YjlkZTZm/YTEwYTFiYTA5NTgx/NTk1ZC5qcGc.jpg",
+     "description": "Counseling Talk is back for season 2! In this episode, Garrett, Deepak, and Hayley discuss how to ask good questions in a counseling session. They share personal stories and practical examples that th"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/62783372",
+     "title": "On Fighting Anxiety, with John Henderson (Ep. 18)",
+     "date": "2024-11-18T11:00:08.000Z",
+     "duration": 3146,
+     "audio": "https://media.transistor.fm/5b91ab93/5dcc2081.mp3",
+     "image": "https://img.transistorcdn.com/vhRZxOhs5C6WNMR7rkGAIsge0KJ_7_8AhXJHEFbx6nw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTZh/ZjVkYTExMDA4YzAx/YjUzMzdlZDg3YmM3/Y2MyNC5qcGc.jpg",
+     "description": "In this final episode of Counseling Talk Season 1, Deepak Reju, Hayley Satrom, and Garrett Kell interview John Henderson on how to fight anxiety. Related resources:Running Scared by Ed Welch When I'm "
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/62601615",
+     "title": "On Common Mistakes (Ep. 17)",
+     "date": "2024-11-04T11:00:03.000Z",
+     "duration": 2484,
+     "audio": "https://media.transistor.fm/9acba021/20e2a3e2.mp3",
+     "image": "https://img.transistorcdn.com/_tsskMETdaggzj4Tq7z50BMNlHbmPSeMAAcWsodY6xg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMWZm/NjJmMjRiOTc5ZGNj/YWUwOTUwNjZlN2Rm/NzBlOS5qcGc.jpg",
+     "description": "In this episode of Counseling Talk, Deepak Reju, Garrett Kell, and Hayley Satrom share common mistakes that counselors make and how to avoid them. Related resources:Is It Abuse? by Darby Strickland"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/62433258",
+     "title": "On Anxiety Part 3 (Ep. 16)",
+     "date": "2024-10-21T09:00:07.000Z",
+     "duration": 1649,
+     "audio": "https://media.transistor.fm/d1999ebf/8812dcc8.mp3",
+     "image": "https://img.transistorcdn.com/TZ836YGJN7QBT3SN32ElrjVvM8gYJkSHMTqdShVxoQA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ODZl/NzZmMmM1MTdmOGE4/NmJkYjAwNzdjOTgx/ZWY1Yy5qcGc.jpg",
+     "description": "How do we fight our anxiety and how we help others fight it? In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell finish the mini-series on anxiety. Related resources:Engag"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/62270614",
+     "title": "On Anxiety Part 2 (Ep.15)",
+     "date": "2024-10-07T14:07:46.000Z",
+     "duration": 1960,
+     "audio": "https://media.transistor.fm/1d521fce/c1cb22f6.mp3",
+     "image": "https://img.transistorcdn.com/T19HCgE_A-GVlMwBmwPEmpuataaoCn303iFQ2QuZsrU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Zjkw/MDNmZDAwMDkzNTJl/ZjczNDlhMjkyYTAw/OTk0Ny5qcGc.jpg",
+     "description": "What does the Bible say about anxiety? Listen to the second episode of a mini-series on anxiety as Deepak Reju, Hayley Satrom, and Garrett Kell discuss. Related Resource: Help, I don't know where my a"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/62077025",
+     "title": "On Anxiety Part 1 (Ep. 14)",
+     "date": "2024-09-23T13:10:35.000Z",
+     "duration": 2191,
+     "audio": "https://media.transistor.fm/6ad28b6a/20564a8c.mp3",
+     "image": "https://img.transistorcdn.com/iup3G7dWNyVZcN5DO9krLqbH1MhwOAuaKO8vuW1-yzU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZTcy/YzkwMjQ4MjUyZTE2/YjQwNTJiM2UxNzM5/M2NkNC5qcGc.jpg",
+     "description": "Anxiety is the spiritual x-ray that God uses to reveal who or what you worship. In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell start the first of three episodes on an"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/61309708",
+     "title": "On How to Work With Other Counselors (Ep. 13)",
+     "date": "2024-09-09T11:48:55.000Z",
+     "duration": 1882,
+     "audio": "https://media.transistor.fm/16f1a486/5d53bc05.mp3",
+     "image": "https://img.transistorcdn.com/RnTcFIDmFu3J0fDJb-y0_otrEW0LZFk46JlExSkuEME/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZWQ4/N2Y0ZDMxYjM5Yzhj/ZTk5ZDc0MjI2OTlk/NDhlMi5qcGc.jpg",
+     "description": "Related resources: https://www.heartsongcounseling.org/ C4 announcementC4 is a group of like-minded Christian counseling centers across the country that are joining together to foster a spirit of mutu"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/61157661",
+     "title": "On Shame, with Esther Liu (Ep. 12)",
+     "date": "2024-08-26T14:02:27.000Z",
+     "duration": 2786,
+     "audio": "https://media.transistor.fm/aa1d92e1/c03729ce.mp3",
+     "image": "https://img.transistorcdn.com/L0JuhiJoRzuA0pSPGmDB8thVejD7mBIvZRB0Lw8mQlc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYmNi/OGNlZjU2MWVkZWU0/MTQzZGQ3YWM3MTA4/YWIzMC5qcGc.jpg",
+     "description": "In this episode of Counseling Talk, Deepak, Hayley, and Garrett interview Esther Liu about shame and how pastors and counselors can view shame in the light of Scripture and the gospel. Related Resourc"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60999909",
+     "title": "On Pornography Part 3 (Ep. 11)",
+     "date": "2024-08-12T13:34:29.000Z",
+     "duration": 1891,
+     "audio": "https://media.transistor.fm/535abe9b/e858cb28.mp3",
+     "image": "https://img.transistorcdn.com/xIoSwu82uukXI2p7rUbgAX0LyEGQ_XF27A-M5j6oS0Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYmZk/Y2FiMDFhODJmMTFl/Y2U2Zjc1NGRjMzA4/ZjdkMC5qcGc.jpg",
+     "description": "Reconciliation after confessing a struggle of pornography can be difficult. In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell finish up a series on pornography as they l"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60847716",
+     "title": "On Pornography Part 2 (Ep. 10)",
+     "date": "2024-07-29T14:39:02.000Z",
+     "duration": 2292,
+     "audio": "https://media.transistor.fm/00ff5ed9/90e5fb51.mp3",
+     "image": "https://img.transistorcdn.com/OdiEQHMuQdaokPB4HSgpQjZEMSaT2jsV0DiZx32uL4E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjNi/Mzg4NGVhYmEyNTY5/Y2MwMWRiYzM0MTZl/ZmFlZi5qcGc.jpg",
+     "description": "What you retreat to for refreshment turns into love. For some Christians, that's pornography. In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell share some of the practic"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60692304",
+     "title": "On Pornography Part 1 (Ep. 9)",
+     "date": "2024-07-15T09:01:11.000Z",
+     "duration": 2471,
+     "audio": "https://media.transistor.fm/3bb83a5c/df4ab2f1.mp3",
+     "image": "https://img.transistorcdn.com/IFM_vMnD3uL_eElMh9VEcXhpkWPPV75RxyiZFowQYvs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zN2Fj/ZjczZDIxZDFhMDc4/NTFkNzExMDE5ZTZj/ODNlNC5qcGc.jpg",
+     "description": "In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell start a mini-series on pornography and how pastors and members can help one another fight the battle. Resources for Sho"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60562168",
+     "title": "On Wayward Children, with Stuart Scott (Ep.8)",
+     "date": "2024-07-01T09:00:08.000Z",
+     "duration": 2853,
+     "audio": "https://media.transistor.fm/4179ca0e/a4a4b43e.mp3",
+     "image": "https://img.transistorcdn.com/Wbj57C2WU-NkK6cB_YFfHi6gpM4YiPQ_R1SFvjcx9N0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Yjdh/YjFkYjQ3MTQ1NTk5/YjljMjhjZDcwMGVj/ZWIxZi5qcGc.jpg",
+     "description": "Seeing your children to come to faith should be every parent's desire. But what happens when they don't? In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell interview Stua"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60407507",
+     "title": "On Confidentiality (Ep. 7)",
+     "date": "2024-06-17T09:00:09.000Z",
+     "duration": 1734,
+     "audio": "https://media.transistor.fm/a93156e9/c7d73371.mp3",
+     "image": "https://img.transistorcdn.com/j-OG206QM05NApTECHQSdwqjBDmzsa6RAHDTLxHQb98/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYmIy/ZGI4NjFkNDJmMTYx/NjJmMmM1YTVjZWZi/MWQ2ZC5qcGc.jpg",
+     "description": "Christians expect strict confidentiality when speaking of their own sins. But is that good for them? In this episode of Counseling Talk, Deepak Reju, Hayley Satrom, and Garrett Kell discuss how to she"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60262515",
+     "title": "Special Episode: The Kells' Story Part 2 (Ep. 6)",
+     "date": "2024-06-03T13:31:42.000Z",
+     "duration": 2784,
+     "audio": "https://media.transistor.fm/393b6aef/af8bf18a.mp3",
+     "image": "https://img.transistorcdn.com/8-1I8x3t8xV1kwYG6cmnt8AGUqcjbL6t3yHBvOtgvSY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNmY1/ODYxY2E4YWY2OWY0/M2U0MDQyNmRkOGYy/MTQ5ZC5qcGc.jpg",
+     "description": "When members of the church suffer it provides a unique opportunity to show tangible love. In this episode of Counseling Talk, Garrett Kell shares with Deepak Reju and Hayley Satrom practical ways of h"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/60097933",
+     "title": "Special Episode: The Kells' Story Part 1 (Ep. 5)",
+     "date": "2024-05-20T15:08:32.000Z",
+     "duration": 3333,
+     "audio": "https://media.transistor.fm/810ae066/9b916670.mp3",
+     "image": "https://img.transistorcdn.com/iZ6L3oyyV3QtgAc7Bd-OOxWMo71Kglw96ZWXrV1dxJs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OGEw/YTZjNGRmZjBjYmM3/MTMyZTJmZWNjY2Rl/Nzk1Mi5qcGc.jpg",
+     "description": "Pastors are not excluded from suffering. When trials come they uniquely become in need of their own pastoral care. In this episode of Counseling Talk, pastor Garrett Kell shares about trusting God ami"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/59865256",
+     "title": "On Suicide Part 3 (Ep. 4)",
+     "date": "2024-05-06T09:00:07.000Z",
+     "duration": 1467,
+     "audio": "https://media.transistor.fm/348abf67/3cee7dc4.mp3",
+     "image": "https://img.transistorcdn.com/VTVb1VexP_pX6a9Qkr9xQN4vDxguO7nvrryj4gujmzE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOGNl/ZmE0NDU1NTUzNDg2/MjU1NjU5MGUwOWMz/NjNlZi5qcGc.jpg",
+     "description": "How can Christians best assess the seriousness of someone's suicidal feelings? And how should we walk with those left behind after the suicide of a loved one? In this episode of Counseling Talk, Deepa"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/59578538",
+     "title": "On Suicide Part 2 (Ep. 3)",
+     "date": "2024-04-22T09:00:05.000Z",
+     "duration": 1920,
+     "audio": "https://media.transistor.fm/7a937abc/45a8c346.mp3",
+     "image": "https://img.transistorcdn.com/evhLrTErgwuKTJwbxlLs_maLRufQVcEDFlPJSnol0TY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85M2Y4/MTg4OTcxNTQ1MGQ5/ODIxYjdjN2YzMWQz/YmExMC5qcGc.jpg",
+     "description": "Helping someone with suicidal thoughts can be overwhelming. How should we develop a care plan for someone struggling with on-going suicidal thoughts? In this episode of Counseling Talk, Deepak, Garret"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/59339339",
+     "title": "On Suicide Part 1 (Ep. 2)",
+     "date": "2024-04-08T09:00:03.000Z",
+     "duration": 1915,
+     "audio": "https://media.transistor.fm/a07fef1d/7b220950.mp3",
+     "image": "https://img.transistorcdn.com/NC9xOkWABxlYfpRZscFM_cSS6FPPSOFYwHd_E1gnLso/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNmI4/YzlmNTNjNWE4MGFk/M2MwNjc0ZjE3ODNj/ZjVmNi5qcGc.jpg",
+     "description": "The temptation to suicide tricks us that death is better than life. So how should pastors and members help fellow believers who are struggling with suicidal temptations? In this episode, Deepak, Garre"
+    },
+    {
+     "id": "1737540431|https://api.spreaker.com/episode/59144291",
+     "title": "On Counseling Talk (Counseling Talk, Ep. 1)",
+     "date": "2024-03-23T01:34:08.000Z",
+     "duration": 2022,
+     "audio": "https://media.transistor.fm/8252ff48/88cb9323.mp3",
+     "image": "https://img.transistorcdn.com/9Z3QPCxIh4kVCy7EtnSj35ftGUUHFaF3WSUv3ZjketA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ODNh/NTNmNDA0NTI4ZjZi/MzRlZGZjNmExMWZk/NzA3NC5qcGc.jpg",
+     "description": "Counseling Talk is here! In this episode, Jonathan Leeman interviews the hosts—Deepak Reju, Hayley Satrom, and Garrett Kell—about the what and why of Counseling Talk."
     }
    ]
   },
