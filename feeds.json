@@ -1,6 +1,708 @@
 {
- "updated": "2026-11-04T10:11:53.009Z",
+ "updated": "2026-11-05T10:13:10.070Z",
  "shows": [
+  {
+   "id": "1647567459",
+   "name": "Missions Talk — A podcast by 9Marks and Reaching & Teaching International Ministries",
+   "author": "9Marks",
+   "image": "https://img.transistorcdn.com/axUZ_CwIm2h8_rchZYEKI_JdKIeFfq5J7M3iRrMOU8Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZDdm/OTVjMmYyODIxZGIy/NGJkNTM5ZWMwZjg4/YTkxOS5qcGc.jpg",
+   "link": "https://www.9marks.org/podcast/missions-talk/",
+   "episodes": [
+    {
+     "id": "1647567459|aebd779b-02f5-48ec-9c59-0c3a18b365a3",
+     "title": "On A Church-Centered Approach to Member Care | An Agency’s Perspective (Ep. 77)",
+     "date": "2026-11-05T10:00:00.000Z",
+     "duration": 2710,
+     "audio": "https://media.transistor.fm/fe404eef/85ac3761.mp3",
+     "image": "https://img.transistorcdn.com/mePIJ-Jcg3slEWYmTLDC5KlXlq3WWeygPModfuYlxaU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNjA3/YWVhZjcyZDcwYmY5/MTI0M2Q3YzY2NTcw/MzgxZS5wbmc.jpg",
+     "description": "What does it look like for churches and mission agencies to work together to care well for missionaries? In this episode of Missions Talk, Ryan Robertson, Mack Stiles, and Tim Hamer discuss a church-c"
+    },
+    {
+     "id": "1647567459|12140bfc-c9f1-4058-ac8a-6381acb689c9",
+     "title": "On Evangelizing Hindus (Ep. 76)",
+     "date": "2026-10-22T09:00:00.000Z",
+     "duration": 2859,
+     "audio": "https://media.transistor.fm/edd29d9b/5879a11f.mp3",
+     "image": "https://img.transistorcdn.com/Se9na_pFhWmTNep1Q8yuM9ppaVQcxwrfRyDJ1_GfgKg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTYy/NTdlMzIwYmFkNTU2/MjM5NDQ4YTFlMWM2/ODJmMS5wbmc.jpg",
+     "description": "How do you share the gospel with a Hindu neighbor? In this episode, Ryan Robertson, Kyle Brousseau, and J.P. Stokes discuss Hindu beliefs, common misconceptions, and practical ways Christians can fait"
+    },
+    {
+     "id": "1647567459|f0d43320-157a-448c-9664-f68252a745cc",
+     "title": "On Translation to Indigenous Publishing (Ep. 75)",
+     "date": "2026-10-08T09:00:00.000Z",
+     "duration": 2883,
+     "audio": "https://media.transistor.fm/52d77fff/2fbb2cb0.mp3",
+     "image": "https://img.transistorcdn.com/l1AE9JttxMnh70JSonYnVCtqv_GvKsIWMyDWuy8_9Sk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTM5/MGViN2E1ZjFlNGU1/N2YzZjRjNTUxZTAz/MDE1OC5wbmc.jpg",
+     "description": "How does faithful publishing strengthen global missions? In this episode, we explore how translation, indigenous authorship, and theological resources help build healthy churches around the world. Gue"
+    },
+    {
+     "id": "1647567459|2518a18e-0487-4cc8-b62e-4401d35f1899",
+     "title": "On Evangelizing Muslims (Ep. 74)",
+     "date": "2026-09-24T09:00:00.000Z",
+     "duration": 2558,
+     "audio": "https://media.transistor.fm/c7ca9bbd/135da665.mp3",
+     "image": "https://img.transistorcdn.com/AjKlX4_LBDvUUwGQl1Bb-xR_RfxlYH5h3NoONyuPrKU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODRh/NDI3YTJhODMzZjNk/YzBmMjcxNGZiZGM2/NGEyZi5wbmc.jpg",
+     "description": "How should Christians think about evangelism among Muslims? This episode explores faithful gospel witness, contextualization, discipleship, and the hope of Christ in hard places."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/72682597",
+     "title": "On The Path To Being A Missionary (Ep. 73)",
+     "date": "2026-06-25T09:00:19.000Z",
+     "duration": 3126,
+     "audio": "https://media.transistor.fm/d941b17d/1d8b6ceb.mp3",
+     "image": "https://img.transistorcdn.com/Z_i0rUNQfxQatFt4XCh44P7m7k9x857UcO2Ff0UiYW4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ODQy/MjdkNTM2ZmI3ZDA3/YjJjZGI0MmE3YmMz/OWM3Yi5qcGc.jpg",
+     "description": "A new generation of missionaries doesn’t appear overnight. Ryan Robertson and Matt Bennett discuss their new book, The Path to Being a Missionary, and unpack how churches can identify, assess, prepare"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/72471215",
+     "title": "On John Paton (Ep. 72)",
+     "date": "2026-06-11T09:00:22.000Z",
+     "duration": 2833,
+     "audio": "https://media.transistor.fm/02c2d123/c4150e47.mp3",
+     "image": "https://img.transistorcdn.com/_qN3u9emAO4OzeFT9kkQ0ZuZAy3Ph3ED5Ggfw0gXRk0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZmM1/YzZkM2ExNmZmY2Mx/Mzk1NmQ4OWFiZTJj/YmUxOS5qcGc.jpg",
+     "description": "Who was John Paton, and why is he considered one of the greatest missionaries in church history? In this episode, Paul Schlehlein explores Paton’s life, theology, suffering, and enduring legacy as a m"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/72198677",
+     "title": "On Culture & Language Acquisition in Tokyo (Ep. 71)",
+     "date": "2026-05-28T09:00:20.000Z",
+     "duration": 2750,
+     "audio": "https://media.transistor.fm/fc31f712/6d928648.mp3",
+     "image": "https://img.transistorcdn.com/Cazf--XtiKrm-EFjULdEcthOKqYqUKrklB-LDHqtgLU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82OTlm/ZWUwNzhiZGIwOGUy/NWQyMzNjNTkzZTZk/MzJjMi5qcGc.jpg",
+     "description": "What does it actually take for missionaries to learn a new language and culture? In this episode, missionaries serving in Japan share the challenges, lessons, and practical realities of language acqui"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/72000065",
+     "title": "On Global Cities Partnership (Ep. 70)",
+     "date": "2026-05-14T09:00:21.000Z",
+     "duration": 2344,
+     "audio": "https://media.transistor.fm/1cc6965d/62b84601.mp3",
+     "image": "https://img.transistorcdn.com/vXQjn55G5RbnlvGQXo5MTYHFdGc4EQl0Y-Uo1WTOXZk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MjUx/ZTVmZGJkZWIxZGQz/ODhjMTBjZTE4Yjlj/Y2UyMi5qcGc.jpg",
+     "description": "What is the Global Cities Partnership, and why does it matter for missions today? In this episode, we explore the vision behind this strategic effort to strengthen healthy churches and gospel infrastr"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/71767231",
+     "title": "On Risk Assessment in the Mission Field (Ep. 69)",
+     "date": "2026-04-30T09:00:20.000Z",
+     "duration": 2869,
+     "audio": "https://media.transistor.fm/c02e3f4e/55845206.mp3",
+     "image": "https://img.transistorcdn.com/WxVsShKSSTrlUfE-aeGa7oW2UyumrIPufN3NembP1nc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Yjgw/ODQ5MjFiMDE2ZWNm/NWNmYjJiZDA1MTY3/YjM0Yi5qcGc.jpg",
+     "description": "How should missionaries, churches, and sending agencies think about danger on the mission field? In this episode, Caleb Greggsen joins the conversation to explore risk, suffering, resurrection hope, a"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/71357096",
+     "title": "On Preparing & Planning for Tokyo (Ep. 68)",
+     "date": "2026-04-16T09:00:18.000Z",
+     "duration": 3236,
+     "audio": "https://media.transistor.fm/ed81bbfe/be838a8d.mp3",
+     "image": "https://img.transistorcdn.com/J0QTrboFaPj6Ehyg72g7FuO_tnX81jnD2M1nZJxdauc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTg4/MWE4ZDAyNDczNzc0/YjlhOWRmZmZkYWFj/ZDQ1MC5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson talks with David King, David Rainer, and Mindy Rainer about God’s providential leading of Concord Baptist Church to send the Rainers to Tokyo to plant "
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/71054880",
+     "title": "On Reading The Bible Evangelistically (Ep. 67)",
+     "date": "2026-04-02T09:00:19.000Z",
+     "duration": 2717,
+     "audio": "https://media.transistor.fm/194bba93/86deee88.mp3",
+     "image": "https://img.transistorcdn.com/1xaOqepknQggy1L5LXt5MU7237b3Ywt1B0oeJEqYUhk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjMx/YTZiNTBjMjkxM2Fm/ZTVmYzA2M2JhNTI3/YzY4My5qcGc.jpg",
+     "description": "This episode with Isaac Stiles & Ethan English explores how evangelistic Bible studies can be a powerful, church-centered tool for reaching unbelievers, especially on college campuses. Resources Menti"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/70730963",
+     "title": "On The Great Commission Congress (Ep. 66)",
+     "date": "2026-03-19T09:00:17.000Z",
+     "duration": 2390,
+     "audio": "https://media.transistor.fm/e4877217/79fbd236.mp3",
+     "image": "https://img.transistorcdn.com/CC87hPgG08JXd9lexCY5WXETUiECW-r4AX79LFEFO88/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ZTE3/YzYzMzJmMjcwZGVk/MTJhNDIwZmM1NGY5/MzY4Ny5qcGc.jpg",
+     "description": "Ryan Robertson, Mack Stiles, Josh Manley, and Danny Davison discuss the vision behind the Great Commission Council and the upcoming Great Commission Congress, highlighting a shared call for theologica"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/70471948",
+     "title": "On Elenctics (Ep. 65)",
+     "date": "2026-03-05T10:00:27.000Z",
+     "duration": 3174,
+     "audio": "https://media.transistor.fm/c462b71f/2c9b31bf.mp3",
+     "image": "https://img.transistorcdn.com/zbMkBNy5g5_vvftxJYNDvPU20HA9MGBwH6UYLeJ6UhY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZWM5/MWU5N2QyYTA2ZjE0/NmFmN2E0OTQ3ZmRl/MGJhMC5qcGc.jpg",
+     "description": "Mack and Ryan discuss elenctics and its missiological importance in this discussion with Daniel Strange and Ben Robin, highlighting the work of J.H. Bavinck."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/70143286",
+     "title": "On Prioritizing the Church in Missions (Ep. 64)",
+     "date": "2026-02-19T10:00:18.000Z",
+     "duration": 2660,
+     "audio": "https://media.transistor.fm/91f97da2/9ac0414a.mp3",
+     "image": "https://img.transistorcdn.com/dckWYs6Jz4RIfdvu5CLQXdtRNzkmz65l61vbN6XaZ50/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85OTI3/ZGQ5NTliZWVmZjFm/M2ZlZTY5YzVjYTkx/NTk2ZC5qcGc.jpg",
+     "description": "Join Ryan Robertson, Mack Stiles, John Folmar, and Scott Logsdon as they explore the importance of prioritizing the church in missions, highlighting how a strong ecclesiological foundation can transfo"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/69765320",
+     "title": "On Ministry in Kuala Lumpur (Ep. 63)",
+     "date": "2026-02-05T10:00:16.000Z",
+     "duration": 1652,
+     "audio": "https://media.transistor.fm/73fadd57/d72c7188.mp3",
+     "image": "https://img.transistorcdn.com/scBW9OFYttsFhCs5qk7x6Km5sP6ppdC9E_sbMPpHc7w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNjA5/ZDUzMGQ4ZjExMDZj/ZTkzYWY4ZDNlOTNk/NTZlNi5qcGc.jpg",
+     "description": "Ryan talks with missionaries about life and ministry in KL. Resources Mentioned The Joshua Project - Unreached People Groups"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/69545606",
+     "title": "On Hermeneutics & Missions (Ep. 62)",
+     "date": "2026-01-22T12:52:35.000Z",
+     "duration": 3537,
+     "audio": "https://media.transistor.fm/519143b0/55aed97a.mp3",
+     "image": "https://img.transistorcdn.com/9GbLlDK9XhmhoZGlJ9hIGyqACpLxIqc-1rmgqfFyuC4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MjIz/ZWUzYjkyZDgxNDhm/YjEwZWUwYTEzM2Zl/N2UxNi5qcGc.jpg",
+     "description": "Join Ryan Robertson, Mack Stiles, Brian Parks, and Aubrey Sequeira as they explore the intersection of hermeneutics and missions, discussing how proper biblical interpretation can safeguard against th"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/69348815",
+     "title": "On Healthy Resources in Malaysia (Ep. 61)",
+     "date": "2026-01-08T10:00:19.000Z",
+     "duration": 1859,
+     "audio": "https://media.transistor.fm/c30c9f10/143612a5.mp3",
+     "image": "https://img.transistorcdn.com/PRx8m6SN9XocMiYoFsD7cy_INwau1KuBcf8qqcM53-U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MTNl/YzBjODlkYmZhNzRi/NDIxNWRkNGViNTFi/OWNmOC5qcGc.jpg",
+     "description": "Ryan talks with Massimo about the need for solid resources and healthy churches in Malaysia. Resources Mentioned Biblical Theology by Nick Roark and Robert Cline Compelling Community by Mark Dever and"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/68986671",
+     "title": "On Setting Strategic Priorities for Missions Sending from your Local Church (Ep. 60)",
+     "date": "2025-12-11T10:00:25.000Z",
+     "duration": 3369,
+     "audio": "https://media.transistor.fm/b09cd97c/30d8f02a.mp3",
+     "image": "https://img.transistorcdn.com/SEYbHCrGS7LsTfRXpZUl6uQjhWFhDCI6j19-y9U42X4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80M2Vh/M2RhYzA5MzA3MDRj/MjZjZDU1NTc4NjFh/YjkxMS5qcGc.jpg",
+     "description": "Mack and Ryan discuss how local churches consider strategic missions priorities with Robert Cline and Jeffrey Timmons."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/68766294",
+     "title": "On God's Sovereignty and Missions (Ep. 59)",
+     "date": "2025-11-27T10:00:18.000Z",
+     "duration": 2071,
+     "audio": "https://media.transistor.fm/ffb6c023/34a3b18a.mp3",
+     "image": "https://img.transistorcdn.com/wCZMlLNH-DynzuAt4HkvewBjGbIq0mlpEPQEnUyAhjg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDNl/ZTI0NDA0YTdhZjJi/NGMxMmU4YjBiMzE4/ODI4ZC5qcGc.jpg",
+     "description": "What is the relation between God's Sovereignty and our role in Missions? Ryan and Mack talk to AJ Gibson about this important theological understanding and what the Bible teaches. Resources Mentioned:"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/68549186",
+     "title": "On Prioritizing Missions in the Church (Ep. 58)",
+     "date": "2025-11-13T10:00:19.000Z",
+     "duration": 2982,
+     "audio": "https://media.transistor.fm/eeed1bd7/f4665f2a.mp3",
+     "image": "https://img.transistorcdn.com/CqOvYYxBLbv2-eREjlEJgf8bdpwRRDugjJJarLJubwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNWQy/N2ZhNjg5MzQzZGQw/N2RmZGQwN2ZkNmJm/OGRlMC5qcGc.jpg",
+     "description": "In this live episode from RTIM's Sending Church Summit, Ryan and Mack discuss the new volume, Prioritizing Missions in the Church, with its authors, Aaron Menikoff & Harshit Singh. Resources Mentioned"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/68345265",
+     "title": "On Preparation for the Missions Field (Ep. 57)",
+     "date": "2025-10-30T09:00:16.000Z",
+     "duration": 2591,
+     "audio": "https://media.transistor.fm/5bb548c4/05f9d840.mp3",
+     "image": "https://img.transistorcdn.com/MXrSGwjYVPXGOwtkswVZC2mYG8Xia2t8wPly2wZ4gtU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80Zjg3/NGZiZDkyNWIyOGM0/MGZiY2EzMDBlZTNh/MmE1Yy5qcGc.jpg",
+     "description": "In this episode, Ryan, Mac, Matt, & Hunter discuss what aspiring missionaries and their local churches should consider when preparing for overseas ministry."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/68160096",
+     "title": "On Church-Centered Missions (Ep. 56)",
+     "date": "2025-10-16T09:00:18.000Z",
+     "duration": 2277,
+     "audio": "https://media.transistor.fm/79821e1e/55e401ac.mp3",
+     "image": "https://img.transistorcdn.com/o4sH3-AMpqF98Zm7k3E5Hs9W39gf5EcYnRBF63wACio/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NTIx/MzgyMDFjYmM1YzNh/ZTMwNWM4ZDJmYjM1/MjFkZS5qcGc.jpg",
+     "description": "In this season opening of Missions Talk, Ryan and Mack talk with Jonathan Leeman about Church Centered Missions—highlighting how healthy local churches with a strong ecclesiology are vital for trainin"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/66322644",
+     "title": "On Healthy Indigenous Churches (Ep. 55)",
+     "date": "2025-05-29T09:00:15.000Z",
+     "duration": 1669,
+     "audio": "https://media.transistor.fm/d9f38ce6/17e56396.mp3",
+     "image": "https://img.transistorcdn.com/T3s4Vz0p05L_JYo_IIX1Di7cR1yvuvmnehCteeqFiog/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNDZi/NTNkZjE0YzliM2Yy/YTE3MDdkMmMzMWNh/MDVkZi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan, Mack, and TJ explore the marks of a healthy indigenous church, highlighting key practices like regular gatherings and faithful preaching, while addressing the c"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/66095449",
+     "title": "On Contextualization and the Bible (Ep. 54)",
+     "date": "2025-05-15T09:00:15.000Z",
+     "duration": 2671,
+     "audio": "https://media.transistor.fm/9ec43646/546dad6a.mp3",
+     "image": "https://img.transistorcdn.com/XwGBdIuL0HA_q4ERKEZtOHiqhVrFXqMBhEG89UaNipY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OWZm/MmYwNmNjOTE4NTNi/MjBhNGQ3ZmRlZWQ0/OTkyYi5qcGc.jpg",
+     "description": "Ryan and Mack talk with Elliot Clark and Caleb Greggsen about the complexities of contextualization in missions—how to faithfully communicate the gospel across cultures with clarity, humility, and cul"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/65820006",
+     "title": "On Missions Work in Bangkok, with Matt Tyler and Danny Davison (Ep. 53)",
+     "date": "2025-05-01T09:00:20.000Z",
+     "duration": 3179,
+     "audio": "https://media.transistor.fm/f9c7c0c7/a18fd72b.mp3",
+     "image": "https://img.transistorcdn.com/1bpNNvA4ztAOzZWjWIXlBn-71YBXFO6-buwiz_wjDhU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNWJl/MTQ5NDUwMWE1NjY4/OGY4NGNlZTQ1MzIx/NDI2Ny5qcGc.jpg",
+     "description": "Ryan and Mack talk with Matt Tyler and Danny Davison about missions work in Bangkok, the need for healthy churches, and gospel opportunities in Thailand. Resources Mentioned Bangkok City Baptist Churc"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/65601885",
+     "title": "On Missions in Uganda, with Tony Gordon and Kris Mobbs (Ep. 52)",
+     "date": "2025-04-17T09:00:11.000Z",
+     "duration": 2360,
+     "audio": "https://media.transistor.fm/b8e93576/738e3446.mp3",
+     "image": "https://img.transistorcdn.com/5PKvbCSkZZihlZiWx6K-6DbyWzlMY_jb22aHnfhyYtA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZmVj/ZWZmOGMzYjQ1ZjU2/MTRiNjJiYWIzZjhj/YzU0MC5qcGc.jpg",
+     "description": "In this episode, Ryan & Mack speak with two missionaries serving in Uganda about ministry there and the state of the church in the country."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/65331587",
+     "title": "On Gospel Infrastructure, with Scott Logsdon (Ep. 51)",
+     "date": "2025-04-03T09:00:13.000Z",
+     "duration": 2909,
+     "audio": "https://media.transistor.fm/351f395e/985e6c5f.mp3",
+     "image": "https://img.transistorcdn.com/rIKM0WQxyVhrbBeZRxaiJ9k6EcvUQAVj84G3l-sbl9g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMGM5/MjEyNjIzY2M2YTgz/OGQyNWE4NDE2ZTIy/NDRiNC5qcGc.jpg",
+     "description": "In this episode, Ryan Robertson and Mack Stiles speak with Scott Logsdon, pastor of Union Church in Istanbul about the importance of various elements of healthy gospel infrastructure for missions stra"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/64987902",
+     "title": "On AI & Bible translation, with Bethany Moore (Ep. 50)",
+     "date": "2025-03-20T09:00:13.000Z",
+     "duration": 3000,
+     "audio": "https://media.transistor.fm/38d5644d/1ea61578.mp3",
+     "image": "https://img.transistorcdn.com/15JnQPONS2Ala-So8jM2xC8Z4ZuwQf4ye5fMzBt837Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84OTcy/NmI5NzM0Zjc3NTMy/Yjg1ZWE2ZTg3NDcz/YmJjNC5qcGc.jpg",
+     "description": "Why is Bible translation important and how should we strategize translating the Bible into other languages? In this episode, Ryan and Mack speak with Bethany Moore about translation strategies and how"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/64725085",
+     "title": "On Ekklesia International (Ep. 49)",
+     "date": "2025-03-06T10:00:12.000Z",
+     "duration": 2157,
+     "audio": "https://media.transistor.fm/d7fbb7f1/bea688b6.mp3",
+     "image": "https://img.transistorcdn.com/UhH_88Qcc2q4mz0grgDaKmg4zMy3vKhsW_h1-YaBbMI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wODcz/YzE2MWZlNzg0OGY4/YmZmNjI3MTlhYmI4/MTViMy5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson chat with Andy Johnson, John Folmar, and Josh Manley about Ekklesia International. You can find more information about Ekklesia Interna"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/64475453",
+     "title": "On Missions in North Africa (Ep. 48)",
+     "date": "2025-02-20T14:47:58.000Z",
+     "duration": 1942,
+     "audio": "https://media.transistor.fm/51e78b48/5b4a4f59.mp3",
+     "image": "https://img.transistorcdn.com/Dzjl8aNExAXTW0r8TS2GmGjN86aO4v-7itz2gHlHQmE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MGFk/Mzg4NmM5NWY3YWY0/MzczMzNkZmU2Nzk2/ZGY1NS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Joe and A.W., about their missionary work in North Africa. Subscribe to our new podcast, A Storm in the Desert."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/64229538",
+     "title": "On Pastoring in Japan (Ep. 47)",
+     "date": "2025-02-06T14:16:32.000Z",
+     "duration": 1855,
+     "audio": "https://media.transistor.fm/fa2daf1d/a6429541.mp3",
+     "image": "https://img.transistorcdn.com/NPt7A12wf31P1qhsxGGpgS2peHNmZiLSb2FDVkzVmd8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZTIw/MTI0NjNiZDJhNDdj/MTNhN2MwOWQxM2Jl/Nzg2Ni5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson interviews Ben Howard, a pastor at Yokohama International Baptist Church, about pastoring in Japan. Learn more about the gospel needs in Tokyo, Japan, "
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/63836499",
+     "title": "On Serving as Missionaries in Japan (Ep. 46)",
+     "date": "2025-01-23T11:00:07.000Z",
+     "duration": 1788,
+     "audio": "https://media.transistor.fm/6836b086/0b246b0f.mp3",
+     "image": "https://img.transistorcdn.com/IP0NKcnZGeA42FKx-UljgeXs2YYOlfKAdTLJQ4bGn6o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Yjc0/NWY5NmRlYjhiMjky/NzgxOTNkMTI5NTNi/MWRkNi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson interviews Stephen and Alexandra Tipton about their missions work in Japan. Learn more about the gospel needs in Tokyo, Japan, at prayfortokyo.com. #Pr"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/63621060",
+     "title": "On Tokyo with a Japanese Brother (Ep. 45)",
+     "date": "2025-01-09T11:00:07.000Z",
+     "duration": 2584,
+     "audio": "https://media.transistor.fm/8c9d3bb1/6e9c250a.mp3",
+     "image": "https://img.transistorcdn.com/bZvhIzT_h9Y1i7Q50sglO5VuhITQ5rvEproX5A89bLE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzhh/NzBjYzdmZGY5OWE5/NjRhOWM5NzRkNjA0/NjBlZS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson interviews Joe Yozawa about ministry in Tokyo. Learn more about the gospel needs in Tokyo, Japan, at @RTIMChannel and prayfortokyo.com. #PrayForTokyo"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/63479397",
+     "title": "On Missions in Urban Contexts, with Sam Martyn (Ep. 44)",
+     "date": "2024-12-26T18:39:56.000Z",
+     "duration": 2210,
+     "audio": "https://media.transistor.fm/a74a01da/5d1b483a.mp3",
+     "image": "https://img.transistorcdn.com/-vAnGA3ruRKiJiYBZ3weCZzN1GRKyB4K5pyqIK3KFLY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYTU3/ZGE1NjYyY2YzNGVl/ZTc4NGNjZDhjMTY2/N2M0NS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Sam Martyn on the importance of urban contexts for missions."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/63283735",
+     "title": "On the Usefulness of Internships in the Preparation of Missionaries (Ep. 43)",
+     "date": "2024-12-12T12:47:04.000Z",
+     "duration": 2664,
+     "audio": "https://media.transistor.fm/43e914d0/8e792f61.mp3",
+     "image": "https://img.transistorcdn.com/FuVKk4OSCyXbHTThqN2pTT7jjAMM1_uTNMq4geKy4aw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDhj/M2Q3YjcyNTg5OTA1/Yjk0MGIwOTViZjlj/NWI3NC5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview John Folmar, David Lawrence, and Tanner Callison on the usefulness of internships for missionary training."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/63039122",
+     "title": "On the Preparation of Missionaries with Matt Rogers (Ep. 42)",
+     "date": "2024-11-28T11:00:08.000Z",
+     "duration": 3055,
+     "audio": "https://media.transistor.fm/e37f5ef1/9d854afd.mp3",
+     "image": "https://img.transistorcdn.com/zr3Ue2CB9o0LX5wc8IehAjwsAVuIqQrjNHF0PR2HifU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNzMy/MGM0NzM0NDg0NWQ3/NDE3N2UyMDBlZmZl/ZjQwNi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Matt Rogers on the preparation of missionaries in the local church."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/62731026",
+     "title": "On the Families in the Field with Joanne Parks and Brandy Spandler-Davidson (Ep. 41)",
+     "date": "2024-11-14T11:00:07.000Z",
+     "duration": 2662,
+     "audio": "https://media.transistor.fm/4daed129/12a2c5d5.mp3",
+     "image": "https://img.transistorcdn.com/4LK0U5hcpoFj6b4_rKNJ4gA7Zh7uZEcgxITeeDRKEsw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNGU0/MWYyZDk3ODRmZjFk/Y2EzOTVkOWQ1ZGY5/NmIyYy5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Joanne Parks and Brandy Spandler-Davidson about families in the field."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/62564048",
+     "title": "On Missionary Teams with Ryan Currie (Ep. 40)",
+     "date": "2024-10-31T09:00:07.000Z",
+     "duration": 2013,
+     "audio": "https://media.transistor.fm/928e4343/8113195d.mp3",
+     "image": "https://img.transistorcdn.com/DY7WGXFs7tr-bDxhQm6iHT7y76H5jQRJM5pZftzzEFw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xN2Y2/NjZiZDM3MTg4OGNj/MmFkMWZiMGIwNTRi/NmFjZi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Ryan Currie about the importance of theological and convictional unity in missionary teams."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/62312032",
+     "title": "On Missions Opportunities in Argentina (Ep. 39)",
+     "date": "2024-10-10T12:01:28.000Z",
+     "duration": 2657,
+     "audio": "https://media.transistor.fm/94f86a72/b2df254f.mp3",
+     "image": "https://img.transistorcdn.com/bX4-kKFEWbT3_FO-3VNXLN9Fuxow7kFYdMdqban_xdE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZTZm/ZTJiNTJiMGI3OWNm/ZjIxMDgyYTBjYmZm/NDg0NS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack interview Sam Masters, Eric Abisror, and Jason Wright about God's work in Argentina through seminaries and local churches."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/62111718",
+     "title": "On Strategic Studies Abroad, with Andy Johnson (Ep.38)",
+     "date": "2024-09-26T09:00:08.000Z",
+     "duration": 2558,
+     "audio": "https://media.transistor.fm/36d152a9/b2aac0c9.mp3",
+     "image": "https://img.transistorcdn.com/7XNsJ2b2ZZ9ev67OvooHgjdQah5XACzdB6xxtSEdw8c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNjQ0/N2YxMTAzODc2Zjc1/YjdhMmRmZGE4YjFk/ZGFkZC5qcGc.jpg",
+     "description": "Missions Talk is back for a new season! In this episode, Ryan Robertson and Mack Stiles talk with Andy Johnson about how the university students have the unique opportunities to share the gospel and f"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/60293570",
+     "title": "Episode 37: On William Carey, with Sam Masters",
+     "date": "2024-06-06T09:00:09.000Z",
+     "duration": 2391,
+     "audio": "https://media.transistor.fm/b877c771/df1c9f91.mp3",
+     "image": "https://img.transistorcdn.com/-sOwqZ80vZrS9Dszm1Aur78ojnqoniI04HJ2QtXBDgA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMDM2/OTdkZWJlMTY5YjI0/NTA0MTZkMThjYTA2/ZTljNS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Sam Masters, the Rector of Seminario Bíblico William Carey, about William Carey Related resources: William Carey by S Pearce "
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/60143862",
+     "title": "Episode 36: On Missions Mobilization with Rachel Ware",
+     "date": "2024-05-23T09:00:09.000Z",
+     "duration": 2169,
+     "audio": "https://media.transistor.fm/0906581b/635fdd5d.mp3",
+     "image": "https://img.transistorcdn.com/S3CaTJ83h7DfmMml4oN39rb30qwcwra3m36No-fmR8M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMDI1/MWZhNjYwZDg2NWFl/MWNhMDZlNGU4ZjJi/ZDdiNy5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Rachel Ware, the Director of Mobilization at Reaching and Teaching, about how local churches and pastors can help aspiring mi"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/59935587",
+     "title": "Episode 35: On Church in Hard Places with Matthew Spandler-Davidson and Francisco Puente",
+     "date": "2024-05-09T09:00:07.000Z",
+     "duration": 2001,
+     "audio": "https://media.transistor.fm/7315c808/91b1eeae.mp3",
+     "image": "https://img.transistorcdn.com/8heUH-lugs2UB90BlTNUwOVD3JtuDAUuLbYTZWFR6XY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2E5/MmY2Y2E3Njg0OTA2/NWNiODk3Y2Q3Yjgw/ZmY4MC5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack interview Matthew Spandler-Davidson and Francisco Puente about planting, revitalizing, and pastoring churches in hard places."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/59646344",
+     "title": "Episode 34: On Local Churches and Sending Agencies",
+     "date": "2024-04-25T09:00:06.000Z",
+     "duration": 1765,
+     "audio": "https://media.transistor.fm/b3714484/65a5aeba.mp3",
+     "image": "https://img.transistorcdn.com/-YX7WfUHskRQ0-oW1N-ZR_7QiOFCZU8gc2tZ6TQfmo4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kODZj/NDMyODhhYjM4Yjc1/ZTUyZGQ2ODc1Mjc1/MjlhNC5qcGc.jpg",
+     "description": "In this episode of missions talk, Ryan Robertson and Mack Stiles talk about the relationship between local churches and sending agencies"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/59411806",
+     "title": "Episode 33: On Conversion with Brooks Buser and Michael Lawrence",
+     "date": "2024-04-11T09:00:05.000Z",
+     "duration": 2833,
+     "audio": "https://media.transistor.fm/84904d89/f5230fdd.mp3",
+     "image": "https://img.transistorcdn.com/sjoutu2Q149OjbTda_HL8mZ66aoh9A3hAQamaD6-370/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYjll/ZWNiZGVkZjU1NGE0/MjgzMzRmNjNjZDNi/ZDRhZi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles talk with Brooks Buser and Michael Lawrence on the doctrine of conversion and how it relates to missions."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/59203874",
+     "title": "Episode 32: On Work Amongst the Moi with the Whatleys",
+     "date": "2024-03-28T09:00:04.000Z",
+     "duration": 2792,
+     "audio": "https://media.transistor.fm/d4d4cd3e/d4ce3415.mp3",
+     "image": "https://img.transistorcdn.com/89-XQZVZMzqAMkEYqjVh-J9ozBz6UrGIPsPMP4d7xoU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZmIw/ZDU1MTliNzU0Yzdh/YmJiMjY4ODEzNzRl/ZWQ1Yi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson interviews the Whatleys about their work amongst the Moi people."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/59039490",
+     "title": "Episode 31: On Hurdles to Missions Mobilization with Luke Womack and Matt Sonke",
+     "date": "2024-03-14T09:00:03.000Z",
+     "duration": 2736,
+     "audio": "https://media.transistor.fm/4bf597f2/e93237b4.mp3",
+     "image": "https://img.transistorcdn.com/MiyO_P6B5_Gc8KWsTX-JZs-kQ2HHAZ3N4WP5_hABBKU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMGU4/ZmUyNGVkNTUwMWRi/NTU3ZWYzMDlhMThh/NmQwOS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Luke Womack and Matt Sonke from Airo Missions about the potential hurdles for future missionaries and how the church can help"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/58872650",
+     "title": "Episode 30: On Fundraising with Chad Ireland and Dylan Eagle",
+     "date": "2024-02-29T10:00:03.000Z",
+     "duration": 2443,
+     "audio": "https://media.transistor.fm/20722d28/05282ecb.mp3",
+     "image": "https://img.transistorcdn.com/-FGipfU8i_qaeuvV3N4uQqZY1mgtTJcl8PlWilmYOsg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjU0/ZmQ1Y2E0N2ExN2E3/NGJjYmU2NDQ5YThk/NGZiMy5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack chat with Chad Ireland and Dylan Eagle about fundraising for missions."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/58691462",
+     "title": "Episode 29: On Great Commission Council",
+     "date": "2024-02-15T10:00:02.000Z",
+     "duration": 1714,
+     "audio": "https://media.transistor.fm/1c0e23e3/e12ef7cc.mp3",
+     "image": "https://img.transistorcdn.com/6PdQ5_DjkzcFm6JOzOJoWfm-JcAY1xHajmXQ0J4BTV0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWVm/NjVjMzM1MGQ1ZmJm/YmI0ODY1OTUzNmU1/Mzg0MC5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson interviews Mack Stiles about Great Commission Council and how pastors and churches could benefit from GCC. https://www.greatcommissioncouncil.org/"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/58340707",
+     "title": "Episode 28: On Visiting Missionaries Overseas, with Tim Hamer and Aaron Menikoff",
+     "date": "2024-01-18T10:00:02.000Z",
+     "duration": 2354,
+     "audio": "https://media.transistor.fm/1fd2e5bb/0ac30631.mp3",
+     "image": "https://img.transistorcdn.com/N2jqWAVkR7sUgnyQhV8m-f4Lq24hZNdLTzs2kc9lK4g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTU4/MmNiM2E3ZGE4N2Zk/YmRjZjRlMjMxZGJm/MjIzYy5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Tim Hamer and Aaron Menikoff on visiting missionaries overseas."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/58080214",
+     "title": "Episode 27: On Single Women Serving Overseas, with Kim and Rey",
+     "date": "2023-12-21T10:00:03.000Z",
+     "duration": 2033,
+     "audio": "https://media.transistor.fm/8179026e/85ce32a4.mp3",
+     "image": "https://img.transistorcdn.com/Diq8Cy-fDKbw9An_tt0Dm1iz0mMBXXCSQcrU9Lf1xI4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYWJk/YTQ4ZWU5ZjI1MTM3/NzhhZmRjNGRhMDU1/NmY3My5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack and Ryan interview Kim and Rey on how the local churches can help and benefit from missionaries who are single."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/57936199",
+     "title": "Episode 26: On Campus Ministry in the Middle East, with Nathan Matthews",
+     "date": "2023-12-07T10:00:03.000Z",
+     "duration": 2112,
+     "audio": "https://media.transistor.fm/cbb6c04b/59d06013.mp3",
+     "image": "https://img.transistorcdn.com/aq3uDfRb8-2D6lqcVS4P12JR9QBizoT6tHQInZKfnZE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYzA3/OTUzY2Y2YmFhYzFk/MzNiN2NiYjkyNTUx/YjY0Yy5qcGc.jpg",
+     "description": "What does a Campus Ministry look like overseas and where does the local church fit in? In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Nathan, who is a director of a campus "
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/57784166",
+     "title": "Episode 25: On Mission Affirmed, with Elliot Clark",
+     "date": "2023-11-23T15:29:45.000Z",
+     "duration": 2386,
+     "audio": "https://media.transistor.fm/bbc17a24/d171b3be.mp3",
+     "image": "https://img.transistorcdn.com/H3GoB-xxs8ckezmh3ArydLl8ERwRltCjQLgQY7pgnGM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82N2Qz/YTc0YzY1M2M3OTg1/MzNmNDUyYjM0ZTg2/OWE4ZS5qcGc.jpg",
+     "description": "In this episode, Ryan and Mack interview Elliot Clark on his recent book \"Mission Affirmed\" and his writing on the ministry and motivation of Paul."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/57568676",
+     "title": "Episode 24: On Evangelism to Muslims (with Matthew Bennett and Ayman Ibrahim)",
+     "date": "2023-11-09T10:00:03.000Z",
+     "duration": 2774,
+     "audio": "https://media.transistor.fm/85e0cdfc/88647e95.mp3",
+     "image": "https://img.transistorcdn.com/RDS1IdHM-sv-6EPZqfRDUxEC3aKq3fVXYm12EkrcYnc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YjEw/MDQ5ZWVmMjFmMzBj/M2M0MGFiYWY3Zjlk/ZjUxZi5qcGc.jpg",
+     "description": "In this episode, Ryan and Mack interview Matthew Bennett and Ayman Ibrahim on how Christians should interact and evangelize to Muslims."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/57390278",
+     "title": "Episode 23: On the Insider Movement (with Matt Bennett & Doug Coleman)",
+     "date": "2023-10-26T09:00:03.000Z",
+     "duration": 3313,
+     "audio": "https://media.transistor.fm/0f4524e6/2e83c3bc.mp3",
+     "image": "https://img.transistorcdn.com/9Cz9QkQwy3XKlwGOrRsX7XO9YgHUm0v9BZ3LlB_nHQc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82OWI2/NTY3MDAxZTU1Y2Vk/NjNiNDY3MTUzZDky/NjM0MC5qcGc.jpg",
+     "description": "In this episode, Ryan and Mack speak with Matt Bennett and Doug Coleman about the history and practice of Insider Movement methodologies."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/57246168",
+     "title": "Episode 22: On the Local Church and Missions from the Sing! Conference",
+     "date": "2023-10-16T09:00:04.000Z",
+     "duration": 2298,
+     "audio": "https://media.transistor.fm/06475db8/2e689d8b.mp3",
+     "image": "https://img.transistorcdn.com/3IUUzOBWbv7eu3k_5kh1_piq1hB69vi08PUuKPxmWKg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NTJk/YmMyOGZiZTU3YzFj/YTk5NDk2NjQzMDUx/YTQ4OS5qcGc.jpg",
+     "description": "In this episode recorded live at the Sing! conference, Ryan & Mack speak with Mark Dever, Matt Merker, and Juan Sanchez about a variety of topics including the training up and sending out of qualified"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/56969128",
+     "title": "Episode 21: On Adoniram Judson (with Jason Duesing)",
+     "date": "2023-09-28T09:00:03.000Z",
+     "duration": 2095,
+     "audio": "https://media.transistor.fm/d8c5827b/1e629227.mp3",
+     "image": "https://img.transistorcdn.com/r4QlqN12dXSviabgW0V_SikVja5ovRgUN_Bb4n0GFZw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYTU5/ODI3ZDRhNzNhZDcy/ZjVkMTk0MmM2NGM0/YjQ1Ni5qcGc.jpg",
+     "description": "In this episode, Ryan & Mack interview Jason Duesing about various aspects of Judson’s childhood, conversion, marriage, suffering, and his ministry in Burma."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/56795210",
+     "title": "Episode 20: On Short-Term Missions (with Mack and Leeann Stiles)",
+     "date": "2023-09-14T09:00:03.000Z",
+     "duration": 2363,
+     "audio": "https://media.transistor.fm/ef621864/af0f3bd4.mp3",
+     "image": "https://img.transistorcdn.com/8g-KFVyTYXo6bUpnz2NDtSAKql7jceHxePmbT8zlodQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjM3/NDYxNmY1ZTgxNTYy/Njc2Njg2NTEzMTFk/ZTMwYi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan chats with Mack and Leeann Stiles about short-term missions."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/56241204",
+     "title": "Episode 19: On Sending Churches and Local Churches and Missionaries and Agencies (with Miller Johnson and Caleb Greggsen)",
+     "date": "2023-07-27T09:00:03.000Z",
+     "duration": 2953,
+     "audio": "https://media.transistor.fm/2545f7dd/1f77292f.mp3",
+     "image": "https://img.transistorcdn.com/viADScv6crO7dWF9qT3_ryl9KiGg6MfCJaKIhPinORU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MzNi/OGE5YmEzZGJjYjQx/NzlhNTkzZTg5NTc3/OTI1My5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack and Ryan interview Miller and Caleb Greggsen about the relationship between missionaries and sending churches."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/56009300",
+     "title": "Episode 18: On the Strategic Value of Missions Work in Global Cities (with Scott Logsdon and Will Sutton)",
+     "date": "2023-07-06T09:00:03.000Z",
+     "duration": 1882,
+     "audio": "https://media.transistor.fm/dfc6612b/a6282722.mp3",
+     "image": "https://img.transistorcdn.com/e7F3Hj4BbSYkn-ma6HzoyJhdomXcyocA54627bl5EuI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNWFi/MGU5MWM5NDgwNGE4/ODYyMTc4MDg1MDhl/ZWQ1YS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Mack and Ryan interview Scott Logsdon and Will Sutton on the strategic value of missions work in global cities"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/54702712",
+     "title": "Episode 17: On the Missionary Calling (with Greg Gilbert and Bobby Jamieson)",
+     "date": "2023-06-22T09:00:02.000Z",
+     "duration": 1723,
+     "audio": "https://media.transistor.fm/303a5d3b/555eeef1.mp3",
+     "image": "https://img.transistorcdn.com/X61MXP2Mh6VhigE73B65lE-lE09BMQksSC59GKmgrWQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NWY1/YTMwYzk2Nzc2YzZk/MmY2YWQwYjkzNDll/MWJkZC5qcGc.jpg",
+     "description": "The hosts chat with Greg Gilbert and Bobby Jamieson about how to view the missionary calling biblically."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/54135100",
+     "title": "Episode 16: On Missions Work in Asian Sub-Continent (with Clyde Davidson and Tom Roberts)",
+     "date": "2023-06-08T09:00:02.000Z",
+     "duration": 1800,
+     "audio": "https://media.transistor.fm/66f9ab11/fe127d84.mp3",
+     "image": "https://img.transistorcdn.com/iToYDpv-s_z5NOTXGi8tIaqJh_zF1RI9XkZNwdalUYk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODgw/MmQ2OGM3Y2ZlNzlm/MjNlMzQwNGIxODg4/YWIyNC5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack chat with two missionaries from Asia' sub-continent. Though they're both Westerners, they've learned the language and now serve as elders in indigenous "
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/53995175",
+     "title": "Episode 15: On the Yembi Yembi (with Brooks and Nina Buser)",
+     "date": "2023-05-25T12:05:27.000Z",
+     "duration": 2351,
+     "audio": "https://media.transistor.fm/15d30f6e/c5b0685c.mp3",
+     "image": "https://img.transistorcdn.com/dcR2qaZ5pwpFZIR0xpNxnSiIOroIo3wbDcRLofCs204/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYTAz/OTc0ZjFlN2YwMDlk/ZDg3NGMyYWFkYzE0/Nzg3NC5qcGc.jpg",
+     "description": "Twenty years ago, the Yembi Yembi tribe had no Christians and no written language. Today, they enjoy the ministry of a healthy local church and the Scriptures in their own tongue. Hear the amazing sto"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/53815041",
+     "title": "Episode 14: On Building a Missions Culture in a Young Church (with Thomas Gamble)",
+     "date": "2023-05-11T09:00:02.000Z",
+     "duration": 1421,
+     "audio": "https://media.transistor.fm/df057feb/014c8159.mp3",
+     "image": "https://img.transistorcdn.com/YNTISPY7jRWNvihIlvRnM_MSuArN4itX4JqYtC8gXcg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOGEz/NjJlMTRkN2ViYzEw/M2E0ZWQ1ZGFlMDYz/ZDgyMS5qcGc.jpg",
+     "description": "Ryan and Mack chat with a new pastor about how to build a culture of missions in a young church."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/53661131",
+     "title": "Episode 13: On Missions Work in Central Asia (with Tyler Markson and George Jamieson)",
+     "date": "2023-04-27T09:00:02.000Z",
+     "duration": 1766,
+     "audio": "https://media.transistor.fm/679774e6/59b0cc7f.mp3",
+     "image": "https://img.transistorcdn.com/wEPsFr5oaL_OkAXDiE2AtzK062e558kBBL8vsI7-bLE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80M2Ex/OTQyNTNlMjljOWM0/NjRjNjI2Mzg1NTZi/MzRlZi5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack chat with two missionaries in Central Asia about their ministry and work."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/53520425",
+     "title": "Episode 12: On What Is the Mission of the Church (with Kevin DeYoung)",
+     "date": "2023-04-13T09:00:03.000Z",
+     "duration": 2318,
+     "audio": "https://media.transistor.fm/b4486567/bdb26046.mp3",
+     "image": "https://img.transistorcdn.com/FcHBxopxaAkrDZ4bBznXAYqCEVRPqt0KETMrIrwJ5ww/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTc3/NzM0ODM2YzI4NDVk/OWM4NjcxODVjZTRh/MmI5NC5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack interview Kevin DeYoung about his book, What Is the Mission of the Church?"
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/53385393",
+     "title": "Episode 11: On the CROSS Conference (with Matt Schmucker and Shawn LaCount)",
+     "date": "2023-03-30T09:00:04.000Z",
+     "duration": 2080,
+     "audio": "https://media.transistor.fm/1f54d3c5/f9c18888.mp3",
+     "image": "https://img.transistorcdn.com/QqcmXXvaD0RS-yYmDBh18v4biRgeT0pjWCTwhRR6Zbo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Y2Fj/MTRjMjBhNWRhZTRi/YWY4MTUxZTI1OTYz/ODM5OS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan and Mack interview Matt Schmucker and Shawn LaCount, the organizers of the Cross Conference."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/53067510",
+     "title": "Episode 10: On Why the Local Church Matters in Missions (with Chip Bugnar, Andy Johnson, and Scott Logsdon)",
+     "date": "2023-03-02T10:00:03.000Z",
+     "duration": 2396,
+     "audio": "https://media.transistor.fm/13d60259/f459d9c8.mp3",
+     "image": "https://img.transistorcdn.com/zO2gA8RMRVlm0EmitGjRomht84GHysoM8fz_nZaOuYk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NGUz/NzEyOGRhYjIxOWM1/Y2Y3MDA5YjdhNDMy/MjNhYS5qcGc.jpg",
+     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview pastors about why the local church matters for missions work."
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/52749833",
+     "title": "Episode 9: On Why a Biblical Understanding and Practice of Prayer Matters in Missions (with Caleb Morell and Jordan Wolfe)",
+     "date": "2023-02-16T10:00:02.000Z",
+     "duration": 2196,
+     "audio": "https://media.transistor.fm/b29dcdc8/b1e6c2f3.mp3",
+     "image": "https://img.transistorcdn.com/mcN5Fo2bZa_fzIOx5GhtsdoAAyesRMZWMWcK0deITj4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NmZk/ZTMxYTdlM2ExODMz/MzQ2YmE2NTI5OWJm/YmE3YS5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/52546915",
+     "title": "Episode 8: On Why Biblical Church Leadership Matters in Missions (with Brian Parks, Mark Collins, and Eric White)",
+     "date": "2023-01-26T10:00:02.000Z",
+     "duration": 2371,
+     "audio": "https://media.transistor.fm/6b861d11/df8f5b18.mp3",
+     "image": "https://img.transistorcdn.com/kLU4jNxFclPolijgJyftHKmB3Jooz5NzB7VvUxEBWDI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNWFj/MDkzZWQzYWJlYzI1/NmU3MDBkZWZjYWM4/Njc4Ni5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/52419036",
+     "title": "Episode 7: On Why a Biblical Concern for Discipleship and Growth Matters in Missions (with Anand Samuel & Jeff Kelly)",
+     "date": "2023-01-12T10:00:02.000Z",
+     "duration": 2219,
+     "audio": "https://media.transistor.fm/91affdc4/1fbf3a16.mp3",
+     "image": "https://img.transistorcdn.com/vCDtjKLWztfkpx86XaSIGW62FdlyPe-vnodl5HcqhZE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNDgz/YTNjZGIyMDc0ZmI5/YzFiYjY5NDljYmUx/NGEwMi5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/52127282",
+     "title": "Episode 6: On Why Biblical Church Discipline Matters in Missions (with Ken Mbugua and Aubrey Sequeira)",
+     "date": "2022-12-15T10:00:02.000Z",
+     "duration": 2767,
+     "audio": "https://media.transistor.fm/4fdad9bb/30b97128.mp3",
+     "image": "https://img.transistorcdn.com/f1Jj6bZVMet0RTHHrGqbx9sdN9aHkYI8MC9niymmp4I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84OTM4/M2VhNDQ5ZmI2ODJk/YjRjNjJkZWE4Mjcx/OTIxNC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/52062698",
+     "title": "Episode 5: On Why Biblical Church Membership Matters in Missions (with David Lawrence, Chariot Lu, and Caleb Greggsen)",
+     "date": "2022-12-01T10:00:03.000Z",
+     "duration": 2599,
+     "audio": "https://media.transistor.fm/94fe7a0d/c8dd37d9.mp3",
+     "image": "https://img.transistorcdn.com/NFZGuNEFvrwExgupWSpAJ-k-0YjJEqYw9NJVuEViSAs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNzgy/MzNjNmE0YWNjNDdh/OWVhMTgzNTRlZWQ3/MjdmZi5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/51846818",
+     "title": "Episode 4: On Why Conversion and Evangelism Matters in Missions (with Pastor Harshit and Josh Manley)",
+     "date": "2022-11-10T10:00:02.000Z",
+     "duration": 1997,
+     "audio": "https://media.transistor.fm/cd4f93f9/7c0ab7b7.mp3",
+     "image": "https://img.transistorcdn.com/7q7llPJnwc39_mFoTmCkL9oQ-zUQ1IU9XvMS1fY-Th8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MTky/YjUxN2ZkNTg2MDRk/MWEyY2YyZjUyYzEw/Y2VmNS5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/51700325",
+     "title": "Episode 3: On Why Gospel Doctrine Matters in Missions (with Brooks Buser and Matt Tyler)",
+     "date": "2022-10-27T09:00:02.000Z",
+     "duration": 2705,
+     "audio": "https://media.transistor.fm/a9ccea60/d97af2cc.mp3",
+     "image": "https://img.transistorcdn.com/eV4JM-u0wD-7kq4fN1ONTTZn_05tQLDHrhFfp5QYyq8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Y2Jk/MjMyMjNhMDJkYWQ5/M2VjYWQyYWQ5MTFk/ZWQzMC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/51559754",
+     "title": "Episode 2: On Why Expositional Preaching Matters in Missions (with John Folmar and Christian Lwanda)",
+     "date": "2022-10-13T09:00:10.000Z",
+     "duration": 2017,
+     "audio": "https://media.transistor.fm/fa9641e9/dd579d06.mp3",
+     "image": "https://img.transistorcdn.com/7ktUkYf9uXdqPGQouZN6c6rYMhFuD3WZZub9E1d_t4A/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNjMz/ZDhmMjIwYjI5YmZk/MTM4MmU5YTQ3OTJj/MTI4Ni5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1647567459|https://api.spreaker.com/episode/51415522",
+     "title": "Episode 1: On the Reasons We Started Missions Talk",
+     "date": "2022-09-29T11:41:16.000Z",
+     "duration": 1497,
+     "audio": "https://media.transistor.fm/b8c35b48/0fef288c.mp3",
+     "image": "https://img.transistorcdn.com/Dn5u153FAPFWeNIBBtEmqua-c5j1yH7P7oBjBZdFRus/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMWUy/MTljNDM4ZWFhNzA5/MmEyNGEzMmRjOWE3/YzJkNy5qcGc.jpg",
+     "description": ""
+    }
+   ]
+  },
   {
    "id": "1530600146",
    "name": "Bible Talk — A podcast by 9Marks & Southern Seminary",
@@ -5470,699 +6172,6 @@
      "audio": "https://media.transistor.fm/8252ff48/88cb9323.mp3",
      "image": "https://img.transistorcdn.com/9Z3QPCxIh4kVCy7EtnSj35ftGUUHFaF3WSUv3ZjketA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ODNh/NTNmNDA0NTI4ZjZi/MzRlZGZjNmExMWZk/NzA3NC5qcGc.jpg",
      "description": "Counseling Talk is here! In this episode, Jonathan Leeman interviews the hosts—Deepak Reju, Hayley Satrom, and Garrett Kell—about the what and why of Counseling Talk."
-    }
-   ]
-  },
-  {
-   "id": "1647567459",
-   "name": "Missions Talk — A podcast by 9Marks and Reaching & Teaching International Ministries",
-   "author": "9Marks",
-   "image": "https://img.transistorcdn.com/axUZ_CwIm2h8_rchZYEKI_JdKIeFfq5J7M3iRrMOU8Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZDdm/OTVjMmYyODIxZGIy/NGJkNTM5ZWMwZjg4/YTkxOS5qcGc.jpg",
-   "link": "https://www.9marks.org/podcast/missions-talk/",
-   "episodes": [
-    {
-     "id": "1647567459|12140bfc-c9f1-4058-ac8a-6381acb689c9",
-     "title": "On Evangelizing Hindus (Ep. 76)",
-     "date": "2026-10-22T09:00:00.000Z",
-     "duration": 2859,
-     "audio": "https://media.transistor.fm/edd29d9b/5879a11f.mp3",
-     "image": "https://img.transistorcdn.com/Se9na_pFhWmTNep1Q8yuM9ppaVQcxwrfRyDJ1_GfgKg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTYy/NTdlMzIwYmFkNTU2/MjM5NDQ4YTFlMWM2/ODJmMS5wbmc.jpg",
-     "description": "How do you share the gospel with a Hindu neighbor? In this episode, Ryan Robertson, Kyle Brousseau, and J.P. Stokes discuss Hindu beliefs, common misconceptions, and practical ways Christians can fait"
-    },
-    {
-     "id": "1647567459|f0d43320-157a-448c-9664-f68252a745cc",
-     "title": "On Translation to Indigenous Publishing (Ep. 75)",
-     "date": "2026-10-08T09:00:00.000Z",
-     "duration": 2883,
-     "audio": "https://media.transistor.fm/52d77fff/2fbb2cb0.mp3",
-     "image": "https://img.transistorcdn.com/l1AE9JttxMnh70JSonYnVCtqv_GvKsIWMyDWuy8_9Sk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTM5/MGViN2E1ZjFlNGU1/N2YzZjRjNTUxZTAz/MDE1OC5wbmc.jpg",
-     "description": "How does faithful publishing strengthen global missions? In this episode, we explore how translation, indigenous authorship, and theological resources help build healthy churches around the world. Gue"
-    },
-    {
-     "id": "1647567459|2518a18e-0487-4cc8-b62e-4401d35f1899",
-     "title": "On Evangelizing Muslims (Ep. 74)",
-     "date": "2026-09-24T09:00:00.000Z",
-     "duration": 2558,
-     "audio": "https://media.transistor.fm/c7ca9bbd/135da665.mp3",
-     "image": "https://img.transistorcdn.com/AjKlX4_LBDvUUwGQl1Bb-xR_RfxlYH5h3NoONyuPrKU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODRh/NDI3YTJhODMzZjNk/YzBmMjcxNGZiZGM2/NGEyZi5wbmc.jpg",
-     "description": "How should Christians think about evangelism among Muslims? This episode explores faithful gospel witness, contextualization, discipleship, and the hope of Christ in hard places."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/72682597",
-     "title": "On The Path To Being A Missionary (Ep. 73)",
-     "date": "2026-06-25T09:00:19.000Z",
-     "duration": 3126,
-     "audio": "https://media.transistor.fm/d941b17d/1d8b6ceb.mp3",
-     "image": "https://img.transistorcdn.com/Z_i0rUNQfxQatFt4XCh44P7m7k9x857UcO2Ff0UiYW4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ODQy/MjdkNTM2ZmI3ZDA3/YjJjZGI0MmE3YmMz/OWM3Yi5qcGc.jpg",
-     "description": "A new generation of missionaries doesn’t appear overnight. Ryan Robertson and Matt Bennett discuss their new book, The Path to Being a Missionary, and unpack how churches can identify, assess, prepare"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/72471215",
-     "title": "On John Paton (Ep. 72)",
-     "date": "2026-06-11T09:00:22.000Z",
-     "duration": 2833,
-     "audio": "https://media.transistor.fm/02c2d123/c4150e47.mp3",
-     "image": "https://img.transistorcdn.com/_qN3u9emAO4OzeFT9kkQ0ZuZAy3Ph3ED5Ggfw0gXRk0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZmM1/YzZkM2ExNmZmY2Mx/Mzk1NmQ4OWFiZTJj/YmUxOS5qcGc.jpg",
-     "description": "Who was John Paton, and why is he considered one of the greatest missionaries in church history? In this episode, Paul Schlehlein explores Paton’s life, theology, suffering, and enduring legacy as a m"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/72198677",
-     "title": "On Culture & Language Acquisition in Tokyo (Ep. 71)",
-     "date": "2026-05-28T09:00:20.000Z",
-     "duration": 2750,
-     "audio": "https://media.transistor.fm/fc31f712/6d928648.mp3",
-     "image": "https://img.transistorcdn.com/Cazf--XtiKrm-EFjULdEcthOKqYqUKrklB-LDHqtgLU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82OTlm/ZWUwNzhiZGIwOGUy/NWQyMzNjNTkzZTZk/MzJjMi5qcGc.jpg",
-     "description": "What does it actually take for missionaries to learn a new language and culture? In this episode, missionaries serving in Japan share the challenges, lessons, and practical realities of language acqui"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/72000065",
-     "title": "On Global Cities Partnership (Ep. 70)",
-     "date": "2026-05-14T09:00:21.000Z",
-     "duration": 2344,
-     "audio": "https://media.transistor.fm/1cc6965d/62b84601.mp3",
-     "image": "https://img.transistorcdn.com/vXQjn55G5RbnlvGQXo5MTYHFdGc4EQl0Y-Uo1WTOXZk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MjUx/ZTVmZGJkZWIxZGQz/ODhjMTBjZTE4Yjlj/Y2UyMi5qcGc.jpg",
-     "description": "What is the Global Cities Partnership, and why does it matter for missions today? In this episode, we explore the vision behind this strategic effort to strengthen healthy churches and gospel infrastr"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/71767231",
-     "title": "On Risk Assessment in the Mission Field (Ep. 69)",
-     "date": "2026-04-30T09:00:20.000Z",
-     "duration": 2869,
-     "audio": "https://media.transistor.fm/c02e3f4e/55845206.mp3",
-     "image": "https://img.transistorcdn.com/WxVsShKSSTrlUfE-aeGa7oW2UyumrIPufN3NembP1nc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Yjgw/ODQ5MjFiMDE2ZWNm/NWNmYjJiZDA1MTY3/YjM0Yi5qcGc.jpg",
-     "description": "How should missionaries, churches, and sending agencies think about danger on the mission field? In this episode, Caleb Greggsen joins the conversation to explore risk, suffering, resurrection hope, a"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/71357096",
-     "title": "On Preparing & Planning for Tokyo (Ep. 68)",
-     "date": "2026-04-16T09:00:18.000Z",
-     "duration": 3236,
-     "audio": "https://media.transistor.fm/ed81bbfe/be838a8d.mp3",
-     "image": "https://img.transistorcdn.com/J0QTrboFaPj6Ehyg72g7FuO_tnX81jnD2M1nZJxdauc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTg4/MWE4ZDAyNDczNzc0/YjlhOWRmZmZkYWFj/ZDQ1MC5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson talks with David King, David Rainer, and Mindy Rainer about God’s providential leading of Concord Baptist Church to send the Rainers to Tokyo to plant "
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/71054880",
-     "title": "On Reading The Bible Evangelistically (Ep. 67)",
-     "date": "2026-04-02T09:00:19.000Z",
-     "duration": 2717,
-     "audio": "https://media.transistor.fm/194bba93/86deee88.mp3",
-     "image": "https://img.transistorcdn.com/1xaOqepknQggy1L5LXt5MU7237b3Ywt1B0oeJEqYUhk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjMx/YTZiNTBjMjkxM2Fm/ZTVmYzA2M2JhNTI3/YzY4My5qcGc.jpg",
-     "description": "This episode with Isaac Stiles & Ethan English explores how evangelistic Bible studies can be a powerful, church-centered tool for reaching unbelievers, especially on college campuses. Resources Menti"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/70730963",
-     "title": "On The Great Commission Congress (Ep. 66)",
-     "date": "2026-03-19T09:00:17.000Z",
-     "duration": 2390,
-     "audio": "https://media.transistor.fm/e4877217/79fbd236.mp3",
-     "image": "https://img.transistorcdn.com/CC87hPgG08JXd9lexCY5WXETUiECW-r4AX79LFEFO88/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ZTE3/YzYzMzJmMjcwZGVk/MTJhNDIwZmM1NGY5/MzY4Ny5qcGc.jpg",
-     "description": "Ryan Robertson, Mack Stiles, Josh Manley, and Danny Davison discuss the vision behind the Great Commission Council and the upcoming Great Commission Congress, highlighting a shared call for theologica"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/70471948",
-     "title": "On Elenctics (Ep. 65)",
-     "date": "2026-03-05T10:00:27.000Z",
-     "duration": 3174,
-     "audio": "https://media.transistor.fm/c462b71f/2c9b31bf.mp3",
-     "image": "https://img.transistorcdn.com/zbMkBNy5g5_vvftxJYNDvPU20HA9MGBwH6UYLeJ6UhY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZWM5/MWU5N2QyYTA2ZjE0/NmFmN2E0OTQ3ZmRl/MGJhMC5qcGc.jpg",
-     "description": "Mack and Ryan discuss elenctics and its missiological importance in this discussion with Daniel Strange and Ben Robin, highlighting the work of J.H. Bavinck."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/70143286",
-     "title": "On Prioritizing the Church in Missions (Ep. 64)",
-     "date": "2026-02-19T10:00:18.000Z",
-     "duration": 2660,
-     "audio": "https://media.transistor.fm/91f97da2/9ac0414a.mp3",
-     "image": "https://img.transistorcdn.com/dckWYs6Jz4RIfdvu5CLQXdtRNzkmz65l61vbN6XaZ50/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85OTI3/ZGQ5NTliZWVmZjFm/M2ZlZTY5YzVjYTkx/NTk2ZC5qcGc.jpg",
-     "description": "Join Ryan Robertson, Mack Stiles, John Folmar, and Scott Logsdon as they explore the importance of prioritizing the church in missions, highlighting how a strong ecclesiological foundation can transfo"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/69765320",
-     "title": "On Ministry in Kuala Lumpur (Ep. 63)",
-     "date": "2026-02-05T10:00:16.000Z",
-     "duration": 1652,
-     "audio": "https://media.transistor.fm/73fadd57/d72c7188.mp3",
-     "image": "https://img.transistorcdn.com/scBW9OFYttsFhCs5qk7x6Km5sP6ppdC9E_sbMPpHc7w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNjA5/ZDUzMGQ4ZjExMDZj/ZTkzYWY4ZDNlOTNk/NTZlNi5qcGc.jpg",
-     "description": "Ryan talks with missionaries about life and ministry in KL. Resources Mentioned The Joshua Project - Unreached People Groups"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/69545606",
-     "title": "On Hermeneutics & Missions (Ep. 62)",
-     "date": "2026-01-22T12:52:35.000Z",
-     "duration": 3537,
-     "audio": "https://media.transistor.fm/519143b0/55aed97a.mp3",
-     "image": "https://img.transistorcdn.com/9GbLlDK9XhmhoZGlJ9hIGyqACpLxIqc-1rmgqfFyuC4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MjIz/ZWUzYjkyZDgxNDhm/YjEwZWUwYTEzM2Zl/N2UxNi5qcGc.jpg",
-     "description": "Join Ryan Robertson, Mack Stiles, Brian Parks, and Aubrey Sequeira as they explore the intersection of hermeneutics and missions, discussing how proper biblical interpretation can safeguard against th"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/69348815",
-     "title": "On Healthy Resources in Malaysia (Ep. 61)",
-     "date": "2026-01-08T10:00:19.000Z",
-     "duration": 1859,
-     "audio": "https://media.transistor.fm/c30c9f10/143612a5.mp3",
-     "image": "https://img.transistorcdn.com/PRx8m6SN9XocMiYoFsD7cy_INwau1KuBcf8qqcM53-U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MTNl/YzBjODlkYmZhNzRi/NDIxNWRkNGViNTFi/OWNmOC5qcGc.jpg",
-     "description": "Ryan talks with Massimo about the need for solid resources and healthy churches in Malaysia. Resources Mentioned Biblical Theology by Nick Roark and Robert Cline Compelling Community by Mark Dever and"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/68986671",
-     "title": "On Setting Strategic Priorities for Missions Sending from your Local Church (Ep. 60)",
-     "date": "2025-12-11T10:00:25.000Z",
-     "duration": 3369,
-     "audio": "https://media.transistor.fm/b09cd97c/30d8f02a.mp3",
-     "image": "https://img.transistorcdn.com/SEYbHCrGS7LsTfRXpZUl6uQjhWFhDCI6j19-y9U42X4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80M2Vh/M2RhYzA5MzA3MDRj/MjZjZDU1NTc4NjFh/YjkxMS5qcGc.jpg",
-     "description": "Mack and Ryan discuss how local churches consider strategic missions priorities with Robert Cline and Jeffrey Timmons."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/68766294",
-     "title": "On God's Sovereignty and Missions (Ep. 59)",
-     "date": "2025-11-27T10:00:18.000Z",
-     "duration": 2071,
-     "audio": "https://media.transistor.fm/ffb6c023/34a3b18a.mp3",
-     "image": "https://img.transistorcdn.com/wCZMlLNH-DynzuAt4HkvewBjGbIq0mlpEPQEnUyAhjg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDNl/ZTI0NDA0YTdhZjJi/NGMxMmU4YjBiMzE4/ODI4ZC5qcGc.jpg",
-     "description": "What is the relation between God's Sovereignty and our role in Missions? Ryan and Mack talk to AJ Gibson about this important theological understanding and what the Bible teaches. Resources Mentioned:"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/68549186",
-     "title": "On Prioritizing Missions in the Church (Ep. 58)",
-     "date": "2025-11-13T10:00:19.000Z",
-     "duration": 2982,
-     "audio": "https://media.transistor.fm/eeed1bd7/f4665f2a.mp3",
-     "image": "https://img.transistorcdn.com/CqOvYYxBLbv2-eREjlEJgf8bdpwRRDugjJJarLJubwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNWQy/N2ZhNjg5MzQzZGQw/N2RmZGQwN2ZkNmJm/OGRlMC5qcGc.jpg",
-     "description": "In this live episode from RTIM's Sending Church Summit, Ryan and Mack discuss the new volume, Prioritizing Missions in the Church, with its authors, Aaron Menikoff & Harshit Singh. Resources Mentioned"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/68345265",
-     "title": "On Preparation for the Missions Field (Ep. 57)",
-     "date": "2025-10-30T09:00:16.000Z",
-     "duration": 2591,
-     "audio": "https://media.transistor.fm/5bb548c4/05f9d840.mp3",
-     "image": "https://img.transistorcdn.com/MXrSGwjYVPXGOwtkswVZC2mYG8Xia2t8wPly2wZ4gtU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80Zjg3/NGZiZDkyNWIyOGM0/MGZiY2EzMDBlZTNh/MmE1Yy5qcGc.jpg",
-     "description": "In this episode, Ryan, Mac, Matt, & Hunter discuss what aspiring missionaries and their local churches should consider when preparing for overseas ministry."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/68160096",
-     "title": "On Church-Centered Missions (Ep. 56)",
-     "date": "2025-10-16T09:00:18.000Z",
-     "duration": 2277,
-     "audio": "https://media.transistor.fm/79821e1e/55e401ac.mp3",
-     "image": "https://img.transistorcdn.com/o4sH3-AMpqF98Zm7k3E5Hs9W39gf5EcYnRBF63wACio/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NTIx/MzgyMDFjYmM1YzNh/ZTMwNWM4ZDJmYjM1/MjFkZS5qcGc.jpg",
-     "description": "In this season opening of Missions Talk, Ryan and Mack talk with Jonathan Leeman about Church Centered Missions—highlighting how healthy local churches with a strong ecclesiology are vital for trainin"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/66322644",
-     "title": "On Healthy Indigenous Churches (Ep. 55)",
-     "date": "2025-05-29T09:00:15.000Z",
-     "duration": 1669,
-     "audio": "https://media.transistor.fm/d9f38ce6/17e56396.mp3",
-     "image": "https://img.transistorcdn.com/T3s4Vz0p05L_JYo_IIX1Di7cR1yvuvmnehCteeqFiog/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNDZi/NTNkZjE0YzliM2Yy/YTE3MDdkMmMzMWNh/MDVkZi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan, Mack, and TJ explore the marks of a healthy indigenous church, highlighting key practices like regular gatherings and faithful preaching, while addressing the c"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/66095449",
-     "title": "On Contextualization and the Bible (Ep. 54)",
-     "date": "2025-05-15T09:00:15.000Z",
-     "duration": 2671,
-     "audio": "https://media.transistor.fm/9ec43646/546dad6a.mp3",
-     "image": "https://img.transistorcdn.com/XwGBdIuL0HA_q4ERKEZtOHiqhVrFXqMBhEG89UaNipY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OWZm/MmYwNmNjOTE4NTNi/MjBhNGQ3ZmRlZWQ0/OTkyYi5qcGc.jpg",
-     "description": "Ryan and Mack talk with Elliot Clark and Caleb Greggsen about the complexities of contextualization in missions—how to faithfully communicate the gospel across cultures with clarity, humility, and cul"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/65820006",
-     "title": "On Missions Work in Bangkok, with Matt Tyler and Danny Davison (Ep. 53)",
-     "date": "2025-05-01T09:00:20.000Z",
-     "duration": 3179,
-     "audio": "https://media.transistor.fm/f9c7c0c7/a18fd72b.mp3",
-     "image": "https://img.transistorcdn.com/1bpNNvA4ztAOzZWjWIXlBn-71YBXFO6-buwiz_wjDhU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNWJl/MTQ5NDUwMWE1NjY4/OGY4NGNlZTQ1MzIx/NDI2Ny5qcGc.jpg",
-     "description": "Ryan and Mack talk with Matt Tyler and Danny Davison about missions work in Bangkok, the need for healthy churches, and gospel opportunities in Thailand. Resources Mentioned Bangkok City Baptist Churc"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/65601885",
-     "title": "On Missions in Uganda, with Tony Gordon and Kris Mobbs (Ep. 52)",
-     "date": "2025-04-17T09:00:11.000Z",
-     "duration": 2360,
-     "audio": "https://media.transistor.fm/b8e93576/738e3446.mp3",
-     "image": "https://img.transistorcdn.com/5PKvbCSkZZihlZiWx6K-6DbyWzlMY_jb22aHnfhyYtA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZmVj/ZWZmOGMzYjQ1ZjU2/MTRiNjJiYWIzZjhj/YzU0MC5qcGc.jpg",
-     "description": "In this episode, Ryan & Mack speak with two missionaries serving in Uganda about ministry there and the state of the church in the country."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/65331587",
-     "title": "On Gospel Infrastructure, with Scott Logsdon (Ep. 51)",
-     "date": "2025-04-03T09:00:13.000Z",
-     "duration": 2909,
-     "audio": "https://media.transistor.fm/351f395e/985e6c5f.mp3",
-     "image": "https://img.transistorcdn.com/rIKM0WQxyVhrbBeZRxaiJ9k6EcvUQAVj84G3l-sbl9g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMGM5/MjEyNjIzY2M2YTgz/OGQyNWE4NDE2ZTIy/NDRiNC5qcGc.jpg",
-     "description": "In this episode, Ryan Robertson and Mack Stiles speak with Scott Logsdon, pastor of Union Church in Istanbul about the importance of various elements of healthy gospel infrastructure for missions stra"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/64987902",
-     "title": "On AI & Bible translation, with Bethany Moore (Ep. 50)",
-     "date": "2025-03-20T09:00:13.000Z",
-     "duration": 3000,
-     "audio": "https://media.transistor.fm/38d5644d/1ea61578.mp3",
-     "image": "https://img.transistorcdn.com/15JnQPONS2Ala-So8jM2xC8Z4ZuwQf4ye5fMzBt837Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84OTcy/NmI5NzM0Zjc3NTMy/Yjg1ZWE2ZTg3NDcz/YmJjNC5qcGc.jpg",
-     "description": "Why is Bible translation important and how should we strategize translating the Bible into other languages? In this episode, Ryan and Mack speak with Bethany Moore about translation strategies and how"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/64725085",
-     "title": "On Ekklesia International (Ep. 49)",
-     "date": "2025-03-06T10:00:12.000Z",
-     "duration": 2157,
-     "audio": "https://media.transistor.fm/d7fbb7f1/bea688b6.mp3",
-     "image": "https://img.transistorcdn.com/UhH_88Qcc2q4mz0grgDaKmg4zMy3vKhsW_h1-YaBbMI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wODcz/YzE2MWZlNzg0OGY4/YmZmNjI3MTlhYmI4/MTViMy5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson chat with Andy Johnson, John Folmar, and Josh Manley about Ekklesia International. You can find more information about Ekklesia Interna"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/64475453",
-     "title": "On Missions in North Africa (Ep. 48)",
-     "date": "2025-02-20T14:47:58.000Z",
-     "duration": 1942,
-     "audio": "https://media.transistor.fm/51e78b48/5b4a4f59.mp3",
-     "image": "https://img.transistorcdn.com/Dzjl8aNExAXTW0r8TS2GmGjN86aO4v-7itz2gHlHQmE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MGFk/Mzg4NmM5NWY3YWY0/MzczMzNkZmU2Nzk2/ZGY1NS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Joe and A.W., about their missionary work in North Africa. Subscribe to our new podcast, A Storm in the Desert."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/64229538",
-     "title": "On Pastoring in Japan (Ep. 47)",
-     "date": "2025-02-06T14:16:32.000Z",
-     "duration": 1855,
-     "audio": "https://media.transistor.fm/fa2daf1d/a6429541.mp3",
-     "image": "https://img.transistorcdn.com/NPt7A12wf31P1qhsxGGpgS2peHNmZiLSb2FDVkzVmd8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZTIw/MTI0NjNiZDJhNDdj/MTNhN2MwOWQxM2Jl/Nzg2Ni5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson interviews Ben Howard, a pastor at Yokohama International Baptist Church, about pastoring in Japan. Learn more about the gospel needs in Tokyo, Japan, "
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/63836499",
-     "title": "On Serving as Missionaries in Japan (Ep. 46)",
-     "date": "2025-01-23T11:00:07.000Z",
-     "duration": 1788,
-     "audio": "https://media.transistor.fm/6836b086/0b246b0f.mp3",
-     "image": "https://img.transistorcdn.com/IP0NKcnZGeA42FKx-UljgeXs2YYOlfKAdTLJQ4bGn6o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Yjc0/NWY5NmRlYjhiMjky/NzgxOTNkMTI5NTNi/MWRkNi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson interviews Stephen and Alexandra Tipton about their missions work in Japan. Learn more about the gospel needs in Tokyo, Japan, at prayfortokyo.com. #Pr"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/63621060",
-     "title": "On Tokyo with a Japanese Brother (Ep. 45)",
-     "date": "2025-01-09T11:00:07.000Z",
-     "duration": 2584,
-     "audio": "https://media.transistor.fm/8c9d3bb1/6e9c250a.mp3",
-     "image": "https://img.transistorcdn.com/bZvhIzT_h9Y1i7Q50sglO5VuhITQ5rvEproX5A89bLE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzhh/NzBjYzdmZGY5OWE5/NjRhOWM5NzRkNjA0/NjBlZS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson interviews Joe Yozawa about ministry in Tokyo. Learn more about the gospel needs in Tokyo, Japan, at @RTIMChannel and prayfortokyo.com. #PrayForTokyo"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/63479397",
-     "title": "On Missions in Urban Contexts, with Sam Martyn (Ep. 44)",
-     "date": "2024-12-26T18:39:56.000Z",
-     "duration": 2210,
-     "audio": "https://media.transistor.fm/a74a01da/5d1b483a.mp3",
-     "image": "https://img.transistorcdn.com/-vAnGA3ruRKiJiYBZ3weCZzN1GRKyB4K5pyqIK3KFLY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYTU3/ZGE1NjYyY2YzNGVl/ZTc4NGNjZDhjMTY2/N2M0NS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Sam Martyn on the importance of urban contexts for missions."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/63283735",
-     "title": "On the Usefulness of Internships in the Preparation of Missionaries (Ep. 43)",
-     "date": "2024-12-12T12:47:04.000Z",
-     "duration": 2664,
-     "audio": "https://media.transistor.fm/43e914d0/8e792f61.mp3",
-     "image": "https://img.transistorcdn.com/FuVKk4OSCyXbHTThqN2pTT7jjAMM1_uTNMq4geKy4aw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDhj/M2Q3YjcyNTg5OTA1/Yjk0MGIwOTViZjlj/NWI3NC5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview John Folmar, David Lawrence, and Tanner Callison on the usefulness of internships for missionary training."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/63039122",
-     "title": "On the Preparation of Missionaries with Matt Rogers (Ep. 42)",
-     "date": "2024-11-28T11:00:08.000Z",
-     "duration": 3055,
-     "audio": "https://media.transistor.fm/e37f5ef1/9d854afd.mp3",
-     "image": "https://img.transistorcdn.com/zr3Ue2CB9o0LX5wc8IehAjwsAVuIqQrjNHF0PR2HifU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNzMy/MGM0NzM0NDg0NWQ3/NDE3N2UyMDBlZmZl/ZjQwNi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Matt Rogers on the preparation of missionaries in the local church."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/62731026",
-     "title": "On the Families in the Field with Joanne Parks and Brandy Spandler-Davidson (Ep. 41)",
-     "date": "2024-11-14T11:00:07.000Z",
-     "duration": 2662,
-     "audio": "https://media.transistor.fm/4daed129/12a2c5d5.mp3",
-     "image": "https://img.transistorcdn.com/4LK0U5hcpoFj6b4_rKNJ4gA7Zh7uZEcgxITeeDRKEsw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNGU0/MWYyZDk3ODRmZjFk/Y2EzOTVkOWQ1ZGY5/NmIyYy5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Joanne Parks and Brandy Spandler-Davidson about families in the field."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/62564048",
-     "title": "On Missionary Teams with Ryan Currie (Ep. 40)",
-     "date": "2024-10-31T09:00:07.000Z",
-     "duration": 2013,
-     "audio": "https://media.transistor.fm/928e4343/8113195d.mp3",
-     "image": "https://img.transistorcdn.com/DY7WGXFs7tr-bDxhQm6iHT7y76H5jQRJM5pZftzzEFw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xN2Y2/NjZiZDM3MTg4OGNj/MmFkMWZiMGIwNTRi/NmFjZi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Ryan Currie about the importance of theological and convictional unity in missionary teams."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/62312032",
-     "title": "On Missions Opportunities in Argentina (Ep. 39)",
-     "date": "2024-10-10T12:01:28.000Z",
-     "duration": 2657,
-     "audio": "https://media.transistor.fm/94f86a72/b2df254f.mp3",
-     "image": "https://img.transistorcdn.com/bX4-kKFEWbT3_FO-3VNXLN9Fuxow7kFYdMdqban_xdE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZTZm/ZTJiNTJiMGI3OWNm/ZjIxMDgyYTBjYmZm/NDg0NS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack interview Sam Masters, Eric Abisror, and Jason Wright about God's work in Argentina through seminaries and local churches."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/62111718",
-     "title": "On Strategic Studies Abroad, with Andy Johnson (Ep.38)",
-     "date": "2024-09-26T09:00:08.000Z",
-     "duration": 2558,
-     "audio": "https://media.transistor.fm/36d152a9/b2aac0c9.mp3",
-     "image": "https://img.transistorcdn.com/7XNsJ2b2ZZ9ev67OvooHgjdQah5XACzdB6xxtSEdw8c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNjQ0/N2YxMTAzODc2Zjc1/YjdhMmRmZGE4YjFk/ZGFkZC5qcGc.jpg",
-     "description": "Missions Talk is back for a new season! In this episode, Ryan Robertson and Mack Stiles talk with Andy Johnson about how the university students have the unique opportunities to share the gospel and f"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/60293570",
-     "title": "Episode 37: On William Carey, with Sam Masters",
-     "date": "2024-06-06T09:00:09.000Z",
-     "duration": 2391,
-     "audio": "https://media.transistor.fm/b877c771/df1c9f91.mp3",
-     "image": "https://img.transistorcdn.com/-sOwqZ80vZrS9Dszm1Aur78ojnqoniI04HJ2QtXBDgA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMDM2/OTdkZWJlMTY5YjI0/NTA0MTZkMThjYTA2/ZTljNS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Sam Masters, the Rector of Seminario Bíblico William Carey, about William Carey Related resources: William Carey by S Pearce "
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/60143862",
-     "title": "Episode 36: On Missions Mobilization with Rachel Ware",
-     "date": "2024-05-23T09:00:09.000Z",
-     "duration": 2169,
-     "audio": "https://media.transistor.fm/0906581b/635fdd5d.mp3",
-     "image": "https://img.transistorcdn.com/S3CaTJ83h7DfmMml4oN39rb30qwcwra3m36No-fmR8M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMDI1/MWZhNjYwZDg2NWFl/MWNhMDZlNGU4ZjJi/ZDdiNy5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Rachel Ware, the Director of Mobilization at Reaching and Teaching, about how local churches and pastors can help aspiring mi"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/59935587",
-     "title": "Episode 35: On Church in Hard Places with Matthew Spandler-Davidson and Francisco Puente",
-     "date": "2024-05-09T09:00:07.000Z",
-     "duration": 2001,
-     "audio": "https://media.transistor.fm/7315c808/91b1eeae.mp3",
-     "image": "https://img.transistorcdn.com/8heUH-lugs2UB90BlTNUwOVD3JtuDAUuLbYTZWFR6XY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2E5/MmY2Y2E3Njg0OTA2/NWNiODk3Y2Q3Yjgw/ZmY4MC5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack interview Matthew Spandler-Davidson and Francisco Puente about planting, revitalizing, and pastoring churches in hard places."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/59646344",
-     "title": "Episode 34: On Local Churches and Sending Agencies",
-     "date": "2024-04-25T09:00:06.000Z",
-     "duration": 1765,
-     "audio": "https://media.transistor.fm/b3714484/65a5aeba.mp3",
-     "image": "https://img.transistorcdn.com/-YX7WfUHskRQ0-oW1N-ZR_7QiOFCZU8gc2tZ6TQfmo4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kODZj/NDMyODhhYjM4Yjc1/ZTUyZGQ2ODc1Mjc1/MjlhNC5qcGc.jpg",
-     "description": "In this episode of missions talk, Ryan Robertson and Mack Stiles talk about the relationship between local churches and sending agencies"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/59411806",
-     "title": "Episode 33: On Conversion with Brooks Buser and Michael Lawrence",
-     "date": "2024-04-11T09:00:05.000Z",
-     "duration": 2833,
-     "audio": "https://media.transistor.fm/84904d89/f5230fdd.mp3",
-     "image": "https://img.transistorcdn.com/sjoutu2Q149OjbTda_HL8mZ66aoh9A3hAQamaD6-370/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYjll/ZWNiZGVkZjU1NGE0/MjgzMzRmNjNjZDNi/ZDRhZi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles talk with Brooks Buser and Michael Lawrence on the doctrine of conversion and how it relates to missions."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/59203874",
-     "title": "Episode 32: On Work Amongst the Moi with the Whatleys",
-     "date": "2024-03-28T09:00:04.000Z",
-     "duration": 2792,
-     "audio": "https://media.transistor.fm/d4d4cd3e/d4ce3415.mp3",
-     "image": "https://img.transistorcdn.com/89-XQZVZMzqAMkEYqjVh-J9ozBz6UrGIPsPMP4d7xoU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZmIw/ZDU1MTliNzU0Yzdh/YmJiMjY4ODEzNzRl/ZWQ1Yi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson interviews the Whatleys about their work amongst the Moi people."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/59039490",
-     "title": "Episode 31: On Hurdles to Missions Mobilization with Luke Womack and Matt Sonke",
-     "date": "2024-03-14T09:00:03.000Z",
-     "duration": 2736,
-     "audio": "https://media.transistor.fm/4bf597f2/e93237b4.mp3",
-     "image": "https://img.transistorcdn.com/MiyO_P6B5_Gc8KWsTX-JZs-kQ2HHAZ3N4WP5_hABBKU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMGU4/ZmUyNGVkNTUwMWRi/NTU3ZWYzMDlhMThh/NmQwOS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview Luke Womack and Matt Sonke from Airo Missions about the potential hurdles for future missionaries and how the church can help"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/58872650",
-     "title": "Episode 30: On Fundraising with Chad Ireland and Dylan Eagle",
-     "date": "2024-02-29T10:00:03.000Z",
-     "duration": 2443,
-     "audio": "https://media.transistor.fm/20722d28/05282ecb.mp3",
-     "image": "https://img.transistorcdn.com/-FGipfU8i_qaeuvV3N4uQqZY1mgtTJcl8PlWilmYOsg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjU0/ZmQ1Y2E0N2ExN2E3/NGJjYmU2NDQ5YThk/NGZiMy5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack chat with Chad Ireland and Dylan Eagle about fundraising for missions."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/58691462",
-     "title": "Episode 29: On Great Commission Council",
-     "date": "2024-02-15T10:00:02.000Z",
-     "duration": 1714,
-     "audio": "https://media.transistor.fm/1c0e23e3/e12ef7cc.mp3",
-     "image": "https://img.transistorcdn.com/6PdQ5_DjkzcFm6JOzOJoWfm-JcAY1xHajmXQ0J4BTV0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWVm/NjVjMzM1MGQ1ZmJm/YmI0ODY1OTUzNmU1/Mzg0MC5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson interviews Mack Stiles about Great Commission Council and how pastors and churches could benefit from GCC. https://www.greatcommissioncouncil.org/"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/58340707",
-     "title": "Episode 28: On Visiting Missionaries Overseas, with Tim Hamer and Aaron Menikoff",
-     "date": "2024-01-18T10:00:02.000Z",
-     "duration": 2354,
-     "audio": "https://media.transistor.fm/1fd2e5bb/0ac30631.mp3",
-     "image": "https://img.transistorcdn.com/N2jqWAVkR7sUgnyQhV8m-f4Lq24hZNdLTzs2kc9lK4g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTU4/MmNiM2E3ZGE4N2Zk/YmRjZjRlMjMxZGJm/MjIzYy5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Tim Hamer and Aaron Menikoff on visiting missionaries overseas."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/58080214",
-     "title": "Episode 27: On Single Women Serving Overseas, with Kim and Rey",
-     "date": "2023-12-21T10:00:03.000Z",
-     "duration": 2033,
-     "audio": "https://media.transistor.fm/8179026e/85ce32a4.mp3",
-     "image": "https://img.transistorcdn.com/Diq8Cy-fDKbw9An_tt0Dm1iz0mMBXXCSQcrU9Lf1xI4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYWJk/YTQ4ZWU5ZjI1MTM3/NzhhZmRjNGRhMDU1/NmY3My5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack and Ryan interview Kim and Rey on how the local churches can help and benefit from missionaries who are single."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/57936199",
-     "title": "Episode 26: On Campus Ministry in the Middle East, with Nathan Matthews",
-     "date": "2023-12-07T10:00:03.000Z",
-     "duration": 2112,
-     "audio": "https://media.transistor.fm/cbb6c04b/59d06013.mp3",
-     "image": "https://img.transistorcdn.com/aq3uDfRb8-2D6lqcVS4P12JR9QBizoT6tHQInZKfnZE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYzA3/OTUzY2Y2YmFhYzFk/MzNiN2NiYjkyNTUx/YjY0Yy5qcGc.jpg",
-     "description": "What does a Campus Ministry look like overseas and where does the local church fit in? In this episode of Missions Talk, Mack Stiles and Ryan Robertson interview Nathan, who is a director of a campus "
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/57784166",
-     "title": "Episode 25: On Mission Affirmed, with Elliot Clark",
-     "date": "2023-11-23T15:29:45.000Z",
-     "duration": 2386,
-     "audio": "https://media.transistor.fm/bbc17a24/d171b3be.mp3",
-     "image": "https://img.transistorcdn.com/H3GoB-xxs8ckezmh3ArydLl8ERwRltCjQLgQY7pgnGM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82N2Qz/YTc0YzY1M2M3OTg1/MzNmNDUyYjM0ZTg2/OWE4ZS5qcGc.jpg",
-     "description": "In this episode, Ryan and Mack interview Elliot Clark on his recent book \"Mission Affirmed\" and his writing on the ministry and motivation of Paul."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/57568676",
-     "title": "Episode 24: On Evangelism to Muslims (with Matthew Bennett and Ayman Ibrahim)",
-     "date": "2023-11-09T10:00:03.000Z",
-     "duration": 2774,
-     "audio": "https://media.transistor.fm/85e0cdfc/88647e95.mp3",
-     "image": "https://img.transistorcdn.com/RDS1IdHM-sv-6EPZqfRDUxEC3aKq3fVXYm12EkrcYnc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YjEw/MDQ5ZWVmMjFmMzBj/M2M0MGFiYWY3Zjlk/ZjUxZi5qcGc.jpg",
-     "description": "In this episode, Ryan and Mack interview Matthew Bennett and Ayman Ibrahim on how Christians should interact and evangelize to Muslims."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/57390278",
-     "title": "Episode 23: On the Insider Movement (with Matt Bennett & Doug Coleman)",
-     "date": "2023-10-26T09:00:03.000Z",
-     "duration": 3313,
-     "audio": "https://media.transistor.fm/0f4524e6/2e83c3bc.mp3",
-     "image": "https://img.transistorcdn.com/9Cz9QkQwy3XKlwGOrRsX7XO9YgHUm0v9BZ3LlB_nHQc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82OWI2/NTY3MDAxZTU1Y2Vk/NjNiNDY3MTUzZDky/NjM0MC5qcGc.jpg",
-     "description": "In this episode, Ryan and Mack speak with Matt Bennett and Doug Coleman about the history and practice of Insider Movement methodologies."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/57246168",
-     "title": "Episode 22: On the Local Church and Missions from the Sing! Conference",
-     "date": "2023-10-16T09:00:04.000Z",
-     "duration": 2298,
-     "audio": "https://media.transistor.fm/06475db8/2e689d8b.mp3",
-     "image": "https://img.transistorcdn.com/3IUUzOBWbv7eu3k_5kh1_piq1hB69vi08PUuKPxmWKg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NTJk/YmMyOGZiZTU3YzFj/YTk5NDk2NjQzMDUx/YTQ4OS5qcGc.jpg",
-     "description": "In this episode recorded live at the Sing! conference, Ryan & Mack speak with Mark Dever, Matt Merker, and Juan Sanchez about a variety of topics including the training up and sending out of qualified"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/56969128",
-     "title": "Episode 21: On Adoniram Judson (with Jason Duesing)",
-     "date": "2023-09-28T09:00:03.000Z",
-     "duration": 2095,
-     "audio": "https://media.transistor.fm/d8c5827b/1e629227.mp3",
-     "image": "https://img.transistorcdn.com/r4QlqN12dXSviabgW0V_SikVja5ovRgUN_Bb4n0GFZw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYTU5/ODI3ZDRhNzNhZDcy/ZjVkMTk0MmM2NGM0/YjQ1Ni5qcGc.jpg",
-     "description": "In this episode, Ryan & Mack interview Jason Duesing about various aspects of Judson’s childhood, conversion, marriage, suffering, and his ministry in Burma."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/56795210",
-     "title": "Episode 20: On Short-Term Missions (with Mack and Leeann Stiles)",
-     "date": "2023-09-14T09:00:03.000Z",
-     "duration": 2363,
-     "audio": "https://media.transistor.fm/ef621864/af0f3bd4.mp3",
-     "image": "https://img.transistorcdn.com/8g-KFVyTYXo6bUpnz2NDtSAKql7jceHxePmbT8zlodQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjM3/NDYxNmY1ZTgxNTYy/Njc2Njg2NTEzMTFk/ZTMwYi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan chats with Mack and Leeann Stiles about short-term missions."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/56241204",
-     "title": "Episode 19: On Sending Churches and Local Churches and Missionaries and Agencies (with Miller Johnson and Caleb Greggsen)",
-     "date": "2023-07-27T09:00:03.000Z",
-     "duration": 2953,
-     "audio": "https://media.transistor.fm/2545f7dd/1f77292f.mp3",
-     "image": "https://img.transistorcdn.com/viADScv6crO7dWF9qT3_ryl9KiGg6MfCJaKIhPinORU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MzNi/OGE5YmEzZGJjYjQx/NzlhNTkzZTg5NTc3/OTI1My5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack and Ryan interview Miller and Caleb Greggsen about the relationship between missionaries and sending churches."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/56009300",
-     "title": "Episode 18: On the Strategic Value of Missions Work in Global Cities (with Scott Logsdon and Will Sutton)",
-     "date": "2023-07-06T09:00:03.000Z",
-     "duration": 1882,
-     "audio": "https://media.transistor.fm/dfc6612b/a6282722.mp3",
-     "image": "https://img.transistorcdn.com/e7F3Hj4BbSYkn-ma6HzoyJhdomXcyocA54627bl5EuI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNWFi/MGU5MWM5NDgwNGE4/ODYyMTc4MDg1MDhl/ZWQ1YS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Mack and Ryan interview Scott Logsdon and Will Sutton on the strategic value of missions work in global cities"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/54702712",
-     "title": "Episode 17: On the Missionary Calling (with Greg Gilbert and Bobby Jamieson)",
-     "date": "2023-06-22T09:00:02.000Z",
-     "duration": 1723,
-     "audio": "https://media.transistor.fm/303a5d3b/555eeef1.mp3",
-     "image": "https://img.transistorcdn.com/X61MXP2Mh6VhigE73B65lE-lE09BMQksSC59GKmgrWQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NWY1/YTMwYzk2Nzc2YzZk/MmY2YWQwYjkzNDll/MWJkZC5qcGc.jpg",
-     "description": "The hosts chat with Greg Gilbert and Bobby Jamieson about how to view the missionary calling biblically."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/54135100",
-     "title": "Episode 16: On Missions Work in Asian Sub-Continent (with Clyde Davidson and Tom Roberts)",
-     "date": "2023-06-08T09:00:02.000Z",
-     "duration": 1800,
-     "audio": "https://media.transistor.fm/66f9ab11/fe127d84.mp3",
-     "image": "https://img.transistorcdn.com/iToYDpv-s_z5NOTXGi8tIaqJh_zF1RI9XkZNwdalUYk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODgw/MmQ2OGM3Y2ZlNzlm/MjNlMzQwNGIxODg4/YWIyNC5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack chat with two missionaries from Asia' sub-continent. Though they're both Westerners, they've learned the language and now serve as elders in indigenous "
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/53995175",
-     "title": "Episode 15: On the Yembi Yembi (with Brooks and Nina Buser)",
-     "date": "2023-05-25T12:05:27.000Z",
-     "duration": 2351,
-     "audio": "https://media.transistor.fm/15d30f6e/c5b0685c.mp3",
-     "image": "https://img.transistorcdn.com/dcR2qaZ5pwpFZIR0xpNxnSiIOroIo3wbDcRLofCs204/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYTAz/OTc0ZjFlN2YwMDlk/ZDg3NGMyYWFkYzE0/Nzg3NC5qcGc.jpg",
-     "description": "Twenty years ago, the Yembi Yembi tribe had no Christians and no written language. Today, they enjoy the ministry of a healthy local church and the Scriptures in their own tongue. Hear the amazing sto"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/53815041",
-     "title": "Episode 14: On Building a Missions Culture in a Young Church (with Thomas Gamble)",
-     "date": "2023-05-11T09:00:02.000Z",
-     "duration": 1421,
-     "audio": "https://media.transistor.fm/df057feb/014c8159.mp3",
-     "image": "https://img.transistorcdn.com/YNTISPY7jRWNvihIlvRnM_MSuArN4itX4JqYtC8gXcg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOGEz/NjJlMTRkN2ViYzEw/M2E0ZWQ1ZGFlMDYz/ZDgyMS5qcGc.jpg",
-     "description": "Ryan and Mack chat with a new pastor about how to build a culture of missions in a young church."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/53661131",
-     "title": "Episode 13: On Missions Work in Central Asia (with Tyler Markson and George Jamieson)",
-     "date": "2023-04-27T09:00:02.000Z",
-     "duration": 1766,
-     "audio": "https://media.transistor.fm/679774e6/59b0cc7f.mp3",
-     "image": "https://img.transistorcdn.com/wEPsFr5oaL_OkAXDiE2AtzK062e558kBBL8vsI7-bLE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80M2Ex/OTQyNTNlMjljOWM0/NjRjNjI2Mzg1NTZi/MzRlZi5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack chat with two missionaries in Central Asia about their ministry and work."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/53520425",
-     "title": "Episode 12: On What Is the Mission of the Church (with Kevin DeYoung)",
-     "date": "2023-04-13T09:00:03.000Z",
-     "duration": 2318,
-     "audio": "https://media.transistor.fm/b4486567/bdb26046.mp3",
-     "image": "https://img.transistorcdn.com/FcHBxopxaAkrDZ4bBznXAYqCEVRPqt0KETMrIrwJ5ww/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTc3/NzM0ODM2YzI4NDVk/OWM4NjcxODVjZTRh/MmI5NC5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack interview Kevin DeYoung about his book, What Is the Mission of the Church?"
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/53385393",
-     "title": "Episode 11: On the CROSS Conference (with Matt Schmucker and Shawn LaCount)",
-     "date": "2023-03-30T09:00:04.000Z",
-     "duration": 2080,
-     "audio": "https://media.transistor.fm/1f54d3c5/f9c18888.mp3",
-     "image": "https://img.transistorcdn.com/QqcmXXvaD0RS-yYmDBh18v4biRgeT0pjWCTwhRR6Zbo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Y2Fj/MTRjMjBhNWRhZTRi/YWY4MTUxZTI1OTYz/ODM5OS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan and Mack interview Matt Schmucker and Shawn LaCount, the organizers of the Cross Conference."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/53067510",
-     "title": "Episode 10: On Why the Local Church Matters in Missions (with Chip Bugnar, Andy Johnson, and Scott Logsdon)",
-     "date": "2023-03-02T10:00:03.000Z",
-     "duration": 2396,
-     "audio": "https://media.transistor.fm/13d60259/f459d9c8.mp3",
-     "image": "https://img.transistorcdn.com/zO2gA8RMRVlm0EmitGjRomht84GHysoM8fz_nZaOuYk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NGUz/NzEyOGRhYjIxOWM1/Y2Y3MDA5YjdhNDMy/MjNhYS5qcGc.jpg",
-     "description": "In this episode of Missions Talk, Ryan Robertson and Mack Stiles interview pastors about why the local church matters for missions work."
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/52749833",
-     "title": "Episode 9: On Why a Biblical Understanding and Practice of Prayer Matters in Missions (with Caleb Morell and Jordan Wolfe)",
-     "date": "2023-02-16T10:00:02.000Z",
-     "duration": 2196,
-     "audio": "https://media.transistor.fm/b29dcdc8/b1e6c2f3.mp3",
-     "image": "https://img.transistorcdn.com/mcN5Fo2bZa_fzIOx5GhtsdoAAyesRMZWMWcK0deITj4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NmZk/ZTMxYTdlM2ExODMz/MzQ2YmE2NTI5OWJm/YmE3YS5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/52546915",
-     "title": "Episode 8: On Why Biblical Church Leadership Matters in Missions (with Brian Parks, Mark Collins, and Eric White)",
-     "date": "2023-01-26T10:00:02.000Z",
-     "duration": 2371,
-     "audio": "https://media.transistor.fm/6b861d11/df8f5b18.mp3",
-     "image": "https://img.transistorcdn.com/kLU4jNxFclPolijgJyftHKmB3Jooz5NzB7VvUxEBWDI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNWFj/MDkzZWQzYWJlYzI1/NmU3MDBkZWZjYWM4/Njc4Ni5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/52419036",
-     "title": "Episode 7: On Why a Biblical Concern for Discipleship and Growth Matters in Missions (with Anand Samuel & Jeff Kelly)",
-     "date": "2023-01-12T10:00:02.000Z",
-     "duration": 2219,
-     "audio": "https://media.transistor.fm/91affdc4/1fbf3a16.mp3",
-     "image": "https://img.transistorcdn.com/vCDtjKLWztfkpx86XaSIGW62FdlyPe-vnodl5HcqhZE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNDgz/YTNjZGIyMDc0ZmI5/YzFiYjY5NDljYmUx/NGEwMi5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/52127282",
-     "title": "Episode 6: On Why Biblical Church Discipline Matters in Missions (with Ken Mbugua and Aubrey Sequeira)",
-     "date": "2022-12-15T10:00:02.000Z",
-     "duration": 2767,
-     "audio": "https://media.transistor.fm/4fdad9bb/30b97128.mp3",
-     "image": "https://img.transistorcdn.com/f1Jj6bZVMet0RTHHrGqbx9sdN9aHkYI8MC9niymmp4I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84OTM4/M2VhNDQ5ZmI2ODJk/YjRjNjJkZWE4Mjcx/OTIxNC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/52062698",
-     "title": "Episode 5: On Why Biblical Church Membership Matters in Missions (with David Lawrence, Chariot Lu, and Caleb Greggsen)",
-     "date": "2022-12-01T10:00:03.000Z",
-     "duration": 2599,
-     "audio": "https://media.transistor.fm/94fe7a0d/c8dd37d9.mp3",
-     "image": "https://img.transistorcdn.com/NFZGuNEFvrwExgupWSpAJ-k-0YjJEqYw9NJVuEViSAs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNzgy/MzNjNmE0YWNjNDdh/OWVhMTgzNTRlZWQ3/MjdmZi5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/51846818",
-     "title": "Episode 4: On Why Conversion and Evangelism Matters in Missions (with Pastor Harshit and Josh Manley)",
-     "date": "2022-11-10T10:00:02.000Z",
-     "duration": 1997,
-     "audio": "https://media.transistor.fm/cd4f93f9/7c0ab7b7.mp3",
-     "image": "https://img.transistorcdn.com/7q7llPJnwc39_mFoTmCkL9oQ-zUQ1IU9XvMS1fY-Th8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MTky/YjUxN2ZkNTg2MDRk/MWEyY2YyZjUyYzEw/Y2VmNS5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/51700325",
-     "title": "Episode 3: On Why Gospel Doctrine Matters in Missions (with Brooks Buser and Matt Tyler)",
-     "date": "2022-10-27T09:00:02.000Z",
-     "duration": 2705,
-     "audio": "https://media.transistor.fm/a9ccea60/d97af2cc.mp3",
-     "image": "https://img.transistorcdn.com/eV4JM-u0wD-7kq4fN1ONTTZn_05tQLDHrhFfp5QYyq8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Y2Jk/MjMyMjNhMDJkYWQ5/M2VjYWQyYWQ5MTFk/ZWQzMC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/51559754",
-     "title": "Episode 2: On Why Expositional Preaching Matters in Missions (with John Folmar and Christian Lwanda)",
-     "date": "2022-10-13T09:00:10.000Z",
-     "duration": 2017,
-     "audio": "https://media.transistor.fm/fa9641e9/dd579d06.mp3",
-     "image": "https://img.transistorcdn.com/7ktUkYf9uXdqPGQouZN6c6rYMhFuD3WZZub9E1d_t4A/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNjMz/ZDhmMjIwYjI5YmZk/MTM4MmU5YTQ3OTJj/MTI4Ni5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1647567459|https://api.spreaker.com/episode/51415522",
-     "title": "Episode 1: On the Reasons We Started Missions Talk",
-     "date": "2022-09-29T11:41:16.000Z",
-     "duration": 1497,
-     "audio": "https://media.transistor.fm/b8c35b48/0fef288c.mp3",
-     "image": "https://img.transistorcdn.com/Dn5u153FAPFWeNIBBtEmqua-c5j1yH7P7oBjBZdFRus/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMWUy/MTljNDM4ZWFhNzA5/MmEyNGEzMmRjOWE3/YzJkNy5qcGc.jpg",
-     "description": ""
     }
    ]
   },
