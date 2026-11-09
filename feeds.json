@@ -1,6 +1,690 @@
 {
- "updated": "2026-11-05T10:13:10.070Z",
+ "updated": "2026-11-09T18:47:38.028Z",
  "shows": [
+  {
+   "id": "1649518837",
+   "name": "Priscilla Talk - A podcast by 9Marks",
+   "author": "9Marks",
+   "image": "https://img.transistorcdn.com/0cMyhFK87RG_jpGTgaSpzs2-ga3a3jytNq4GJctjyto/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OGI4/NDFmZjEzZTkyN2U5/OWVkNWJhY2NjMDE1/ZTZlNi5qcGc.jpg",
+   "link": "https://www.9marks.org/podcast/priscilla-talk/",
+   "episodes": [
+    {
+     "id": "1649518837|709a33e1-dccc-48b6-a83d-ec63aefb661d",
+     "title": "On the Implications of Being Embodied Souls in the Body of Christ (Ep. 75)",
+     "date": "2026-11-09T10:00:00.000Z",
+     "duration": 2158,
+     "audio": "https://media.transistor.fm/95586ffa/45343fd8.mp3",
+     "image": "https://img.transistorcdn.com/YiI-KuaVjAdVS94dYqk197ge6ilvhzlBLO0F0KbyG-k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTk0/NzgzYmM1ZDA3M2Jj/N2E2NDgxYWNkN2I3/MTA2YS5qcGc.jpg",
+     "description": "Keri, Erin and Jenny discuss why the church should be concerned about beauty, treatments, trans, humanism, and jars of clay."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/72528403",
+     "title": "On wrapping up church centered missions with centralasianetwork.com (Ep. 74)",
+     "date": "2026-06-15T09:00:16.000Z",
+     "duration": 2256,
+     "audio": "https://media.transistor.fm/51e42209/fc090212.mp3",
+     "image": "https://img.transistorcdn.com/yfTCTsppWMoZR16oV1Lqzu4zF8THgkaMwT_4pSGGvsQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNjI1/Mjg2N2JkODg5ZmI2/OWU1MWY2MjRlODE4/MTYyNi5qcGc.jpg",
+     "description": "Dog or cat people? Listen to our wrap up episode on missions to find out as we answer some listener questions and tie up our series in missions. We also learn what Jenny’s been up to in RAK."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/72269851",
+     "title": "On Prioritizing the Church AND Missions (Ep. 73)",
+     "date": "2026-06-01T09:00:19.000Z",
+     "duration": 2274,
+     "audio": "https://media.transistor.fm/6b1f556f/4199eb3e.mp3",
+     "image": "https://img.transistorcdn.com/bp4XshRDRl5KEgNF90rHwjTBWVeokG5XXQpSbk5GVf8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNTQ3/ZTk4MTg5ZWQ0NDcx/NGMyYzVlMzZkNGUy/MGYyOC5qcGc.jpg",
+     "description": "The church is the beginning and the end of missions, and therefore also the means. Listen as the Priscilla Talk ladies discuss the church as the center of missions with pastors and authors John Folmar"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/72051236",
+     "title": "On Why Missions Should be Church-Centered (Ep. 72)",
+     "date": "2026-05-18T09:00:21.000Z",
+     "duration": 2680,
+     "audio": "https://media.transistor.fm/b6cf48bb/34bb3476.mp3",
+     "image": "https://img.transistorcdn.com/ZeRIT3Vo9eaJ9OpCrvQQQQEjm6wQLuV0tHmAhSjt1t4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MmI4/YzE3N2QzNzcyNzk0/NjRlNDE5MmVmNzU2/ZTA1ZC5qcGc.jpg",
+     "description": "Keri, Jenny and Erin talk with international church pastor’s wife, Cyndi Logsdon about what she’s seen on the field and why missions should be church-centered."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/71848730",
+     "title": "On The Great Commission Congress (Ep. 71)",
+     "date": "2026-05-04T09:00:23.000Z",
+     "duration": 1701,
+     "audio": "https://media.transistor.fm/672aee90/07fb997f.mp3",
+     "image": "https://img.transistorcdn.com/wQ61251S_cP2TCTEW_b31BOdRbgOrhDw7kWq1C73bGo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMjQ2/M2UyNTE0MmRjMjQ3/ODM3NjYzOTcyMzFl/Zjk0ZC5qcGc.jpg",
+     "description": "Josh Manley and Danny Davison invite Priscilla Talk listeners to the October GCC. Resources Mentioned: Great Commission Congress Registration"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/71480838",
+     "title": "On the Church in the Midst of War (Ep. 70)",
+     "date": "2026-04-20T09:00:17.000Z",
+     "duration": 2698,
+     "audio": "https://media.transistor.fm/565b3357/03f32eb1.mp3",
+     "image": "https://img.transistorcdn.com/DCqh80h-mT2XtT-j9QrPDvcb3n_fJI9HG1sMiThgEhc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNzRm/YmQ4ZjQzYzM0NzJk/MzM2MzFkYzBmNmFj/OTM2NC5qcGc.jpg",
+     "description": "Erin talks to Jenny and Keri about the church in the midst of war."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/71126865",
+     "title": "On The Desecration of Man (Ep. 69)",
+     "date": "2026-04-06T09:00:19.000Z",
+     "duration": 2849,
+     "audio": "https://media.transistor.fm/93abdf70/f84f5b44.mp3",
+     "image": "https://img.transistorcdn.com/706UCtFDD0nvH36HbJ6TvLOh3UYtMyticnaFGmnwyzs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNzBl/NWE5ZjA2ZTRiNGY4/MDZkOTllMTRmNWYx/MmFiMi5qcGc.jpg",
+     "description": "Carl Trueman diagnoses the current culture and prescribes the church as the cure. Resources Mentioned: The Desecration of Man by Carl Trueman Previous Priscilla Talk episode with Carl Trueman on Expre"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/70821599",
+     "title": "On Partnering in Missions (Ep. 68)",
+     "date": "2026-03-23T09:00:24.000Z",
+     "duration": 2749,
+     "audio": "https://media.transistor.fm/a16da755/a2204ea9.mp3",
+     "image": "https://img.transistorcdn.com/tqw0b9Efl6ailw5eOZMMaNr7P14RQYQwtXtvWiw-MdE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2U1/MDlkOGQ5YzAwNGVj/M2ZmYjk5YWFmZmE4/YmVhYi5qcGc.jpg",
+     "description": "Erin, Jenny, and Keri talk with RTIM’s Rachel Ware about keeping the church central in missions partnerships between churches and sending organizations."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/70543514",
+     "title": "On The Joy of Cross-Cultural Ministry in the U.S. (Ep. 67)",
+     "date": "2026-03-09T09:00:18.000Z",
+     "duration": 1460,
+     "audio": "https://media.transistor.fm/929d3a46/2b27ff5f.mp3",
+     "image": "https://img.transistorcdn.com/Xq0O788pfhU_VZR5QywcTxm1uUGBLUkmMfb3sEDt2Wg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzU1/NTgxY2RhYTQ1OTAw/MjI1MzNkMGFiN2Q3/NDJkYi5qcGc.jpg",
+     "description": "Keri, Erin and Jenny talk with Kim about reaching the nations with the gospel here in the United States."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/70220950",
+     "title": "On “Tip of the Spear” Missions (Ep. 66)",
+     "date": "2026-02-23T10:00:27.000Z",
+     "duration": 2967,
+     "audio": "https://media.transistor.fm/ae66afb4/3869c82d.mp3",
+     "image": "https://img.transistorcdn.com/LHJFDljU7E5T55RLzoCFk-V3IIjyH8YSLi4MJEqk08g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kODdh/ZTIxMDk5MTQ0YjJl/Zjg3MTg5ODg5NGM2/YWIyZi5qcGc.jpg",
+     "description": "Erin, Jenny and Keri talk with Mike & Michelle G. about language learning, Bible translation and church-planting where the name of Jesus has not yet been proclaimed."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/69881952",
+     "title": "On Women on the Field (Ep. 65)",
+     "date": "2026-02-09T14:58:18.000Z",
+     "duration": 2746,
+     "audio": "https://media.transistor.fm/425206e2/fbd97591.mp3",
+     "image": "https://img.transistorcdn.com/g9NYyhNZX5ShS0YltWxDPedXjMOeFiKqN2j-2U-PiyI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDEx/YzI4NGMwZjAzYTY3/MzI5YmM1MDE1MDY5/MjhhMi5qcGc.jpg",
+     "description": "Jenny and Keri talk with 3 women on the mission field about why they chose to move overseas and how their sending churches support and encourage them."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/69586963",
+     "title": "On Church Centered Missions (Ep. 64)",
+     "date": "2026-01-26T10:00:20.000Z",
+     "duration": 2143,
+     "audio": "https://media.transistor.fm/0a1cfe26/a01797ce.mp3",
+     "image": "https://img.transistorcdn.com/cjmAGoQIwW2_YgFmfuiplVwlMbhZdra0BeO3EfhszSE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNzI2/M2ZhMTgzZTg5ZGY3/NDJhMzhhNDRjMjMy/NGU1OC5qcGc.jpg",
+     "description": "Jenny, Keri and Erin discuss the importance of prioritizing the church in missions and prioritizing missions in the church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/69050162",
+     "title": "On The Inevitable End of Expressive Individualism (Ep. 63)",
+     "date": "2025-12-15T10:00:20.000Z",
+     "duration": 3287,
+     "audio": "https://media.transistor.fm/53e661fd/8f22e738.mp3",
+     "image": "https://img.transistorcdn.com/yb6pGH_jn9rL2rwH5gNgNvkOZoqI3WjvVUF_48S413c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84OTJh/Y2VmNDczYWE5NmJk/YmMyOGJiYjU5Yzdk/Nzg1Yi5qcGc.jpg",
+     "description": "Carl Trueman talks with Jenny, Erin and Keri about how we can help our families and churches take every thought captive and not be drawn in by expressive individualism. Resources Mentioned: The Rise a"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/68814345",
+     "title": "On Freeing Our Kids from Smart Phones (Ep. 62)",
+     "date": "2025-12-01T10:00:19.000Z",
+     "duration": 3353,
+     "audio": "https://media.transistor.fm/ee7f688d/de649f54.mp3",
+     "image": "https://img.transistorcdn.com/HslW-qz6UR7-8ZfHZ2vIKftHKpjSDKVKiDqgXzh0dKY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNmU0/MmMyMjUwNjA0M2Y0/NjczMzVlMGNlYWY5/NjY5Zi5qcGc.jpg",
+     "description": "Keri, Erin and Jenny talk with Clare Morell about the whys and hows of protecting our children from smart phone danger. Resources MentionedThe Tech Exit: A Practical Guide to Freeing Kids and Teens fr"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/68603257",
+     "title": "On Loving the Church with all her Flaws (Ep. 61)",
+     "date": "2025-11-17T14:37:31.000Z",
+     "duration": 3530,
+     "audio": "https://media.transistor.fm/8dc59d5a/bbd978c2.mp3",
+     "image": "https://img.transistorcdn.com/5QhSXK5Qev8gM_m6cRXKUBjEC6R3eQ6iLZpcKC_RJUo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OTlh/OTZmNDdmNmUzODU0/MmY0NTE1ZTliYzZj/NzAyMy5qcGc.jpg",
+     "description": "Erin, Jenny and Keri talk with Hayley about loving the church in the midst of and when recovering from church hurt. Resources Mentioned: Forgiveness: Reflecting God’s Mercy by Hayley Satrom When Peopl"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/68399875",
+     "title": "On Delighting in the Doctrine of the Holy Spirit (Ep. 60)",
+     "date": "2025-11-03T14:45:29.000Z",
+     "duration": 2661,
+     "audio": "https://media.transistor.fm/befdf464/ef8ec1bd.mp3",
+     "image": "https://img.transistorcdn.com/U7JH0D02yTJOkOFNprrxWnVJbat3PckAMsMCCKNqlEI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OTM1/ZTNhZWFjMTA3ZGRj/MjQyMGUwYjZiMDY1/YzI2Ni5qcGc.jpg",
+     "description": "Jenny and Erin talk to Keri about delighting in the doctrine of the Holy Spirit."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/67846734",
+     "title": "Christianity and the LGBTQ movement with Rosaria Butterfield (Ep. 59)",
+     "date": "2025-09-22T09:00:16.000Z",
+     "duration": 3787,
+     "audio": "https://media.transistor.fm/e2c3a43c/3798bd80.mp3",
+     "image": "https://img.transistorcdn.com/_FIRToxwYTHvqjIKvEmCllIBr77tyD9-EzlwZXyhd4o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZTMx/YzczOTA5MmVjZmRk/NGFiZDU4MDM3NGZh/NzBiMC5qcGc.jpg",
+     "description": "Erin, Jenny and Keri talk with Rosaria Butterfield about her story and her ministry."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/67674552",
+     "title": "Women In The Church with Kevin DeYoung (Ep. 58)",
+     "date": "2025-09-08T11:47:01.000Z",
+     "duration": 2123,
+     "audio": "https://media.transistor.fm/3c372548/6d2c7d13.mp3",
+     "image": "https://img.transistorcdn.com/0gIa91c_JDe5-X3L4G06NDLIFARYzjDGCyjsFOsVZXM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81YTgz/NTMzMGU3OWU3NjVh/NWUyNGQyYjc2ZTVl/MDdlMi5qcGc.jpg",
+     "description": "Jenny, Keri and Erin discuss the necessity of theology, the value of motherhood and differences in family dynamics with pastor and theologian Kevin DeYoung."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/66703342",
+     "title": "Living With Gospel-Glasses, with Tom Schreiner (Bonus Ep. 57)",
+     "date": "2025-06-23T09:00:16.000Z",
+     "duration": 2010,
+     "audio": "https://media.transistor.fm/bb45142a/ad2c3ea0.mp3",
+     "image": "https://img.transistorcdn.com/Ki2Jqr4sPQ_cvFWzh1USNuh__2O9i0OxKKsQlf8WIyg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Njg4/OGU3MmM1N2Y0NzJk/YWNmYzZlNDJmZTQw/ZjllMS5qcGc.jpg",
+     "description": "Jenny, Erin and Keri talk to Professor Tom Schreiner about the apostle Paul, gospel power, and women living through their theology."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/66468286",
+     "title": "It's All About The Seed of the Woman! with Jim Hamilton (Bonus Ep. 56)",
+     "date": "2025-06-09T09:00:13.000Z",
+     "duration": 2548,
+     "audio": "https://media.transistor.fm/162697d3/2dfc8875.mp3",
+     "image": "https://img.transistorcdn.com/BQRVtQ6z6Nhwh4fFAJxA_UM-ttrp6VxYLXvTnZLcpo8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NDY5/NGM3NTY5MzY5NWU2/MjYxYmNmYzQyYmIw/MjJhYS5qcGc.jpg",
+     "description": "Erin, Jenny and Keri talk with professor James Hamilton (of Bible Talk) about why women should love biblical theology."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/66277279",
+     "title": "Season Finale: Challenges and Blessings (Ep. 55)",
+     "date": "2025-05-26T09:00:14.000Z",
+     "duration": 3579,
+     "audio": "https://media.transistor.fm/4429b1a1/573fb9d1.mp3",
+     "image": "https://img.transistorcdn.com/0Pn8MINxyafvbj9e1xeMv2DY5wRWRD1F9bUGLIPcdQk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMWQw/M2U3NmQ1ZmY3ODA3/OGY2MzgyZDU1ZTU4/ODU3ZS5qcGc.jpg",
+     "description": "In this fun and playful episode, Erin, Jenny & Keri close the series on ministry wives by discussing some grab bag topics and questions from listeners. They discuss everything from discernment to supp"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/66049276",
+     "title": "Friendship and the Pastor’s Wife (Ep. 54)",
+     "date": "2025-05-12T09:00:15.000Z",
+     "duration": 2614,
+     "audio": "https://media.transistor.fm/06f6b584/459187fa.mp3",
+     "image": "https://img.transistorcdn.com/h3dOM87l3fufFoyWrGIJ4xPiMvmhYEO0Rgte9tWiggg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZjE5/MGUyNmMwODVlNWNj/M2ZlYzc3NGRjN2U5/ODk3NC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Jenny, Keri, and Erin reflect candidly on the joys and hardships of friendship as a pastor’s wife. They explore the tension of being known and sometimes misunderstoo"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/65774774",
+     "title": "A Beloved Pastors Wife, with Diane Schreiner (Ep. 53)",
+     "date": "2025-04-28T09:00:13.000Z",
+     "duration": 2160,
+     "audio": "https://media.transistor.fm/403deea2/77c210ae.mp3",
+     "image": "https://img.transistorcdn.com/ACzlHRp3qT_uOdkdQTu1C6EDGnIUMWSX7HrtUBwJKFo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMmIw/MDcwZWE3OWU0ZTFh/YWNlNWVhNmMyMmM1/YWQxZC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Erin, Keri and Jenny interview Diane Schreiner, the wife of seminary professor and pastor, Tom Schreiner, about her love for her church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/65562016",
+     "title": "Missionary Wives, with Nina Buser (Ep. 52)",
+     "date": "2025-04-14T09:00:12.000Z",
+     "duration": 3038,
+     "audio": "https://media.transistor.fm/a4e49792/832eb30a.mp3",
+     "image": "https://img.transistorcdn.com/drFVeZjFpfSdbVhOeBTojSbwXIRhhLHAmc34VIKq1U0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYWYy/ZDRkMjhkNTQ4ZWZi/YWIwNWQ3MjZjZTVk/NDVlMi5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler and Jenny Manley talk with former missionary and mission training wife, Nina Buser about the joys and challenges of serving alongside her h"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/65245733",
+     "title": "The Church-planting Wife, with Karen McKinley (Ep. 51)",
+     "date": "2025-03-31T09:00:12.000Z",
+     "duration": 2313,
+     "audio": "https://media.transistor.fm/b76ee0dd/67929c15.mp3",
+     "image": "https://img.transistorcdn.com/1AGyTebvmNz-UaQz-dSfTn6EP6pk9qA9a8a4WMsj7bo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYmI1/YmQyM2EyNzcwODlh/YjgwZDJmOGE2OGM4/ZTQ5My5qcGc.jpg",
+     "description": "Karen McKinley, wife of the author of Church Planting is for Wimps, discusses church-planting and revitalization from the pastor’s wife’s perspective."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/64935749",
+     "title": "On A Storm in the Desert, with Jenny and Keri (Ep. 50)",
+     "date": "2025-03-17T14:51:10.000Z",
+     "duration": 2810,
+     "audio": "https://media.transistor.fm/dcac1b23/4a971f73.mp3",
+     "image": "https://img.transistorcdn.com/LP4U3LbnnxAk6tnJ6ZDhEguB4f-8twbAkUeu1rrf19U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjU4/ZjdmYTE1MWI2MDdm/YWJhOWUxNDIxMmNl/NTI0YS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts take a break and talk about 9Marks' new podcast, A Storm in the Desert, with Jenny and Keri. Subscribe to our new podcast, A Storm in the Desert."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/64666889",
+     "title": "Suffering and the Pastor's Wife, with Carrie Kell (Ep. 49)",
+     "date": "2025-03-03T10:00:13.000Z",
+     "duration": 2462,
+     "audio": "https://media.transistor.fm/280ed91a/a24ab42d.mp3",
+     "image": "https://img.transistorcdn.com/7Vqguj8K4FTR6w6y6zk2DBXMo6fDp8w-PTAyc7QheeQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWRm/NzY3ZTQ2ZGEwODMz/ZGI3MGI1MTdjNGQz/OGFmYi5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler and Jenny Manley talk with pastor’s wife, Carrie Kell, about the very real and difficult struggles of undergoing suffering while maintainin"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/64413139",
+     "title": "Parenting Pastors' Kids, with Deana Menikoff (Ep. 48)",
+     "date": "2025-02-17T10:00:14.000Z",
+     "duration": 2892,
+     "audio": "https://media.transistor.fm/aba69706/63d9453d.mp3",
+     "image": "https://img.transistorcdn.com/GaVNfIR_zohR0ox3emJPDNGJFVnVcfNt8zfB8iZ25qo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZjg2/MDBmNTVmZWNlZDY1/MWNiZWYxNzg0MTNl/Yjk0ZS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler, and Jenny Manley talk with Deana Menikoff about the gifts and challenges of raising ministry kids. Packed with wisdom and concrete practic"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/64155880",
+     "title": "Building Healthy Ministry Marriages (Ep. 47)",
+     "date": "2025-02-03T10:00:13.000Z",
+     "duration": 2379,
+     "audio": "https://media.transistor.fm/7d1cc9de/34e9ab66.mp3",
+     "image": "https://img.transistorcdn.com/f5YC4AmCRB6OVJwWG7Pe-4W-BInfeRWxjy_Zp9JKyZw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMDc5/OWE2MzYxNTE5YmFh/OWQxNWMzYmQ3MzNi/OGEwZS5qcGc.jpg",
+     "description": "With over 50 plus years of combined ministry experience, Keri Folmar, Erin Wheeler and Jenny Manley discuss the joys and sorrows of ministering together with our spouses in this episode of Priscilla T"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/63763896",
+     "title": "What Is a Pastor's Wife? (Ep. 46)",
+     "date": "2025-01-20T14:29:16.000Z",
+     "duration": 1605,
+     "audio": "https://media.transistor.fm/ea2bb6ac/2548c156.mp3",
+     "image": "https://img.transistorcdn.com/kiNIbk9vXuSrjgDYfDptbQAQ9Mkq8ModiRg3LVSUsrY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzA2/Nzg5M2FmZDRlNGZj/NzZiMDA1ZTM4Nzdm/NTYyNS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler, and Jenny Manley introduce the new series on Pastors Wives. They discuss the elusive and often misunderstood role of the pastor's wife, hi"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/63241649",
+     "title": "Driving Women’s Roots Deeper with Theological Training in the Local Church, with Sean DeMars (Ep. 45)",
+     "date": "2024-12-09T17:20:39.000Z",
+     "duration": 2935,
+     "audio": "https://media.transistor.fm/4f868bb3/66249f39.mp3",
+     "image": "https://img.transistorcdn.com/Kcarr4z2dPvMk8QsuoxPtXDa4KVSZQrGogukxpejBgE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MGNi/ZTE0NGU5MmI2YzNi/OWZmMTA3YWU2ZGJj/MjVlMS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler, and Jenny Manley interview Sean DeMars, pastor of 6th Avenue Community Church, about theological training in the local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/62995786",
+     "title": "Cultivating Women's Bible Study Leadership and Teaching, with Carrie Sandom (Ep. 44)",
+     "date": "2024-11-25T11:00:08.000Z",
+     "duration": 3097,
+     "audio": "https://media.transistor.fm/c357bf4a/8eee6aed.mp3",
+     "image": "https://img.transistorcdn.com/w0tHNpvNN9yyPM8523RbnJ5AOi3Z-i6kQQ3M6Edvlvg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNWYx/ZWY0YzVhMGU1MTg0/Njk4YWJhYzNlMjgy/NjRiYy5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Jenny Manley and Keri Folmar interview Carrie Sandom about cultivating women's bible study leadership in the local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/62687484",
+     "title": "Rooted in the Word: Women's Bible Study in the Local Church (Ep. 43)",
+     "date": "2024-11-11T10:00:09.000Z",
+     "duration": 2922,
+     "audio": "https://media.transistor.fm/0c5937de/73cc1221.mp3",
+     "image": "https://img.transistorcdn.com/IsTXJuLxhyGNANSBTbhmec8n6RSUS0L7MnZU4cryq5Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNGI3/M2VkNGI5ZGE1NjBm/MmIxNjhhOTU0NzQ2/YzE2ZC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler discuss about the importance of women's bible study in the local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/62524892",
+     "title": "Fertile Soil: One on One Discipling (Ep. 42)",
+     "date": "2024-10-28T10:00:03.000Z",
+     "duration": 3252,
+     "audio": "https://media.transistor.fm/1c0b8aa1/cadd4d19.mp3",
+     "image": "https://img.transistorcdn.com/9GSgOWQ9mLE9Aoanxb6HORkNfMIkuqypceHo6hzQ818/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNDBm/MGZhZGUxZGUwMTdk/ZjE5OTQzZjJhYzll/YWU4Ny5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler talk about the beautiful mandate and fruit of one-on-one discipling in the local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/62354257",
+     "title": "Thriving Women's Ministry in the Local Church (Ep. 41)",
+     "date": "2024-10-14T09:00:10.000Z",
+     "duration": 2171,
+     "audio": "https://media.transistor.fm/26b3007c/69bdfb2a.mp3",
+     "image": "https://img.transistorcdn.com/WyoxYzvcI8Om5cZAHqQhAYESDCRx9cigSDhFbRWcxws/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YzI2/NGQ0ZmU0M2Y4Y2U4/NDcxMjNiZWY4MzI3/Y2JmOS5qcGc.jpg",
+     "description": "Priscilla Talk is back! In this first episode, Jenny Manley, Erin Wheeler, and Keri Folmar catch up and discuss what women's ministry should look like in the local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/60632933",
+     "title": "Special Episode: Living for I AM in a World of \"I am\" from TGCW24",
+     "date": "2024-07-08T14:35:21.000Z",
+     "duration": 3631,
+     "audio": "https://media.transistor.fm/5b86dfe4/0477e85e.mp3",
+     "image": "https://img.transistorcdn.com/HyJyb9YeSeecpky6QX86r9y9WJ-5mikn1sVDqlMVcbI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMzk5/MjFiNGU1ZjUyODQ1/OTBlYTkxNzBhZDBj/MGQ2Mi5qcGc.jpg",
+     "description": "In this special episode of Priscilla Talk, Keri Folmar, Jenny Manley, Erin Wheeler are joined by Bev Berrus, Blair Linne, and Natalie Brand for a live recording of Priscilla Talk at TGCW 24 Conference"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/60485723",
+     "title": "Episode 39: Learning to Love the Local Church: Connection",
+     "date": "2024-06-24T09:00:09.000Z",
+     "duration": 2000,
+     "audio": "https://media.transistor.fm/8ed1cef9/dbfde197.mp3",
+     "image": "https://img.transistorcdn.com/n7kp-ce9vZkG8ql1k4LJJhiBRf78Aaq30Qn8hEdUwhY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wODQ1/ZWFkNDljZjY5ZjBh/ZDlkMzczZWI3OGE5/ZmE2OC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler interview Naomi about how a healthy local church fuels love for God and other members. Related resources: Discipling by M"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/60336571",
+     "title": "Episode 38: Learning to Love the Local Church: Community",
+     "date": "2024-06-10T09:00:09.000Z",
+     "duration": 3049,
+     "audio": "https://media.transistor.fm/2a31ce40/55629d79.mp3",
+     "image": "https://img.transistorcdn.com/9zJiPXFdfAc8PXbIPyydHXyMyBbJcgTtG3z7jYj1Gbo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZGE4/OTA3OWFjOWUzMTYw/ODFiNGI4YTE0OGQ1/ZDYxZi5qcGc.jpg",
+     "description": "Register for the live recording of Priscilla Talk at TGCW Conference"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/60188432",
+     "title": "Episode 37: Learning to Love the Local Church: Comfort",
+     "date": "2024-05-27T15:07:00.000Z",
+     "duration": 2721,
+     "audio": "https://media.transistor.fm/1e6ddb72/c6f95ae9.mp3",
+     "image": "https://img.transistorcdn.com/FcBms7AbBIsC6wKJvNzmFpDgU-lRRQ7CsVvi58QpAA0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNTU0/YjUyYmJiNmExZGJj/ZGMwZmQ2OTJhYzEw/OWYxMS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri, Erin and Jenny interview Karen about how God used a local church to comfort her during a season of grief and sorrow. Register for the live recording of Priscil"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/60003546",
+     "title": "Episode 36: Why Women Should Rightly Understand Missions",
+     "date": "2024-05-13T13:20:21.000Z",
+     "duration": 2749,
+     "audio": "https://media.transistor.fm/07ba2b70/8b72a5b8.mp3",
+     "image": "https://img.transistorcdn.com/bfmMvO24VR9ngyQB-F3gGPyQWpaYGm6z0-ItYGtv0gs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNTg5/M2U4OTYxMmM5YTY3/NmJiMWJkMGUyZmM3/NGNlMS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Jenny, Erin, and Keri chat with Joanna about the importance of rightly understanding missions in a local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/59692952",
+     "title": "Episode 35: How a Praying Church Benefits Women (with Megan Hill)",
+     "date": "2024-04-29T09:00:06.000Z",
+     "duration": 2508,
+     "audio": "https://media.transistor.fm/4297b373/168397f0.mp3",
+     "image": "https://img.transistorcdn.com/FhlpyXSjn7ZJy5RsM3WqbKBvyLhMywU8SFtH1rnz-mg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjBm/M2Y3YzAxMWM0NDYy/NTk2MDk0ZWIyN2Jk/YmQyOC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler interview Megan Hill and discuss how women can bless their churches and benefit from prayer."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/59465145",
+     "title": "Episode 34: How Biblical Church Leadership Benefits Women (with John Folmar, Brad Wheeler, and Josh Manley)",
+     "date": "2024-04-15T09:00:05.000Z",
+     "duration": 2514,
+     "audio": "https://media.transistor.fm/5ce537ba/2a6d35c0.mp3",
+     "image": "https://img.transistorcdn.com/nh-n6sbBIbtsE7wX2zkhomw00NIkZxCsN7fqc290RZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOTFl/OTY0ZDFkZTAzNDZi/MTU2NDVjNTE1YzUx/ZDc4YS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts bring in special guests to talk about how biblical church leadership benefits women."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/59287435",
+     "title": "Episode 33: Discipleship and Growth Among Women in the Local Church (with Bev Berrus)",
+     "date": "2024-04-04T09:00:03.000Z",
+     "duration": 2638,
+     "audio": "https://media.transistor.fm/b7a1328b/35b8c787.mp3",
+     "image": "https://img.transistorcdn.com/pSgYSF5j97a2wJybhGD_F1Z-s34ALpAV09Gnp5_adu0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zOTUx/YzdiODI3Njc1ZTEy/OTBkMmE2ZDFiZGY5/MTZhYy5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri, Jenny, and Erin chat with Bev Berrus about how a church with a biblical concern for discipleship and growth can supercharge women's spiritual lives."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/59083083",
+     "title": "Episode 32: How Biblical Church Membership and Discipline Benefit Women",
+     "date": "2024-03-18T09:00:02.000Z",
+     "duration": 2954,
+     "audio": "https://media.transistor.fm/42ad2455/cc3099cd.mp3",
+     "image": "https://img.transistorcdn.com/278gQ3UnWoVhesPaQ6V4XqqMCTWD81LxbpQD3q9Bq1o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNzI4/MDY5NmQyMWU1NDc2/OGY4NzY1OGIzODUz/MzQ5OC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri, Jenny, and Erin discuss the importance of church membership and discipline and how they bless and protect women."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/58914026",
+     "title": "Episode 31: Women Understanding Biblical Conversion and Evangelism (with Megan Collins)",
+     "date": "2024-03-04T10:00:03.000Z",
+     "duration": 2617,
+     "audio": "https://media.transistor.fm/6230fae3/9cad141d.mp3",
+     "image": "https://img.transistorcdn.com/6rLdNg6lam8O-QSd07Htnc9tuLCx7arYeox1wSF9jZo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kODFm/YWMwYjQ4ZjkwMDNj/NzlmMzdmNDE4ZWFm/YzBiNC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts interview Megan Collins, a pastor's wife in Singapore, and discuss how a church with a biblical understanding of conversion and evangelism helps women dail"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/58742650",
+     "title": "Episode 30: Women Thriving under Gospel Doctrine (with Adrienne Lawrence)",
+     "date": "2024-02-19T17:36:01.000Z",
+     "duration": 2161,
+     "audio": "https://media.transistor.fm/135ac435/16bfea30.mp3",
+     "image": "https://img.transistorcdn.com/EnRexaTIFgFxRpmJaROmmvnC9nuC0djyKBIFMI4oILw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MDVk/Zjk4ZTZhZmZjNjk1/Yzk3NTdkZDM4MTNl/MWYyMy5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts interview Adrienne Lawrence, Bible teacher and pastor’s wife, about how a church with gospel doctrine benefits women’s lives."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/58570676",
+     "title": "Episode 29: Women Thriving under Expositional Preaching (with Colleen McFadden)",
+     "date": "2024-02-05T10:00:03.000Z",
+     "duration": 2142,
+     "audio": "https://media.transistor.fm/4458f8cf/1a57f757.mp3",
+     "image": "https://img.transistorcdn.com/uA4hGF_VcFaRuI5Q_f7E7ZS9Ivs98eMLjSMqH6SaFlE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMmQy/ZGVjMTdhNGQ3OTgw/NTU2NGFlOGM2MTg2/NzljYS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Erin, Keri, and Jenny chat with Colleen McFadden of Simeon Trust. They discuss how faithful expositional preaching from the pulpit can supercharge Word-centered wome"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/58398898",
+     "title": "Episode 28: Women and the Nine Marks of a Healthy Church (with Mark Dever)",
+     "date": "2024-01-22T10:00:02.000Z",
+     "duration": 2433,
+     "audio": "https://media.transistor.fm/1a28fe19/b221aace.mp3",
+     "image": "https://img.transistorcdn.com/8dKgAMiPtpNTdBIW4E3sD0AjVtQ9uKFQB4R-32dASrs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzI2/NWZmNmViYjk1MjY3/YmEyODJkMzA4YTg1/ODBlNy5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler and Jenny Manley interview Mark Dever about how the nine marks of a healthy church benefit women... and his love for ice."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/58042447",
+     "title": "Episode 27: Complementarity Wrap-Up",
+     "date": "2023-12-18T10:00:03.000Z",
+     "duration": 3463,
+     "audio": "https://media.transistor.fm/6a94fc7f/0b2d4d55.mp3",
+     "image": "https://img.transistorcdn.com/pC8C2e4Aiv6Pii1nvl3qX4Lgg5h0yMgJKe82Re31uXo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDM2/MGU4YmYxNjVmYWQ4/ZTNjOTM0NWU3MThl/MjQ1NS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Erin, Jenny and Keri wrap up the latest series talking about the beauty of complementarianism."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/57901564",
+     "title": "Episode 26: Questions on Complementarity (with Natalie Brand)",
+     "date": "2023-12-04T10:00:03.000Z",
+     "duration": 2892,
+     "audio": "https://media.transistor.fm/81113764/a5c5fec3.mp3",
+     "image": "https://img.transistorcdn.com/f73-FwVWIc0qxK_vlOWWfgGFeSz0ZO_JgieVOm1cgGk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MjE0/M2ZmYzA4ODM5YzI1/ZDU2MTIzMWNiOTNj/Y2JjNi5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Jenny, Keri and special guest Natalie Brand take questions on Complementarianism live from Priscilla-like women at the Ras Al Khaimah Evangelical Church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/57720422",
+     "title": "Episode 25: On Complementarity in the Church (with Abby Morse)",
+     "date": "2023-11-20T10:00:03.000Z",
+     "duration": 2662,
+     "audio": "https://media.transistor.fm/5742f5c2/65b34e61.mp3",
+     "image": "https://img.transistorcdn.com/9qI0ZSvaF0h3UCiQ18AvpP254ro_RfROsrPCbVlXHhs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YWIy/YWQ1ZDA2YzI1YzI1/NzExZDFhMDc0OTk3/ZjZiNS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Abby Morse joins Keri, Jenny and Erin to tell about her transition from egalitarian pulpit ministry to complementarian work overseas and in her local church."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/57526577",
+     "title": "Episode 24: On Complementarity in the Home (with Nana Dolce)",
+     "date": "2023-11-06T10:00:03.000Z",
+     "duration": 2694,
+     "audio": "https://media.transistor.fm/db5d78f7/3752766e.mp3",
+     "image": "https://img.transistorcdn.com/4q2MNSzn_nCZ426CzSU9F5pyHDD2K-DaaBOD88boFtg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZmMx/MzVkNTdkZDY2Nzhh/Mjc2MWZkM2ExODM5/Zjk5Yy5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts interview Nana Dolce, author of The Seed of the Woman. They discuss what a complementarian household looks like and how a husband’s godly leadership in the"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/57356186",
+     "title": "Episode 23: On Biblical Basis for Complementarianism (with Claire Smith)",
+     "date": "2023-10-23T16:14:04.000Z",
+     "duration": 3712,
+     "audio": "https://media.transistor.fm/701e9855/47ae000c.mp3",
+     "image": "https://img.transistorcdn.com/iGzFfF5vk3gj3pgBOM2RtwuOlp1fbPPK6nWSqkFbyyw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYTNm/MTk5ZjFlMDk1MzI2/NzAzYTJhOWU2NzJl/YzI2MC5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts interview Claire Smith, author of God’s Good Design, and discuss the biblical texts on Complementarianism and why God’s design is good for women."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/57174076",
+     "title": "Episode 22: Summer Recap",
+     "date": "2023-10-10T09:00:03.000Z",
+     "duration": 2094,
+     "audio": "https://media.transistor.fm/9dccca6b/c290cdd1.mp3",
+     "image": "https://img.transistorcdn.com/o6hw1z80DG0tb8lYS_JeYeie2Bau0xHeyJHuEWOVyd4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NmJm/OTNjMTY5NjU4MGFl/MWQyZjlmOGQ4MjZi/MDJjOS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts catch up and talk about their summers, and the upcoming season."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/56610282",
+     "title": "Episode 21: On Thriving During the Widow Years",
+     "date": "2023-08-28T09:00:03.000Z",
+     "duration": 4215,
+     "audio": "https://media.transistor.fm/ae963fe1/4c0c6b42.mp3",
+     "image": "https://img.transistorcdn.com/7uhZC4Gu3ySxgE3OSYEb0j6a4YrK3KBWGPfx1tPfJ8E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMTRi/ZDg2YTI5OWNlN2Mw/ZjU4NTBmNWQxNTRj/MWRiZi5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts talk with Jenny's mother-in-love, Tony, about thriving during the widow years."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/56460566",
+     "title": "Episode 20: On Seasons of Hormonal Change",
+     "date": "2023-08-14T09:00:03.000Z",
+     "duration": 2757,
+     "audio": "https://media.transistor.fm/a9f3311d/e69f9332.mp3",
+     "image": "https://img.transistorcdn.com/DXL_kRuSg0vVw08ZPYWuw-oa38cnllx7CkN1XbWLa-0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMmJk/ZGY2M2Y0YzFmYTQx/YTU3YjkyMDJkMDk1/NzIxNC5qcGc.jpg",
+     "description": "Part of being created as a female is to feel the effects of the Fall through hormonal change. In this episode of Priscilla Talk, the hosts talk about seasons of hormonal change and how the local churc"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/56314629",
+     "title": "Episode 19: On Thriving During the Empty Nest Years (with Joanne Parks)",
+     "date": "2023-07-31T09:00:03.000Z",
+     "duration": 2464,
+     "audio": "https://media.transistor.fm/670e7181/ce921f18.mp3",
+     "image": "https://img.transistorcdn.com/iDlKKH5slQvoNOJ0splqNcsR-1-nHmAukvuvKH8bgoY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOGRj/ZGFlMTY3MzA4OTM4/Njc1OTI1YjA5ZjM1/N2MzNi5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/56122920",
+     "title": "Episode 18: On Thriving in the Teenage Years (with Leia Joseph)",
+     "date": "2023-07-17T09:00:03.000Z",
+     "duration": 3245,
+     "audio": "https://media.transistor.fm/9361f6eb/fdd46b8d.mp3",
+     "image": "https://img.transistorcdn.com/iiOt-xy78cBT75XNdhellW9-rKYH-2QZr_C3mFgqhBA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzM5/Mzc2Yjk4ZmFjNWI2/N2Y5NDMzMWVlNWFl/OGExZS5qcGc.jpg",
+     "description": "Parenting teenagers comes with endless questions: are they still kids or adults? How do we deal with their emotions? Who will disciple my teens? In this episode of Priscilla Talk, the hosts interview "
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/55857105",
+     "title": "Episode 17: On Thriving in Times of Loss (with Kristin Schmucker)",
+     "date": "2023-07-03T09:00:03.000Z",
+     "duration": 3451,
+     "audio": "https://media.transistor.fm/c73b8352/d12e70bd.mp3",
+     "image": "https://img.transistorcdn.com/DXtCGIMnF0z_f4FrBJpCO3XwoHXNneRko29ypsDSC0k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZjc0/NzVjZDhiMjdjZDlm/ODY1ZTQ1MTQzNDkw/ODg0Yy5qcGc.jpg",
+     "description": "How can we thrive in times of loss? Is that even possible? In this episode of Priscilla Talk, our hosts interview Kristin Schmucker about what a really difficult season in her life taught her about tr"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/54559442",
+     "title": "Episode 16: On Thriving in the School Years",
+     "date": "2023-06-21T09:00:02.000Z",
+     "duration": 3096,
+     "audio": "https://media.transistor.fm/aaea817c/bbe9ccd8.mp3",
+     "image": "https://img.transistorcdn.com/KK4StkVFrMhCDXADrks4Gm4h8KDbwm8Kd5jHg7y9V60/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Nzcz/NmQxZGNjNzJjN2Y4/NmRjOTNmNzgwNzll/MTlhYy5qcGc.jpg",
+     "description": "Public school, homeschool, Christian private school? In this episode of Priscilla Talk, our hosts apply wisdom to this thorny topic."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/54100652",
+     "title": "Episode 15: On Thriving During the Little Years (with Hunter Beless)",
+     "date": "2023-06-05T14:15:55.000Z",
+     "duration": 2480,
+     "audio": "https://media.transistor.fm/b3d08dda/c5867e91.mp3",
+     "image": "https://img.transistorcdn.com/9h7E1bdfVFwxvcBRrdN8iIrAnDQzF6rDtMzQ-jkb0HE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZmVl/YjI1NDc3MzRkYzUx/NWMyNjIxOTlhMjc5/OTI5ZC5qcGc.jpg",
+     "description": "Being a mom of young children is a gift. Being a mom of young children is hard. In this episode of Priscilla Talk, our hosts chat with Hunter Beless about thriving as a Christian and a church member d"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/53954009",
+     "title": "Episode 14: On Thriving During The Newlywed Season",
+     "date": "2023-05-22T09:00:02.000Z",
+     "duration": 3327,
+     "audio": "https://media.transistor.fm/cb932db7/89afd37d.mp3",
+     "image": "https://img.transistorcdn.com/Bh03VnzpzLoRPEMoR8TVkgBoI_Oso9ZuNGamNL1SGkU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzAz/MzlmZTM5ZTJjNTA3/YzdkNWI0Njg4MWRm/OTU1Ni5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, our hosts talk about thriving in the early years of marriage."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/53785821",
+     "title": "Episode 13: On Thriving During Singleness (with Emily Davis)",
+     "date": "2023-05-09T09:00:03.000Z",
+     "duration": 3109,
+     "audio": "https://media.transistor.fm/39a36434/d567b7ca.mp3",
+     "image": "https://img.transistorcdn.com/nsSz1p0VpERYU5K3wUdr4qhO3fKMSZa8jkDxSMXu-zk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NDU1/MDQ1YjA1YmJhOTgy/MzY3YjllNjY4Y2Ew/OWRiMS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts interview Emily Davis on how to thrive during singleness."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/53624888",
+     "title": "Episode 12: On Thriving in the College Years (with Ruth and Chloe Folmar)",
+     "date": "2023-04-24T09:00:03.000Z",
+     "duration": 2906,
+     "audio": "https://media.transistor.fm/abe1d1b6/64765380.mp3",
+     "image": "https://img.transistorcdn.com/9-V8-RG7tHGhZidRzyc7vl7P-2PVGgYxboqttilAF3U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZDNh/ZDQ1NjJmYWVlNTNm/MmE1ODBjNWRiY2Zh/MjA1My5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, the hosts interview Ruth and Chloe Folmar on how to thrive during the college years."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/53488670",
+     "title": "Episode 11: On Thriving in the Local Church in the Various Seasons of Life",
+     "date": "2023-04-10T09:00:02.000Z",
+     "duration": 2757,
+     "audio": "https://media.transistor.fm/390681af/c8d637b4.mp3",
+     "image": "https://img.transistorcdn.com/g2Afv1oTGDdqOcDApZvW4xXyMNSyL8HBsxih0NXW5XQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZTlj/NDg2MDZjMDNjYjk1/ZDc4ZTc2ZmQyZDNm/MmQyNi5qcGc.jpg",
+     "description": "Jenny, Keri, and Erin talk about how women can thrive in different seasons in life."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/53258708",
+     "title": "Episode 10: On Delighting in Doctrine - How Theology Supercharges Women’s Lives and Ministry",
+     "date": "2023-03-20T09:00:03.000Z",
+     "duration": 2907,
+     "audio": "https://media.transistor.fm/634ffb2b/84dba25d.mp3",
+     "image": "https://img.transistorcdn.com/NNPfzlrPoMO6QWW8QQb4NzmHZ9epbb9GAZ95QFgwTEw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wMjQz/MmE2NDI5NDAwNGU4/MDJmOTAyNGNkMmVh/NDVkZC5qcGc.jpg",
+     "description": "In this special episode of Priscilla Talk, our hosts talk to Blair Linne, Courtney Reissig, and Natalie Brand about how doctrine supercharges women's ministry."
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/53105428",
+     "title": "Episode 9: On Delighting in the Doctrine of the Church",
+     "date": "2023-03-06T10:00:03.000Z",
+     "duration": 1885,
+     "audio": "https://media.transistor.fm/ddc32fdc/4f119b20.mp3",
+     "image": "https://img.transistorcdn.com/d0nZq73V8cxlgjrps_ZWU_3XxzNmEHHgd9zrLXXUw8k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZDA2/MTE5ZDE4MTM3Mjhi/NzU0ZmM5MDYxNjg3/Yjc2OS5qcGc.jpg",
+     "description": "In this episode of Priscilla Talk, Keri and Jenny interview Erin about her book, The Church: Delighting in the Doctrine of the Church"
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/52770253",
+     "title": "Episode 8: Special Episode - Flight from Afghanistan",
+     "date": "2023-02-20T10:00:02.000Z",
+     "duration": 2751,
+     "audio": "https://media.transistor.fm/dbf94db8/e0b4a936.mp3",
+     "image": "https://img.transistorcdn.com/5ACvhWcpfgJ4kBdbzdFqcpJw_aNkGq5-IE6tpDCJv3w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NTZl/NzUyNmVjN2FkZmZh/MDM3ZjI5ZGYzZWMz/M2I4Mi5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/52646528",
+     "title": "Episode 7: On Delighting in the Doctrine of Christ",
+     "date": "2023-02-06T10:00:03.000Z",
+     "duration": 1783,
+     "audio": "https://media.transistor.fm/6ba04c41/d121c8a9.mp3",
+     "image": "https://img.transistorcdn.com/ELCdjtBnR6FoXe_Fz77CPfjg93yaIXF5IclCBrc9o64/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MDgz/NTI4MzZkZWFhMGEz/NDcxNTY2YTgzYTE5/OWExMC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/52469103",
+     "title": "Episode 6: On Delighting in the Doctrine of Salvation (with Natalie Brand)",
+     "date": "2023-01-18T10:00:03.000Z",
+     "duration": 1638,
+     "audio": "https://media.transistor.fm/d9eb7a3e/6e1e1fbd.mp3",
+     "image": "https://img.transistorcdn.com/f0FkwR12MT-Yc-MsuNyWYj1C38fcZ-VCY0aG34oN5ZU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MmI0/YjNmOWYwZGVjYzJm/MTRjY2Q2MWUxYjhj/ZTM3Ni5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/52181243",
+     "title": "Episode 5: On Delighting in the Doctrine of God (with Rebecca Stark)",
+     "date": "2022-12-14T10:00:03.000Z",
+     "duration": 1568,
+     "audio": "https://media.transistor.fm/01931ad2/dc66f509.mp3",
+     "image": "https://img.transistorcdn.com/hGyUjIMh_ZZDgphUjStAnJQFSXoipRL9VVqO-FtJFsM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYWM4/ZGQwZmM5NTc3NWY5/MWU4Mzk3MDYzZGZi/NjExNy5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/51986136",
+     "title": "Episode 4: On Delighting in the Doctrine of Scripture",
+     "date": "2022-11-23T10:00:03.000Z",
+     "duration": 1835,
+     "audio": "https://media.transistor.fm/14bd474d/a5b8b5b8.mp3",
+     "image": "https://img.transistorcdn.com/B6bKuu7WF_0BmaZZi8PHBR1Hy729C_q7o5q6sQOu4EI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZjUw/ZWY4ZTE4MTNjMDhi/OWFkYWE1YmQ5NGRm/NmQ5Ny5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/51832437",
+     "title": "Episode 3: On Delighting in Biblical Theology (with Nancy Guthrie)",
+     "date": "2022-11-09T10:00:03.000Z",
+     "duration": 2199,
+     "audio": "https://media.transistor.fm/3cff9412/06537d55.mp3",
+     "image": "https://img.transistorcdn.com/XodM4Vgux5CiWk545gTzBILb6soH1WfWbeBATm0vkP0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNDZm/N2IwMTgyODE1YWQ2/Mzg4OWQwZjZhNTU1/Mzc0Ni5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/51690365",
+     "title": "Episode 2: On Delighting in Doctrine in the Local Church",
+     "date": "2022-10-26T09:00:03.000Z",
+     "duration": 2056,
+     "audio": "https://media.transistor.fm/b3569701/8fa81854.mp3",
+     "image": "https://img.transistorcdn.com/Fbe2x51XcsfTce_QtxigO1HX9pd1LZuPYBfaF-Lm7s8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NjJi/MDYwMzkwNGZkZDBm/MzFjNjBhNGJhNGI2/ZTNhZC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1649518837|https://api.spreaker.com/episode/51545854",
+     "title": "Episode 1: What is Priscilla Talk?",
+     "date": "2022-10-12T09:00:02.000Z",
+     "duration": 2580,
+     "audio": "https://media.transistor.fm/939d1469/1792ee82.mp3",
+     "image": "https://img.transistorcdn.com/ScQWhVDBFxqXxEGfaecTtLW6LD96k-R45MZSr1v4vwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kOWZj/YzNhOWQ4MDhjNmM1/M2M2MTZjMThiMTcx/ODUzMi5qcGc.jpg",
+     "description": ""
+    }
+   ]
+  },
   {
    "id": "1647567459",
    "name": "Missions Talk — A podcast by 9Marks and Reaching & Teaching International Ministries",
@@ -3664,7 +4348,7 @@
     },
     {
      "id": "1205903016|https://api.spreaker.com/episode/51976102",
-     "title": "Episode 219: On Pastoring in India (with Pastor Harshit)",
+     "title": "Episode 219: On Pastoring in India",
      "date": "2022-11-22T10:00:02.000Z",
      "duration": 1630,
      "audio": "https://media.transistor.fm/8228915c/91e5184e.mp3",
@@ -6262,681 +6946,6 @@
      "audio": "https://media.transistor.fm/ed5531a1/bb99ddb4.mp3",
      "image": "",
      "description": "Entre Pastores es el podcast de 9Marcas en español, con Sugel Michelén y Alejandro Molero: conversaciones claras, bíblicas y prácticas entre pastores para pastores y miembros, centradas en Cristo y su"
-    }
-   ]
-  },
-  {
-   "id": "1649518837",
-   "name": "Priscilla Talk - A podcast by 9Marks",
-   "author": "9Marks",
-   "image": "https://img.transistorcdn.com/0cMyhFK87RG_jpGTgaSpzs2-ga3a3jytNq4GJctjyto/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OGI4/NDFmZjEzZTkyN2U5/OWVkNWJhY2NjMDE1/ZTZlNi5qcGc.jpg",
-   "link": "https://www.9marks.org/podcast/priscilla-talk/",
-   "episodes": [
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/72528403",
-     "title": "On wrapping up church centered missions with centralasianetwork.com (Ep. 74)",
-     "date": "2026-06-15T09:00:16.000Z",
-     "duration": 2256,
-     "audio": "https://media.transistor.fm/51e42209/fc090212.mp3",
-     "image": "https://img.transistorcdn.com/yfTCTsppWMoZR16oV1Lqzu4zF8THgkaMwT_4pSGGvsQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNjI1/Mjg2N2JkODg5ZmI2/OWU1MWY2MjRlODE4/MTYyNi5qcGc.jpg",
-     "description": "Dog or cat people? Listen to our wrap up episode on missions to find out as we answer some listener questions and tie up our series in missions. We also learn what Jenny’s been up to in RAK."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/72269851",
-     "title": "On Prioritizing the Church AND Missions (Ep. 73)",
-     "date": "2026-06-01T09:00:19.000Z",
-     "duration": 2274,
-     "audio": "https://media.transistor.fm/6b1f556f/4199eb3e.mp3",
-     "image": "https://img.transistorcdn.com/bp4XshRDRl5KEgNF90rHwjTBWVeokG5XXQpSbk5GVf8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNTQ3/ZTk4MTg5ZWQ0NDcx/NGMyYzVlMzZkNGUy/MGYyOC5qcGc.jpg",
-     "description": "The church is the beginning and the end of missions, and therefore also the means. Listen as the Priscilla Talk ladies discuss the church as the center of missions with pastors and authors John Folmar"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/72051236",
-     "title": "On Why Missions Should be Church-Centered (Ep. 72)",
-     "date": "2026-05-18T09:00:21.000Z",
-     "duration": 2680,
-     "audio": "https://media.transistor.fm/b6cf48bb/34bb3476.mp3",
-     "image": "https://img.transistorcdn.com/ZeRIT3Vo9eaJ9OpCrvQQQQEjm6wQLuV0tHmAhSjt1t4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MmI4/YzE3N2QzNzcyNzk0/NjRlNDE5MmVmNzU2/ZTA1ZC5qcGc.jpg",
-     "description": "Keri, Jenny and Erin talk with international church pastor’s wife, Cyndi Logsdon about what she’s seen on the field and why missions should be church-centered."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/71848730",
-     "title": "On The Great Commission Congress (Ep. 71)",
-     "date": "2026-05-04T09:00:23.000Z",
-     "duration": 1701,
-     "audio": "https://media.transistor.fm/672aee90/07fb997f.mp3",
-     "image": "https://img.transistorcdn.com/wQ61251S_cP2TCTEW_b31BOdRbgOrhDw7kWq1C73bGo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMjQ2/M2UyNTE0MmRjMjQ3/ODM3NjYzOTcyMzFl/Zjk0ZC5qcGc.jpg",
-     "description": "Josh Manley and Danny Davison invite Priscilla Talk listeners to the October GCC. Resources Mentioned: Great Commission Congress Registration"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/71480838",
-     "title": "On the Church in the Midst of War (Ep. 70)",
-     "date": "2026-04-20T09:00:17.000Z",
-     "duration": 2698,
-     "audio": "https://media.transistor.fm/565b3357/03f32eb1.mp3",
-     "image": "https://img.transistorcdn.com/DCqh80h-mT2XtT-j9QrPDvcb3n_fJI9HG1sMiThgEhc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNzRm/YmQ4ZjQzYzM0NzJk/MzM2MzFkYzBmNmFj/OTM2NC5qcGc.jpg",
-     "description": "Erin talks to Jenny and Keri about the church in the midst of war."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/71126865",
-     "title": "On The Desecration of Man (Ep. 69)",
-     "date": "2026-04-06T09:00:19.000Z",
-     "duration": 2849,
-     "audio": "https://media.transistor.fm/93abdf70/f84f5b44.mp3",
-     "image": "https://img.transistorcdn.com/706UCtFDD0nvH36HbJ6TvLOh3UYtMyticnaFGmnwyzs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNzBl/NWE5ZjA2ZTRiNGY4/MDZkOTllMTRmNWYx/MmFiMi5qcGc.jpg",
-     "description": "Carl Trueman diagnoses the current culture and prescribes the church as the cure. Resources Mentioned: The Desecration of Man by Carl Trueman Previous Priscilla Talk episode with Carl Trueman on Expre"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/70821599",
-     "title": "On Partnering in Missions (Ep. 68)",
-     "date": "2026-03-23T09:00:24.000Z",
-     "duration": 2749,
-     "audio": "https://media.transistor.fm/a16da755/a2204ea9.mp3",
-     "image": "https://img.transistorcdn.com/tqw0b9Efl6ailw5eOZMMaNr7P14RQYQwtXtvWiw-MdE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2U1/MDlkOGQ5YzAwNGVj/M2ZmYjk5YWFmZmE4/YmVhYi5qcGc.jpg",
-     "description": "Erin, Jenny, and Keri talk with RTIM’s Rachel Ware about keeping the church central in missions partnerships between churches and sending organizations."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/70543514",
-     "title": "On The Joy of Cross-Cultural Ministry in the U.S. (Ep. 67)",
-     "date": "2026-03-09T09:00:18.000Z",
-     "duration": 1460,
-     "audio": "https://media.transistor.fm/929d3a46/2b27ff5f.mp3",
-     "image": "https://img.transistorcdn.com/Xq0O788pfhU_VZR5QywcTxm1uUGBLUkmMfb3sEDt2Wg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzU1/NTgxY2RhYTQ1OTAw/MjI1MzNkMGFiN2Q3/NDJkYi5qcGc.jpg",
-     "description": "Keri, Erin and Jenny talk with Kim about reaching the nations with the gospel here in the United States."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/70220950",
-     "title": "On “Tip of the Spear” Missions (Ep. 66)",
-     "date": "2026-02-23T10:00:27.000Z",
-     "duration": 2967,
-     "audio": "https://media.transistor.fm/ae66afb4/3869c82d.mp3",
-     "image": "https://img.transistorcdn.com/LHJFDljU7E5T55RLzoCFk-V3IIjyH8YSLi4MJEqk08g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kODdh/ZTIxMDk5MTQ0YjJl/Zjg3MTg5ODg5NGM2/YWIyZi5qcGc.jpg",
-     "description": "Erin, Jenny and Keri talk with Mike & Michelle G. about language learning, Bible translation and church-planting where the name of Jesus has not yet been proclaimed."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/69881952",
-     "title": "On Women on the Field (Ep. 65)",
-     "date": "2026-02-09T14:58:18.000Z",
-     "duration": 2746,
-     "audio": "https://media.transistor.fm/425206e2/fbd97591.mp3",
-     "image": "https://img.transistorcdn.com/g9NYyhNZX5ShS0YltWxDPedXjMOeFiKqN2j-2U-PiyI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDEx/YzI4NGMwZjAzYTY3/MzI5YmM1MDE1MDY5/MjhhMi5qcGc.jpg",
-     "description": "Jenny and Keri talk with 3 women on the mission field about why they chose to move overseas and how their sending churches support and encourage them."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/69586963",
-     "title": "On Church Centered Missions (Ep. 64)",
-     "date": "2026-01-26T10:00:20.000Z",
-     "duration": 2143,
-     "audio": "https://media.transistor.fm/0a1cfe26/a01797ce.mp3",
-     "image": "https://img.transistorcdn.com/cjmAGoQIwW2_YgFmfuiplVwlMbhZdra0BeO3EfhszSE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNzI2/M2ZhMTgzZTg5ZGY3/NDJhMzhhNDRjMjMy/NGU1OC5qcGc.jpg",
-     "description": "Jenny, Keri and Erin discuss the importance of prioritizing the church in missions and prioritizing missions in the church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/69050162",
-     "title": "On The Inevitable End of Expressive Individualism (Ep. 63)",
-     "date": "2025-12-15T10:00:20.000Z",
-     "duration": 3287,
-     "audio": "https://media.transistor.fm/53e661fd/8f22e738.mp3",
-     "image": "https://img.transistorcdn.com/yb6pGH_jn9rL2rwH5gNgNvkOZoqI3WjvVUF_48S413c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84OTJh/Y2VmNDczYWE5NmJk/YmMyOGJiYjU5Yzdk/Nzg1Yi5qcGc.jpg",
-     "description": "Carl Trueman talks with Jenny, Erin and Keri about how we can help our families and churches take every thought captive and not be drawn in by expressive individualism. Resources Mentioned: The Rise a"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/68814345",
-     "title": "On Freeing Our Kids from Smart Phones (Ep. 62)",
-     "date": "2025-12-01T10:00:19.000Z",
-     "duration": 3353,
-     "audio": "https://media.transistor.fm/ee7f688d/de649f54.mp3",
-     "image": "https://img.transistorcdn.com/HslW-qz6UR7-8ZfHZ2vIKftHKpjSDKVKiDqgXzh0dKY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNmU0/MmMyMjUwNjA0M2Y0/NjczMzVlMGNlYWY5/NjY5Zi5qcGc.jpg",
-     "description": "Keri, Erin and Jenny talk with Clare Morell about the whys and hows of protecting our children from smart phone danger. Resources MentionedThe Tech Exit: A Practical Guide to Freeing Kids and Teens fr"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/68603257",
-     "title": "On Loving the Church with all her Flaws (Ep. 61)",
-     "date": "2025-11-17T14:37:31.000Z",
-     "duration": 3530,
-     "audio": "https://media.transistor.fm/8dc59d5a/bbd978c2.mp3",
-     "image": "https://img.transistorcdn.com/5QhSXK5Qev8gM_m6cRXKUBjEC6R3eQ6iLZpcKC_RJUo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OTlh/OTZmNDdmNmUzODU0/MmY0NTE1ZTliYzZj/NzAyMy5qcGc.jpg",
-     "description": "Erin, Jenny and Keri talk with Hayley about loving the church in the midst of and when recovering from church hurt. Resources Mentioned: Forgiveness: Reflecting God’s Mercy by Hayley Satrom When Peopl"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/68399875",
-     "title": "On Delighting in the Doctrine of the Holy Spirit (Ep. 60)",
-     "date": "2025-11-03T14:45:29.000Z",
-     "duration": 2661,
-     "audio": "https://media.transistor.fm/befdf464/ef8ec1bd.mp3",
-     "image": "https://img.transistorcdn.com/U7JH0D02yTJOkOFNprrxWnVJbat3PckAMsMCCKNqlEI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OTM1/ZTNhZWFjMTA3ZGRj/MjQyMGUwYjZiMDY1/YzI2Ni5qcGc.jpg",
-     "description": "Jenny and Erin talk to Keri about delighting in the doctrine of the Holy Spirit."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/67846734",
-     "title": "Christianity and the LGBTQ movement with Rosaria Butterfield (Ep. 59)",
-     "date": "2025-09-22T09:00:16.000Z",
-     "duration": 3787,
-     "audio": "https://media.transistor.fm/e2c3a43c/3798bd80.mp3",
-     "image": "https://img.transistorcdn.com/_FIRToxwYTHvqjIKvEmCllIBr77tyD9-EzlwZXyhd4o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZTMx/YzczOTA5MmVjZmRk/NGFiZDU4MDM3NGZh/NzBiMC5qcGc.jpg",
-     "description": "Erin, Jenny and Keri talk with Rosaria Butterfield about her story and her ministry."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/67674552",
-     "title": "Women In The Church with Kevin DeYoung (Ep. 58)",
-     "date": "2025-09-08T11:47:01.000Z",
-     "duration": 2123,
-     "audio": "https://media.transistor.fm/3c372548/6d2c7d13.mp3",
-     "image": "https://img.transistorcdn.com/0gIa91c_JDe5-X3L4G06NDLIFARYzjDGCyjsFOsVZXM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81YTgz/NTMzMGU3OWU3NjVh/NWUyNGQyYjc2ZTVl/MDdlMi5qcGc.jpg",
-     "description": "Jenny, Keri and Erin discuss the necessity of theology, the value of motherhood and differences in family dynamics with pastor and theologian Kevin DeYoung."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/66703342",
-     "title": "Living With Gospel-Glasses, with Tom Schreiner (Bonus Ep. 57)",
-     "date": "2025-06-23T09:00:16.000Z",
-     "duration": 2010,
-     "audio": "https://media.transistor.fm/bb45142a/ad2c3ea0.mp3",
-     "image": "https://img.transistorcdn.com/Ki2Jqr4sPQ_cvFWzh1USNuh__2O9i0OxKKsQlf8WIyg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Njg4/OGU3MmM1N2Y0NzJk/YWNmYzZlNDJmZTQw/ZjllMS5qcGc.jpg",
-     "description": "Jenny, Erin and Keri talk to Professor Tom Schreiner about the apostle Paul, gospel power, and women living through their theology."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/66468286",
-     "title": "It's All About The Seed of the Woman! with Jim Hamilton (Bonus Ep. 56)",
-     "date": "2025-06-09T09:00:13.000Z",
-     "duration": 2548,
-     "audio": "https://media.transistor.fm/162697d3/2dfc8875.mp3",
-     "image": "https://img.transistorcdn.com/BQRVtQ6z6Nhwh4fFAJxA_UM-ttrp6VxYLXvTnZLcpo8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NDY5/NGM3NTY5MzY5NWU2/MjYxYmNmYzQyYmIw/MjJhYS5qcGc.jpg",
-     "description": "Erin, Jenny and Keri talk with professor James Hamilton (of Bible Talk) about why women should love biblical theology."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/66277279",
-     "title": "Season Finale: Challenges and Blessings (Ep. 55)",
-     "date": "2025-05-26T09:00:14.000Z",
-     "duration": 3579,
-     "audio": "https://media.transistor.fm/4429b1a1/573fb9d1.mp3",
-     "image": "https://img.transistorcdn.com/0Pn8MINxyafvbj9e1xeMv2DY5wRWRD1F9bUGLIPcdQk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMWQw/M2U3NmQ1ZmY3ODA3/OGY2MzgyZDU1ZTU4/ODU3ZS5qcGc.jpg",
-     "description": "In this fun and playful episode, Erin, Jenny & Keri close the series on ministry wives by discussing some grab bag topics and questions from listeners. They discuss everything from discernment to supp"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/66049276",
-     "title": "Friendship and the Pastor’s Wife (Ep. 54)",
-     "date": "2025-05-12T09:00:15.000Z",
-     "duration": 2614,
-     "audio": "https://media.transistor.fm/06f6b584/459187fa.mp3",
-     "image": "https://img.transistorcdn.com/h3dOM87l3fufFoyWrGIJ4xPiMvmhYEO0Rgte9tWiggg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZjE5/MGUyNmMwODVlNWNj/M2ZlYzc3NGRjN2U5/ODk3NC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Jenny, Keri, and Erin reflect candidly on the joys and hardships of friendship as a pastor’s wife. They explore the tension of being known and sometimes misunderstoo"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/65774774",
-     "title": "A Beloved Pastors Wife, with Diane Schreiner (Ep. 53)",
-     "date": "2025-04-28T09:00:13.000Z",
-     "duration": 2160,
-     "audio": "https://media.transistor.fm/403deea2/77c210ae.mp3",
-     "image": "https://img.transistorcdn.com/ACzlHRp3qT_uOdkdQTu1C6EDGnIUMWSX7HrtUBwJKFo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMmIw/MDcwZWE3OWU0ZTFh/YWNlNWVhNmMyMmM1/YWQxZC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Erin, Keri and Jenny interview Diane Schreiner, the wife of seminary professor and pastor, Tom Schreiner, about her love for her church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/65562016",
-     "title": "Missionary Wives, with Nina Buser (Ep. 52)",
-     "date": "2025-04-14T09:00:12.000Z",
-     "duration": 3038,
-     "audio": "https://media.transistor.fm/a4e49792/832eb30a.mp3",
-     "image": "https://img.transistorcdn.com/drFVeZjFpfSdbVhOeBTojSbwXIRhhLHAmc34VIKq1U0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYWYy/ZDRkMjhkNTQ4ZWZi/YWIwNWQ3MjZjZTVk/NDVlMi5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler and Jenny Manley talk with former missionary and mission training wife, Nina Buser about the joys and challenges of serving alongside her h"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/65245733",
-     "title": "The Church-planting Wife, with Karen McKinley (Ep. 51)",
-     "date": "2025-03-31T09:00:12.000Z",
-     "duration": 2313,
-     "audio": "https://media.transistor.fm/b76ee0dd/67929c15.mp3",
-     "image": "https://img.transistorcdn.com/1AGyTebvmNz-UaQz-dSfTn6EP6pk9qA9a8a4WMsj7bo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYmI1/YmQyM2EyNzcwODlh/YjgwZDJmOGE2OGM4/ZTQ5My5qcGc.jpg",
-     "description": "Karen McKinley, wife of the author of Church Planting is for Wimps, discusses church-planting and revitalization from the pastor’s wife’s perspective."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/64935749",
-     "title": "On A Storm in the Desert, with Jenny and Keri (Ep. 50)",
-     "date": "2025-03-17T14:51:10.000Z",
-     "duration": 2810,
-     "audio": "https://media.transistor.fm/dcac1b23/4a971f73.mp3",
-     "image": "https://img.transistorcdn.com/LP4U3LbnnxAk6tnJ6ZDhEguB4f-8twbAkUeu1rrf19U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjU4/ZjdmYTE1MWI2MDdm/YWJhOWUxNDIxMmNl/NTI0YS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts take a break and talk about 9Marks' new podcast, A Storm in the Desert, with Jenny and Keri. Subscribe to our new podcast, A Storm in the Desert."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/64666889",
-     "title": "Suffering and the Pastor's Wife, with Carrie Kell (Ep. 49)",
-     "date": "2025-03-03T10:00:13.000Z",
-     "duration": 2462,
-     "audio": "https://media.transistor.fm/280ed91a/a24ab42d.mp3",
-     "image": "https://img.transistorcdn.com/7Vqguj8K4FTR6w6y6zk2DBXMo6fDp8w-PTAyc7QheeQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWRm/NzY3ZTQ2ZGEwODMz/ZGI3MGI1MTdjNGQz/OGFmYi5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler and Jenny Manley talk with pastor’s wife, Carrie Kell, about the very real and difficult struggles of undergoing suffering while maintainin"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/64413139",
-     "title": "Parenting Pastors' Kids, with Deana Menikoff (Ep. 48)",
-     "date": "2025-02-17T10:00:14.000Z",
-     "duration": 2892,
-     "audio": "https://media.transistor.fm/aba69706/63d9453d.mp3",
-     "image": "https://img.transistorcdn.com/GaVNfIR_zohR0ox3emJPDNGJFVnVcfNt8zfB8iZ25qo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZjg2/MDBmNTVmZWNlZDY1/MWNiZWYxNzg0MTNl/Yjk0ZS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler, and Jenny Manley talk with Deana Menikoff about the gifts and challenges of raising ministry kids. Packed with wisdom and concrete practic"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/64155880",
-     "title": "Building Healthy Ministry Marriages (Ep. 47)",
-     "date": "2025-02-03T10:00:13.000Z",
-     "duration": 2379,
-     "audio": "https://media.transistor.fm/7d1cc9de/34e9ab66.mp3",
-     "image": "https://img.transistorcdn.com/f5YC4AmCRB6OVJwWG7Pe-4W-BInfeRWxjy_Zp9JKyZw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMDc5/OWE2MzYxNTE5YmFh/OWQxNWMzYmQ3MzNi/OGEwZS5qcGc.jpg",
-     "description": "With over 50 plus years of combined ministry experience, Keri Folmar, Erin Wheeler and Jenny Manley discuss the joys and sorrows of ministering together with our spouses in this episode of Priscilla T"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/63763896",
-     "title": "What Is a Pastor's Wife? (Ep. 46)",
-     "date": "2025-01-20T14:29:16.000Z",
-     "duration": 1605,
-     "audio": "https://media.transistor.fm/ea2bb6ac/2548c156.mp3",
-     "image": "https://img.transistorcdn.com/kiNIbk9vXuSrjgDYfDptbQAQ9Mkq8ModiRg3LVSUsrY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzA2/Nzg5M2FmZDRlNGZj/NzZiMDA1ZTM4Nzdm/NTYyNS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler, and Jenny Manley introduce the new series on Pastors Wives. They discuss the elusive and often misunderstood role of the pastor's wife, hi"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/63241649",
-     "title": "Driving Women’s Roots Deeper with Theological Training in the Local Church, with Sean DeMars (Ep. 45)",
-     "date": "2024-12-09T17:20:39.000Z",
-     "duration": 2935,
-     "audio": "https://media.transistor.fm/4f868bb3/66249f39.mp3",
-     "image": "https://img.transistorcdn.com/Kcarr4z2dPvMk8QsuoxPtXDa4KVSZQrGogukxpejBgE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MGNi/ZTE0NGU5MmI2YzNi/OWZmMTA3YWU2ZGJj/MjVlMS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler, and Jenny Manley interview Sean DeMars, pastor of 6th Avenue Community Church, about theological training in the local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/62995786",
-     "title": "Cultivating Women's Bible Study Leadership and Teaching, with Carrie Sandom (Ep. 44)",
-     "date": "2024-11-25T11:00:08.000Z",
-     "duration": 3097,
-     "audio": "https://media.transistor.fm/c357bf4a/8eee6aed.mp3",
-     "image": "https://img.transistorcdn.com/w0tHNpvNN9yyPM8523RbnJ5AOi3Z-i6kQQ3M6Edvlvg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNWYx/ZWY0YzVhMGU1MTg0/Njk4YWJhYzNlMjgy/NjRiYy5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Jenny Manley and Keri Folmar interview Carrie Sandom about cultivating women's bible study leadership in the local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/62687484",
-     "title": "Rooted in the Word: Women's Bible Study in the Local Church (Ep. 43)",
-     "date": "2024-11-11T10:00:09.000Z",
-     "duration": 2922,
-     "audio": "https://media.transistor.fm/0c5937de/73cc1221.mp3",
-     "image": "https://img.transistorcdn.com/IsTXJuLxhyGNANSBTbhmec8n6RSUS0L7MnZU4cryq5Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNGI3/M2VkNGI5ZGE1NjBm/MmIxNjhhOTU0NzQ2/YzE2ZC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler discuss about the importance of women's bible study in the local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/62524892",
-     "title": "Fertile Soil: One on One Discipling (Ep. 42)",
-     "date": "2024-10-28T10:00:03.000Z",
-     "duration": 3252,
-     "audio": "https://media.transistor.fm/1c0b8aa1/cadd4d19.mp3",
-     "image": "https://img.transistorcdn.com/9GSgOWQ9mLE9Aoanxb6HORkNfMIkuqypceHo6hzQ818/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNDBm/MGZhZGUxZGUwMTdk/ZjE5OTQzZjJhYzll/YWU4Ny5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler talk about the beautiful mandate and fruit of one-on-one discipling in the local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/62354257",
-     "title": "Thriving Women's Ministry in the Local Church (Ep. 41)",
-     "date": "2024-10-14T09:00:10.000Z",
-     "duration": 2171,
-     "audio": "https://media.transistor.fm/26b3007c/69bdfb2a.mp3",
-     "image": "https://img.transistorcdn.com/WyoxYzvcI8Om5cZAHqQhAYESDCRx9cigSDhFbRWcxws/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YzI2/NGQ0ZmU0M2Y4Y2U4/NDcxMjNiZWY4MzI3/Y2JmOS5qcGc.jpg",
-     "description": "Priscilla Talk is back! In this first episode, Jenny Manley, Erin Wheeler, and Keri Folmar catch up and discuss what women's ministry should look like in the local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/60632933",
-     "title": "Special Episode: Living for I AM in a World of \"I am\" from TGCW24",
-     "date": "2024-07-08T14:35:21.000Z",
-     "duration": 3631,
-     "audio": "https://media.transistor.fm/5b86dfe4/0477e85e.mp3",
-     "image": "https://img.transistorcdn.com/HyJyb9YeSeecpky6QX86r9y9WJ-5mikn1sVDqlMVcbI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMzk5/MjFiNGU1ZjUyODQ1/OTBlYTkxNzBhZDBj/MGQ2Mi5qcGc.jpg",
-     "description": "In this special episode of Priscilla Talk, Keri Folmar, Jenny Manley, Erin Wheeler are joined by Bev Berrus, Blair Linne, and Natalie Brand for a live recording of Priscilla Talk at TGCW 24 Conference"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/60485723",
-     "title": "Episode 39: Learning to Love the Local Church: Connection",
-     "date": "2024-06-24T09:00:09.000Z",
-     "duration": 2000,
-     "audio": "https://media.transistor.fm/8ed1cef9/dbfde197.mp3",
-     "image": "https://img.transistorcdn.com/n7kp-ce9vZkG8ql1k4LJJhiBRf78Aaq30Qn8hEdUwhY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wODQ1/ZWFkNDljZjY5ZjBh/ZDlkMzczZWI3OGE5/ZmE2OC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler interview Naomi about how a healthy local church fuels love for God and other members. Related resources: Discipling by M"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/60336571",
-     "title": "Episode 38: Learning to Love the Local Church: Community",
-     "date": "2024-06-10T09:00:09.000Z",
-     "duration": 3049,
-     "audio": "https://media.transistor.fm/2a31ce40/55629d79.mp3",
-     "image": "https://img.transistorcdn.com/9zJiPXFdfAc8PXbIPyydHXyMyBbJcgTtG3z7jYj1Gbo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZGE4/OTA3OWFjOWUzMTYw/ODFiNGI4YTE0OGQ1/ZDYxZi5qcGc.jpg",
-     "description": "Register for the live recording of Priscilla Talk at TGCW Conference"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/60188432",
-     "title": "Episode 37: Learning to Love the Local Church: Comfort",
-     "date": "2024-05-27T15:07:00.000Z",
-     "duration": 2721,
-     "audio": "https://media.transistor.fm/1e6ddb72/c6f95ae9.mp3",
-     "image": "https://img.transistorcdn.com/FcBms7AbBIsC6wKJvNzmFpDgU-lRRQ7CsVvi58QpAA0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNTU0/YjUyYmJiNmExZGJj/ZGMwZmQ2OTJhYzEw/OWYxMS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri, Erin and Jenny interview Karen about how God used a local church to comfort her during a season of grief and sorrow. Register for the live recording of Priscil"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/60003546",
-     "title": "Episode 36: Why Women Should Rightly Understand Missions",
-     "date": "2024-05-13T13:20:21.000Z",
-     "duration": 2749,
-     "audio": "https://media.transistor.fm/07ba2b70/8b72a5b8.mp3",
-     "image": "https://img.transistorcdn.com/bfmMvO24VR9ngyQB-F3gGPyQWpaYGm6z0-ItYGtv0gs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNTg5/M2U4OTYxMmM5YTY3/NmJiMWJkMGUyZmM3/NGNlMS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Jenny, Erin, and Keri chat with Joanna about the importance of rightly understanding missions in a local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/59692952",
-     "title": "Episode 35: How a Praying Church Benefits Women (with Megan Hill)",
-     "date": "2024-04-29T09:00:06.000Z",
-     "duration": 2508,
-     "audio": "https://media.transistor.fm/4297b373/168397f0.mp3",
-     "image": "https://img.transistorcdn.com/FhlpyXSjn7ZJy5RsM3WqbKBvyLhMywU8SFtH1rnz-mg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjBm/M2Y3YzAxMWM0NDYy/NTk2MDk0ZWIyN2Jk/YmQyOC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Jenny Manley, and Erin Wheeler interview Megan Hill and discuss how women can bless their churches and benefit from prayer."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/59465145",
-     "title": "Episode 34: How Biblical Church Leadership Benefits Women (with John Folmar, Brad Wheeler, and Josh Manley)",
-     "date": "2024-04-15T09:00:05.000Z",
-     "duration": 2514,
-     "audio": "https://media.transistor.fm/5ce537ba/2a6d35c0.mp3",
-     "image": "https://img.transistorcdn.com/nh-n6sbBIbtsE7wX2zkhomw00NIkZxCsN7fqc290RZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOTFl/OTY0ZDFkZTAzNDZi/MTU2NDVjNTE1YzUx/ZDc4YS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts bring in special guests to talk about how biblical church leadership benefits women."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/59287435",
-     "title": "Episode 33: Discipleship and Growth Among Women in the Local Church (with Bev Berrus)",
-     "date": "2024-04-04T09:00:03.000Z",
-     "duration": 2638,
-     "audio": "https://media.transistor.fm/b7a1328b/35b8c787.mp3",
-     "image": "https://img.transistorcdn.com/pSgYSF5j97a2wJybhGD_F1Z-s34ALpAV09Gnp5_adu0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zOTUx/YzdiODI3Njc1ZTEy/OTBkMmE2ZDFiZGY5/MTZhYy5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri, Jenny, and Erin chat with Bev Berrus about how a church with a biblical concern for discipleship and growth can supercharge women's spiritual lives."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/59083083",
-     "title": "Episode 32: How Biblical Church Membership and Discipline Benefit Women",
-     "date": "2024-03-18T09:00:02.000Z",
-     "duration": 2954,
-     "audio": "https://media.transistor.fm/42ad2455/cc3099cd.mp3",
-     "image": "https://img.transistorcdn.com/278gQ3UnWoVhesPaQ6V4XqqMCTWD81LxbpQD3q9Bq1o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNzI4/MDY5NmQyMWU1NDc2/OGY4NzY1OGIzODUz/MzQ5OC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri, Jenny, and Erin discuss the importance of church membership and discipline and how they bless and protect women."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/58914026",
-     "title": "Episode 31: Women Understanding Biblical Conversion and Evangelism (with Megan Collins)",
-     "date": "2024-03-04T10:00:03.000Z",
-     "duration": 2617,
-     "audio": "https://media.transistor.fm/6230fae3/9cad141d.mp3",
-     "image": "https://img.transistorcdn.com/6rLdNg6lam8O-QSd07Htnc9tuLCx7arYeox1wSF9jZo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kODFm/YWMwYjQ4ZjkwMDNj/NzlmMzdmNDE4ZWFm/YzBiNC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts interview Megan Collins, a pastor's wife in Singapore, and discuss how a church with a biblical understanding of conversion and evangelism helps women dail"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/58742650",
-     "title": "Episode 30: Women Thriving under Gospel Doctrine (with Adrienne Lawrence)",
-     "date": "2024-02-19T17:36:01.000Z",
-     "duration": 2161,
-     "audio": "https://media.transistor.fm/135ac435/16bfea30.mp3",
-     "image": "https://img.transistorcdn.com/EnRexaTIFgFxRpmJaROmmvnC9nuC0djyKBIFMI4oILw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MDVk/Zjk4ZTZhZmZjNjk1/Yzk3NTdkZDM4MTNl/MWYyMy5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts interview Adrienne Lawrence, Bible teacher and pastor’s wife, about how a church with gospel doctrine benefits women’s lives."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/58570676",
-     "title": "Episode 29: Women Thriving under Expositional Preaching (with Colleen McFadden)",
-     "date": "2024-02-05T10:00:03.000Z",
-     "duration": 2142,
-     "audio": "https://media.transistor.fm/4458f8cf/1a57f757.mp3",
-     "image": "https://img.transistorcdn.com/uA4hGF_VcFaRuI5Q_f7E7ZS9Ivs98eMLjSMqH6SaFlE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMmQy/ZGVjMTdhNGQ3OTgw/NTU2NGFlOGM2MTg2/NzljYS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Erin, Keri, and Jenny chat with Colleen McFadden of Simeon Trust. They discuss how faithful expositional preaching from the pulpit can supercharge Word-centered wome"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/58398898",
-     "title": "Episode 28: Women and the Nine Marks of a Healthy Church (with Mark Dever)",
-     "date": "2024-01-22T10:00:02.000Z",
-     "duration": 2433,
-     "audio": "https://media.transistor.fm/1a28fe19/b221aace.mp3",
-     "image": "https://img.transistorcdn.com/8dKgAMiPtpNTdBIW4E3sD0AjVtQ9uKFQB4R-32dASrs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzI2/NWZmNmViYjk1MjY3/YmEyODJkMzA4YTg1/ODBlNy5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri Folmar, Erin Wheeler and Jenny Manley interview Mark Dever about how the nine marks of a healthy church benefit women... and his love for ice."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/58042447",
-     "title": "Episode 27: Complementarity Wrap-Up",
-     "date": "2023-12-18T10:00:03.000Z",
-     "duration": 3463,
-     "audio": "https://media.transistor.fm/6a94fc7f/0b2d4d55.mp3",
-     "image": "https://img.transistorcdn.com/pC8C2e4Aiv6Pii1nvl3qX4Lgg5h0yMgJKe82Re31uXo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDM2/MGU4YmYxNjVmYWQ4/ZTNjOTM0NWU3MThl/MjQ1NS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Erin, Jenny and Keri wrap up the latest series talking about the beauty of complementarianism."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/57901564",
-     "title": "Episode 26: Questions on Complementarity (with Natalie Brand)",
-     "date": "2023-12-04T10:00:03.000Z",
-     "duration": 2892,
-     "audio": "https://media.transistor.fm/81113764/a5c5fec3.mp3",
-     "image": "https://img.transistorcdn.com/f73-FwVWIc0qxK_vlOWWfgGFeSz0ZO_JgieVOm1cgGk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MjE0/M2ZmYzA4ODM5YzI1/ZDU2MTIzMWNiOTNj/Y2JjNi5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Jenny, Keri and special guest Natalie Brand take questions on Complementarianism live from Priscilla-like women at the Ras Al Khaimah Evangelical Church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/57720422",
-     "title": "Episode 25: On Complementarity in the Church (with Abby Morse)",
-     "date": "2023-11-20T10:00:03.000Z",
-     "duration": 2662,
-     "audio": "https://media.transistor.fm/5742f5c2/65b34e61.mp3",
-     "image": "https://img.transistorcdn.com/9qI0ZSvaF0h3UCiQ18AvpP254ro_RfROsrPCbVlXHhs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YWIy/YWQ1ZDA2YzI1YzI1/NzExZDFhMDc0OTk3/ZjZiNS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Abby Morse joins Keri, Jenny and Erin to tell about her transition from egalitarian pulpit ministry to complementarian work overseas and in her local church."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/57526577",
-     "title": "Episode 24: On Complementarity in the Home (with Nana Dolce)",
-     "date": "2023-11-06T10:00:03.000Z",
-     "duration": 2694,
-     "audio": "https://media.transistor.fm/db5d78f7/3752766e.mp3",
-     "image": "https://img.transistorcdn.com/4q2MNSzn_nCZ426CzSU9F5pyHDD2K-DaaBOD88boFtg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZmMx/MzVkNTdkZDY2Nzhh/Mjc2MWZkM2ExODM5/Zjk5Yy5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts interview Nana Dolce, author of The Seed of the Woman. They discuss what a complementarian household looks like and how a husband’s godly leadership in the"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/57356186",
-     "title": "Episode 23: On Biblical Basis for Complementarianism (with Claire Smith)",
-     "date": "2023-10-23T16:14:04.000Z",
-     "duration": 3712,
-     "audio": "https://media.transistor.fm/701e9855/47ae000c.mp3",
-     "image": "https://img.transistorcdn.com/iGzFfF5vk3gj3pgBOM2RtwuOlp1fbPPK6nWSqkFbyyw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYTNm/MTk5ZjFlMDk1MzI2/NzAzYTJhOWU2NzJl/YzI2MC5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts interview Claire Smith, author of God’s Good Design, and discuss the biblical texts on Complementarianism and why God’s design is good for women."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/57174076",
-     "title": "Episode 22: Summer Recap",
-     "date": "2023-10-10T09:00:03.000Z",
-     "duration": 2094,
-     "audio": "https://media.transistor.fm/9dccca6b/c290cdd1.mp3",
-     "image": "https://img.transistorcdn.com/o6hw1z80DG0tb8lYS_JeYeie2Bau0xHeyJHuEWOVyd4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NmJm/OTNjMTY5NjU4MGFl/MWQyZjlmOGQ4MjZi/MDJjOS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts catch up and talk about their summers, and the upcoming season."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/56610282",
-     "title": "Episode 21: On Thriving During the Widow Years",
-     "date": "2023-08-28T09:00:03.000Z",
-     "duration": 4215,
-     "audio": "https://media.transistor.fm/ae963fe1/4c0c6b42.mp3",
-     "image": "https://img.transistorcdn.com/7uhZC4Gu3ySxgE3OSYEb0j6a4YrK3KBWGPfx1tPfJ8E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMTRi/ZDg2YTI5OWNlN2Mw/ZjU4NTBmNWQxNTRj/MWRiZi5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts talk with Jenny's mother-in-love, Tony, about thriving during the widow years."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/56460566",
-     "title": "Episode 20: On Seasons of Hormonal Change",
-     "date": "2023-08-14T09:00:03.000Z",
-     "duration": 2757,
-     "audio": "https://media.transistor.fm/a9f3311d/e69f9332.mp3",
-     "image": "https://img.transistorcdn.com/DXL_kRuSg0vVw08ZPYWuw-oa38cnllx7CkN1XbWLa-0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMmJk/ZGY2M2Y0YzFmYTQx/YTU3YjkyMDJkMDk1/NzIxNC5qcGc.jpg",
-     "description": "Part of being created as a female is to feel the effects of the Fall through hormonal change. In this episode of Priscilla Talk, the hosts talk about seasons of hormonal change and how the local churc"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/56314629",
-     "title": "Episode 19: On Thriving During the Empty Nest Years (with Joanne Parks)",
-     "date": "2023-07-31T09:00:03.000Z",
-     "duration": 2464,
-     "audio": "https://media.transistor.fm/670e7181/ce921f18.mp3",
-     "image": "https://img.transistorcdn.com/iDlKKH5slQvoNOJ0splqNcsR-1-nHmAukvuvKH8bgoY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lOGRj/ZGFlMTY3MzA4OTM4/Njc1OTI1YjA5ZjM1/N2MzNi5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/56122920",
-     "title": "Episode 18: On Thriving in the Teenage Years (with Leia Joseph)",
-     "date": "2023-07-17T09:00:03.000Z",
-     "duration": 3245,
-     "audio": "https://media.transistor.fm/9361f6eb/fdd46b8d.mp3",
-     "image": "https://img.transistorcdn.com/iiOt-xy78cBT75XNdhellW9-rKYH-2QZr_C3mFgqhBA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzM5/Mzc2Yjk4ZmFjNWI2/N2Y5NDMzMWVlNWFl/OGExZS5qcGc.jpg",
-     "description": "Parenting teenagers comes with endless questions: are they still kids or adults? How do we deal with their emotions? Who will disciple my teens? In this episode of Priscilla Talk, the hosts interview "
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/55857105",
-     "title": "Episode 17: On Thriving in Times of Loss (with Kristin Schmucker)",
-     "date": "2023-07-03T09:00:03.000Z",
-     "duration": 3451,
-     "audio": "https://media.transistor.fm/c73b8352/d12e70bd.mp3",
-     "image": "https://img.transistorcdn.com/DXtCGIMnF0z_f4FrBJpCO3XwoHXNneRko29ypsDSC0k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZjc0/NzVjZDhiMjdjZDlm/ODY1ZTQ1MTQzNDkw/ODg0Yy5qcGc.jpg",
-     "description": "How can we thrive in times of loss? Is that even possible? In this episode of Priscilla Talk, our hosts interview Kristin Schmucker about what a really difficult season in her life taught her about tr"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/54559442",
-     "title": "Episode 16: On Thriving in the School Years",
-     "date": "2023-06-21T09:00:02.000Z",
-     "duration": 3096,
-     "audio": "https://media.transistor.fm/aaea817c/bbe9ccd8.mp3",
-     "image": "https://img.transistorcdn.com/KK4StkVFrMhCDXADrks4Gm4h8KDbwm8Kd5jHg7y9V60/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Nzcz/NmQxZGNjNzJjN2Y4/NmRjOTNmNzgwNzll/MTlhYy5qcGc.jpg",
-     "description": "Public school, homeschool, Christian private school? In this episode of Priscilla Talk, our hosts apply wisdom to this thorny topic."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/54100652",
-     "title": "Episode 15: On Thriving During the Little Years (with Hunter Beless)",
-     "date": "2023-06-05T14:15:55.000Z",
-     "duration": 2480,
-     "audio": "https://media.transistor.fm/b3d08dda/c5867e91.mp3",
-     "image": "https://img.transistorcdn.com/9h7E1bdfVFwxvcBRrdN8iIrAnDQzF6rDtMzQ-jkb0HE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZmVl/YjI1NDc3MzRkYzUx/NWMyNjIxOTlhMjc5/OTI5ZC5qcGc.jpg",
-     "description": "Being a mom of young children is a gift. Being a mom of young children is hard. In this episode of Priscilla Talk, our hosts chat with Hunter Beless about thriving as a Christian and a church member d"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/53954009",
-     "title": "Episode 14: On Thriving During The Newlywed Season",
-     "date": "2023-05-22T09:00:02.000Z",
-     "duration": 3327,
-     "audio": "https://media.transistor.fm/cb932db7/89afd37d.mp3",
-     "image": "https://img.transistorcdn.com/Bh03VnzpzLoRPEMoR8TVkgBoI_Oso9ZuNGamNL1SGkU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYzAz/MzlmZTM5ZTJjNTA3/YzdkNWI0Njg4MWRm/OTU1Ni5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, our hosts talk about thriving in the early years of marriage."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/53785821",
-     "title": "Episode 13: On Thriving During Singleness (with Emily Davis)",
-     "date": "2023-05-09T09:00:03.000Z",
-     "duration": 3109,
-     "audio": "https://media.transistor.fm/39a36434/d567b7ca.mp3",
-     "image": "https://img.transistorcdn.com/nsSz1p0VpERYU5K3wUdr4qhO3fKMSZa8jkDxSMXu-zk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NDU1/MDQ1YjA1YmJhOTgy/MzY3YjllNjY4Y2Ew/OWRiMS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts interview Emily Davis on how to thrive during singleness."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/53624888",
-     "title": "Episode 12: On Thriving in the College Years (with Ruth and Chloe Folmar)",
-     "date": "2023-04-24T09:00:03.000Z",
-     "duration": 2906,
-     "audio": "https://media.transistor.fm/abe1d1b6/64765380.mp3",
-     "image": "https://img.transistorcdn.com/9-V8-RG7tHGhZidRzyc7vl7P-2PVGgYxboqttilAF3U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZDNh/ZDQ1NjJmYWVlNTNm/MmE1ODBjNWRiY2Zh/MjA1My5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, the hosts interview Ruth and Chloe Folmar on how to thrive during the college years."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/53488670",
-     "title": "Episode 11: On Thriving in the Local Church in the Various Seasons of Life",
-     "date": "2023-04-10T09:00:02.000Z",
-     "duration": 2757,
-     "audio": "https://media.transistor.fm/390681af/c8d637b4.mp3",
-     "image": "https://img.transistorcdn.com/g2Afv1oTGDdqOcDApZvW4xXyMNSyL8HBsxih0NXW5XQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZTlj/NDg2MDZjMDNjYjk1/ZDc4ZTc2ZmQyZDNm/MmQyNi5qcGc.jpg",
-     "description": "Jenny, Keri, and Erin talk about how women can thrive in different seasons in life."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/53258708",
-     "title": "Episode 10: On Delighting in Doctrine - How Theology Supercharges Women’s Lives and Ministry",
-     "date": "2023-03-20T09:00:03.000Z",
-     "duration": 2907,
-     "audio": "https://media.transistor.fm/634ffb2b/84dba25d.mp3",
-     "image": "https://img.transistorcdn.com/NNPfzlrPoMO6QWW8QQb4NzmHZ9epbb9GAZ95QFgwTEw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wMjQz/MmE2NDI5NDAwNGU4/MDJmOTAyNGNkMmVh/NDVkZC5qcGc.jpg",
-     "description": "In this special episode of Priscilla Talk, our hosts talk to Blair Linne, Courtney Reissig, and Natalie Brand about how doctrine supercharges women's ministry."
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/53105428",
-     "title": "Episode 9: On Delighting in the Doctrine of the Church",
-     "date": "2023-03-06T10:00:03.000Z",
-     "duration": 1885,
-     "audio": "https://media.transistor.fm/ddc32fdc/4f119b20.mp3",
-     "image": "https://img.transistorcdn.com/d0nZq73V8cxlgjrps_ZWU_3XxzNmEHHgd9zrLXXUw8k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZDA2/MTE5ZDE4MTM3Mjhi/NzU0ZmM5MDYxNjg3/Yjc2OS5qcGc.jpg",
-     "description": "In this episode of Priscilla Talk, Keri and Jenny interview Erin about her book, The Church: Delighting in the Doctrine of the Church"
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/52770253",
-     "title": "Episode 8: Special Episode - Flight from Afghanistan",
-     "date": "2023-02-20T10:00:02.000Z",
-     "duration": 2751,
-     "audio": "https://media.transistor.fm/dbf94db8/e0b4a936.mp3",
-     "image": "https://img.transistorcdn.com/5ACvhWcpfgJ4kBdbzdFqcpJw_aNkGq5-IE6tpDCJv3w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NTZl/NzUyNmVjN2FkZmZh/MDM3ZjI5ZGYzZWMz/M2I4Mi5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/52646528",
-     "title": "Episode 7: On Delighting in the Doctrine of Christ",
-     "date": "2023-02-06T10:00:03.000Z",
-     "duration": 1783,
-     "audio": "https://media.transistor.fm/6ba04c41/d121c8a9.mp3",
-     "image": "https://img.transistorcdn.com/ELCdjtBnR6FoXe_Fz77CPfjg93yaIXF5IclCBrc9o64/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MDgz/NTI4MzZkZWFhMGEz/NDcxNTY2YTgzYTE5/OWExMC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/52469103",
-     "title": "Episode 6: On Delighting in the Doctrine of Salvation (with Natalie Brand)",
-     "date": "2023-01-18T10:00:03.000Z",
-     "duration": 1638,
-     "audio": "https://media.transistor.fm/d9eb7a3e/6e1e1fbd.mp3",
-     "image": "https://img.transistorcdn.com/f0FkwR12MT-Yc-MsuNyWYj1C38fcZ-VCY0aG34oN5ZU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MmI0/YjNmOWYwZGVjYzJm/MTRjY2Q2MWUxYjhj/ZTM3Ni5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/52181243",
-     "title": "Episode 5: On Delighting in the Doctrine of God (with Rebecca Stark)",
-     "date": "2022-12-14T10:00:03.000Z",
-     "duration": 1568,
-     "audio": "https://media.transistor.fm/01931ad2/dc66f509.mp3",
-     "image": "https://img.transistorcdn.com/hGyUjIMh_ZZDgphUjStAnJQFSXoipRL9VVqO-FtJFsM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYWM4/ZGQwZmM5NTc3NWY5/MWU4Mzk3MDYzZGZi/NjExNy5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/51986136",
-     "title": "Episode 4: On Delighting in the Doctrine of Scripture",
-     "date": "2022-11-23T10:00:03.000Z",
-     "duration": 1835,
-     "audio": "https://media.transistor.fm/14bd474d/a5b8b5b8.mp3",
-     "image": "https://img.transistorcdn.com/B6bKuu7WF_0BmaZZi8PHBR1Hy729C_q7o5q6sQOu4EI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZjUw/ZWY4ZTE4MTNjMDhi/OWFkYWE1YmQ5NGRm/NmQ5Ny5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/51832437",
-     "title": "Episode 3: On Delighting in Biblical Theology (with Nancy Guthrie)",
-     "date": "2022-11-09T10:00:03.000Z",
-     "duration": 2199,
-     "audio": "https://media.transistor.fm/3cff9412/06537d55.mp3",
-     "image": "https://img.transistorcdn.com/XodM4Vgux5CiWk545gTzBILb6soH1WfWbeBATm0vkP0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNDZm/N2IwMTgyODE1YWQ2/Mzg4OWQwZjZhNTU1/Mzc0Ni5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/51690365",
-     "title": "Episode 2: On Delighting in Doctrine in the Local Church",
-     "date": "2022-10-26T09:00:03.000Z",
-     "duration": 2056,
-     "audio": "https://media.transistor.fm/b3569701/8fa81854.mp3",
-     "image": "https://img.transistorcdn.com/Fbe2x51XcsfTce_QtxigO1HX9pd1LZuPYBfaF-Lm7s8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NjJi/MDYwMzkwNGZkZDBm/MzFjNjBhNGJhNGI2/ZTNhZC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1649518837|https://api.spreaker.com/episode/51545854",
-     "title": "Episode 1: What is Priscilla Talk?",
-     "date": "2022-10-12T09:00:02.000Z",
-     "duration": 2580,
-     "audio": "https://media.transistor.fm/939d1469/1792ee82.mp3",
-     "image": "https://img.transistorcdn.com/ScQWhVDBFxqXxEGfaecTtLW6LD96k-R45MZSr1v4vwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kOWZj/YzNhOWQ4MDhjNmM1/M2M2MTZjMThiMTcx/ODUzMi5qcGc.jpg",
-     "description": ""
     }
    ]
   },
