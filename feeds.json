@@ -1,6 +1,987 @@
 {
- "updated": "2026-11-11T14:26:58.178Z",
+ "updated": "2026-11-12T11:04:26.966Z",
  "shows": [
+  {
+   "id": "1495972590",
+   "name": "Preachers Talk - A podcast by 9Marks & The Charles Simeon Trust",
+   "author": "9Marks",
+   "image": "https://img.transistorcdn.com/n8RoplwiRNaf-3orMmhe_0kS6iLq6RWYJuTn7izHQv8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85M2Jj/NWQwMTY2Y2JmODA2/NjgwN2NmMDFjNzVm/ZGUyNC5qcGc.jpg",
+   "link": "https://www.9marks.org/podcast/preachers-talk/",
+   "episodes": [
+    {
+     "id": "1495972590|7674f626-c044-4e2d-a4bc-53a22a42b265",
+     "title": "On Reading for Preaching (Ep. 107)",
+     "date": "2026-11-12T10:00:00.000Z",
+     "duration": 1738,
+     "audio": "https://media.transistor.fm/02ae38e5/6d45c4d5.mp3",
+     "image": "https://img.transistorcdn.com/wewxGrQmslNXV5i5jurkee4TzM5aKBPis1t325-uaQM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNTRm/OTVmYzM2NmQ1MGU2/YzE1N2Y0NmYxYjEy/YzlhNy5qcGc.jpg",
+     "description": "Why should pastors read widely? What benefit is it to themselves and others? Listen in as Dave and Jeremy are joined by Michael Lawrence to answer these and many more questions."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/72092558",
+     "title": "On Specific Audiences (Ep. 106)",
+     "date": "2026-05-21T11:54:37.000Z",
+     "duration": 1371,
+     "audio": "https://media.transistor.fm/9a831311/d2340e29.mp3",
+     "image": "https://img.transistorcdn.com/dZ47nAmeXT4qrEXU87QxhwQ8d70pYwvAi1PMDolGlec/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNDg4/MjgwYzNmN2M4ZDg2/ZDU2ZWU5MmU3MDkz/ODIwYi5qcGc.jpg",
+     "description": "How is preaching to a very specific audience (youth group, prisoners, etc.) differ from a Sunday morning? How does one preach well in these settings? Dave, Ed, and Jeremy speak from personal experienc"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/71901215",
+     "title": "On One-Off Sermons (Ep. 105)",
+     "date": "2026-05-07T09:00:19.000Z",
+     "duration": 1645,
+     "audio": "https://media.transistor.fm/f78ea328/f27c89f5.mp3",
+     "image": "https://img.transistorcdn.com/sjrMHqQe2cjtLHScaK2xlZ5hN6ymPXaRAUF5KrZ7byY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Y2Uw/MzEyYmI4YjI3NDVm/M2IzYTI0ZTllMzFh/M2IxYy5qcGc.jpg",
+     "description": "When should a pastor break into a series to do a one-off sermon? What kinds of things need to be kept in mind to help determine if it should be done? What does one need to keep in mind when doing a on"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/70293296",
+     "title": "On Preacher's Mailbag #9 (Ep. 104)",
+     "date": "2026-02-26T10:00:38.000Z",
+     "duration": 1408,
+     "audio": "https://media.transistor.fm/5ddc36f0/785524e1.mp3",
+     "image": "https://img.transistorcdn.com/0EYHNQVrefKxTd6aGc4s-sqSB5GHnfNsVD71Rp7e0bA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZWYz/NGU3MzEzYTVkMTVi/NjdjN2ExNTQ3Zjg0/OTFiZi5qcGc.jpg",
+     "description": "Jeremy dives into the mailbag once again to ask listener submitted questions to Ed and Dave."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/70004786",
+     "title": "On the Tone of the Text (Ep. 103)",
+     "date": "2026-02-12T10:00:17.000Z",
+     "duration": 1720,
+     "audio": "https://media.transistor.fm/ce9b6cbd/edf99e79.mp3",
+     "image": "https://img.transistorcdn.com/LNWuqaRPMrB0f3MKTnPPpV4EpxywAymx479V7zOBo8s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OGNi/MzU4MmYxODY3NTk1/N2ViZWExOWYxYzI0/ZDMwYS5qcGc.jpg",
+     "description": "What should the preacher do with the tone of the text? How does the distinction in the audience affect the sermon? Dave, Ed, and Jeremy discuss this important topic."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/69660781",
+     "title": "On Learning to Preach the Bible from the Bible #1 (Ep. 102)",
+     "date": "2026-01-29T10:00:23.000Z",
+     "duration": 1278,
+     "audio": "https://media.transistor.fm/81a80a82/0ed882cf.mp3",
+     "image": "https://img.transistorcdn.com/Fv2rJILHGlZx72G74eRGv7ekH_K52qccLpu9Kk02XuM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mYTBi/ZmU1NDY2NmI0YzU4/MDU1YTJiMDE4NWVm/ZDE3My5qcGc.jpg",
+     "description": "Dave, Ed, and Jeremy begin an occasional series sharing things they are learning about preaching the Bible from the Bible itself."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/69454472",
+     "title": "On Humility in Preaching (Ep. 101)",
+     "date": "2026-01-15T15:52:55.000Z",
+     "duration": 1717,
+     "audio": "https://media.transistor.fm/d21c1bcd/30ddee7d.mp3",
+     "image": "https://img.transistorcdn.com/njkvQEFyVQHRYqZt0AsMk1EPBgILJexJ2flmm-BFgZQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNDNl/ZjQ0YWIxYzYzM2Rl/MDNmNGIzNmMxZGUw/OWQ1Ny5qcGc.jpg",
+     "description": "Why is humility important in preaching? How does a preacher cultivate humility? Why do some texts demand more humility than others? Listen in as Ed, Dave, and Jeremy discuss."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/68869981",
+     "title": "On 25 years of the Simeon Trust (Ep. 100)",
+     "date": "2025-12-04T10:00:22.000Z",
+     "duration": 1738,
+     "audio": "https://media.transistor.fm/28c99117/aa433d05.mp3",
+     "image": "https://img.transistorcdn.com/EixsuCoxi29SEQxGzepMZBzeASUsnKBsgxallY-j7mw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZGU0/OGRjYjAwOTIwYjA2/Nzc4ZTFhNjlmMGJk/YzhhNS5qcGc.jpg",
+     "description": "Where did the Simeon Trust come from? Why does it exist? Where is it headed? Listen in as Dave, Ed, and Jeremy reminisce and thank God together for what he has done. We’d love to hear from you! Let us"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/68649246",
+     "title": "On Using Analogies As Illustrations (Ep. 99)",
+     "date": "2025-11-20T10:00:22.000Z",
+     "duration": 1666,
+     "audio": "https://media.transistor.fm/4a819512/3c90201f.mp3",
+     "image": "https://img.transistorcdn.com/IEWEyWUmby6tLl_Fv_aptsUFDFpDChB82e-eclqFzkA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZjRk/NGFhNTc1MGU5MjA4/MjExYWQ5NzExZjAy/Yjg2NC5qcGc.jpg",
+     "description": "Using illustrations is often challenging or overly alluring for the preacher. How can analogies help the preacher use compact and powerful illustrations? How does the Bible use analogies? Listen in as"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/68442105",
+     "title": "On Secondary Resources in Preaching (Ep. 98)",
+     "date": "2025-11-06T10:00:18.000Z",
+     "duration": 1600,
+     "audio": "https://media.transistor.fm/fe50514d/577d09b9.mp3",
+     "image": "https://img.transistorcdn.com/RDLls3xNspaoyxZG2gQ4i3NED41TlHrOLbJbqzoOd3U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOWFi/ZmRmZTI2Y2ZlYjk0/OGM0YTJmNzQ0NjUz/YmMxMy5qcGc.jpg",
+     "description": "The Bible is a fascinating, ancient document. What is the utility of secondary literature to understand the text? How can the preacher best utilize it in preaching? Dave and Jeremy sit down with Scott"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/68248109",
+     "title": "On Preaching for Repentance (Ep. 97)",
+     "date": "2025-10-23T09:00:16.000Z",
+     "duration": 1486,
+     "audio": "https://media.transistor.fm/2a3d3509/dec23636.mp3",
+     "image": "https://img.transistorcdn.com/KFUV1L3NahIGbwiCxscYSxn_hxsW0VLIWIyp-sGeavU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYTBj/ZDRiMjlmZjhjZjlm/MjMxM2I5NjRjYjQ3/MDM1Yi5qcGc.jpg",
+     "description": "Preachers need to be aimed at far more than information distribution. How does one preach with the goal of repentance? Dave, Ed, and Jeremy wrestle with the challenge."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/68072495",
+     "title": "On Preaching Broadly (Ep. 96)",
+     "date": "2025-10-09T09:00:19.000Z",
+     "duration": 1458,
+     "audio": "https://media.transistor.fm/2334553f/40e4488b.mp3",
+     "image": "https://img.transistorcdn.com/EIQ7Q0V64b1g29cUEwS6hI-yrVFNzGE7ZlP4cx-l8ik/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYWU4/OTE4OThiZjQ3NzY1/ZTNjNTA5OTkyMjAy/NjYxYi5qcGc.jpg",
+     "description": "How does a preacher speak to the whole audience in ways that go deep without losing people and broad without being boring? Ed, Dave, and Jeremy give some insights."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/67886857",
+     "title": "On Using Your Voice (Ep. 95)",
+     "date": "2025-09-25T09:00:20.000Z",
+     "duration": 1570,
+     "audio": "https://media.transistor.fm/bce5210c/a6ff60a5.mp3",
+     "image": "https://img.transistorcdn.com/_YuBoLIub8ZqLBcttao5rCJsF554sZncJmtNAsZue6k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNTUx/ZWQ3ZTc2Yzg0MzQ0/OTBmMmU4MjFhYTRm/NzliZC5qcGc.jpg",
+     "description": "It can be a challenge to know how to speak naturally in the pulpit. How can a preacher grow in the maintenance and use of their voice? Dave, Ed, and Jeremy talk from personal experience."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/67713501",
+     "title": "Preachers Mailbag #8 (Ep. 94)",
+     "date": "2025-09-11T09:00:18.000Z",
+     "duration": 1523,
+     "audio": "https://media.transistor.fm/8553839f/842118bd.mp3",
+     "image": "https://img.transistorcdn.com/leMhZK9SUz4qCY2pqK4bUCNZlMY9K9gkLdjwrLPVDtY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMmIy/ZmEyMGI0ZmM1M2Nj/N2ExNmRiZmMxNjdm/NTA0OS5qcGc.jpg",
+     "description": "Jeremy dives back into the mailbag to ask listener questions to Ed and Dave about preaching."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/67538214",
+     "title": "On Humor in Preaching (Ep. 93)",
+     "date": "2025-08-28T09:00:18.000Z",
+     "duration": 1444,
+     "audio": "https://media.transistor.fm/5019e79c/ca22e139.mp3",
+     "image": "https://img.transistorcdn.com/DD9Ehbg09uvBMMTioqKsO6vBWHGxulKYXOMDo6QMOOA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Nzlk/MTU2NGU4ZDJlOTZh/N2I2ZTJkYmNlMGEy/YzJlNi5qcGc.jpg",
+     "description": "Is humor ever appropriate in preaching? If so, what are some principles to keep in mind as we utilize it? Hear Dave, Ed, and Jeremy, who have very different personalities, discuss."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/67362982",
+     "title": "On The Systematic Theology of the Father (Ep. 92)",
+     "date": "2025-08-14T09:00:16.000Z",
+     "duration": 1734,
+     "audio": "https://media.transistor.fm/e84f8b04/eb0e3dc1.mp3",
+     "image": "https://img.transistorcdn.com/nCAP4rLs6wp2OzBxyy5dM-jMUftE-mf--lCbG_8ND6w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNjZi/ZDVkZWQwYmE2Nzg3/Y2Y5MDgwNjM2YzRi/NTI4ZC5qcGc.jpg",
+     "description": "How does the doctrine of God help in preaching texts? How do we say what we should without saying to little or too much in a sermon? Ed, Dave, and Jeremy discuss, providing examples from their own wor"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/66408191",
+     "title": "On Simplicity (Ep. 91)",
+     "date": "2025-06-05T14:11:33.000Z",
+     "duration": 1607,
+     "audio": "https://media.transistor.fm/afb0d317/44ccc6a3.mp3",
+     "image": "https://img.transistorcdn.com/xKvPHmNrlVqUQ358eQU6u_weccyFQVrllV-229gW6ag/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMGQ1/N2Y3YzRiOTM4Mzll/YWVlODdkZWIwNTgw/OWY5ZC5qcGc.jpg",
+     "description": "Why is simplicity in preaching important? Who benefits? How do we strive for it without being simplistic? Kevin Walker joins Ed and Jeremy to discuss."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/66196645",
+     "title": "On Creativity (Ep. 90)",
+     "date": "2025-05-22T09:00:14.000Z",
+     "duration": 1682,
+     "audio": "https://media.transistor.fm/6345b5d7/23db8c14.mp3",
+     "image": "https://img.transistorcdn.com/_pwLrjz9Khik13i-9coe-pVZDuY5LoZnqIqJLv-bQCw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZTVl/YTkwYWE4MWRhNzk1/NTEyZTYwYjgxNWU5/MTJmNS5qcGc.jpg",
+     "description": "Should a preacher seek to be creative? How might such an attempt go wrong? Ed, Dave, and Jeremy revel in the creativity of the Bible and what it has to teach us about our own use of creativity with wo"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/65989480",
+     "title": "On Using Systematic Theology in Preaching (Ep. 89)",
+     "date": "2025-05-08T09:00:12.000Z",
+     "duration": 1763,
+     "audio": "https://media.transistor.fm/8abc68c3/2e3f7eea.mp3",
+     "image": "https://img.transistorcdn.com/lPwDAN7uFgpmEX3WTNBrpZimFVuzPEc1ppW_KXKl8Xo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZGJk/NmUyZWQ4NWM3NDhk/ZmYxMWU0MDQ2OWM4/OGRjYy5qcGc.jpg",
+     "description": "How does one utilize systematic theology in exposition well? What are the benefits of attempting such a thing? Dave, Ed, and Jeremy begin a mini-series on the use of systematic theology in preaching."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/65694015",
+     "title": "On Topical Preaching (Ep. 88)",
+     "date": "2025-04-24T09:00:13.000Z",
+     "duration": 1846,
+     "audio": "https://media.transistor.fm/e1001027/545f1812.mp3",
+     "image": "https://img.transistorcdn.com/sQ7LyXqB9hKQzMtJ1BhBKR9wxPlpg8fsb0kkOXPqvqU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xM2Rk/ZDVjNmI0OGRiZmRl/MzJjYzE5OGUzYjUy/OTYxNS5qcGc.jpg",
+     "description": "There seem to be moments that demand a topical sermon. What are they? How can a topical sermon be done well? Dave, Ed, and Jeremy discuss and provide examples."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/65504285",
+     "title": "On Preaching to the Heart (Ep. 87)",
+     "date": "2025-04-10T09:00:13.000Z",
+     "duration": 1875,
+     "audio": "https://media.transistor.fm/80f2bf36/e39ab2c7.mp3",
+     "image": "https://img.transistorcdn.com/Zw-oPF6QGp20B1-Qhw7C0SbNOib-IgqTrgqTMFADLsA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYjQx/Y2Y0NWYyOTc2NGM4/MTAxYzM0ZGFmNzUy/MjlmNy5qcGc.jpg",
+     "description": "Engaging the emotions and the will can be tricky. Should we do such a thing in preaching? How do we do so well? Listen in as Ed, Dave, and Jeremy discuss. Topics Discussed (00:06) - Preaching to the H"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/65144422",
+     "title": "On Preaching Memorable Sermons (Ep. 86)",
+     "date": "2025-03-27T09:00:12.000Z",
+     "duration": 1581,
+     "audio": "https://media.transistor.fm/40d882ae/a7c0d637.mp3",
+     "image": "https://img.transistorcdn.com/yiY0d7Aw0CWuinQUo2DpFCOVJcT-eUD5gBJ91HyWBPM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTBl/OWQwZDZmMmIxNmEy/YWM4MzAyODIwZTg3/YWQxZC5qcGc.jpg",
+     "description": "Every preacher has a sermon or two that sticks out in their mind from a fellow preacher. What makes a sermon memorable? How do we thread the needle between wanting to be memorable and legitimately hel"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/64853584",
+     "title": "On Precision in Application (Ep. 85)",
+     "date": "2025-03-13T09:00:11.000Z",
+     "duration": 1726,
+     "audio": "https://media.transistor.fm/5118a678/86f9430c.mp3",
+     "image": "https://img.transistorcdn.com/5UumDY7d4KtIhKuECD1OuGX4-kQb7AKePJqddrBSUOE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMWNl/N2M2YjY0MDE1NjI4/OGQ4ZmFjM2Y4MzU4/NjlhNS5qcGc.jpg",
+     "description": "It is easy to float away from the text and talk about the same things every week. We should apply sermons, but how? How do we do application without getting sidetracked? Dave, Ed, and Jeremy discuss."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/64598608",
+     "title": "On Training Preachers in Asia (Ep. 84)",
+     "date": "2025-02-27T10:00:12.000Z",
+     "duration": 1332,
+     "audio": "https://media.transistor.fm/b8859bb7/1be3948c.mp3",
+     "image": "https://img.transistorcdn.com/lfbeWdK0DuY49VOIIEC4hGmNx45ncLd_7UZXqtESulM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZDk3/ZWIxNTIzODQyYzgw/NDg4MzZhODJmOTIy/OTdjYy5qcGc.jpg",
+     "description": "What is going on in Asia these days when it comes to training preachers? What are the challenges and encouragements? Darrell Young, the Simeon Trust's man in Asia, joins Dave and Jeremy to discuss. Su"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/64352786",
+     "title": "Preacher Mailbag #7 (Ep. 83)",
+     "date": "2025-02-13T10:00:13.000Z",
+     "duration": 1469,
+     "audio": "https://media.transistor.fm/0e6aa161/3750412c.mp3",
+     "image": "https://img.transistorcdn.com/7aVE43ACfd7uxajsEs5lH3dJKTPZTjCadHmVe51hAQE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iODU1/NDZhYTgzY2YzYThh/MDFhYTgyODMxYjQ4/N2U3ZC5qcGc.jpg",
+     "description": "How should pastors listen to preaching without getting distracted or overly critical? Should kids ever not be present in a sermon, given the content? As for personal illustrations, is it ever ok to be"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/64044981",
+     "title": "On Short Bible Talks (Ep. 82)",
+     "date": "2025-01-30T15:36:47.000Z",
+     "duration": 1829,
+     "audio": "https://media.transistor.fm/d7f002b8/6a9c44eb.mp3",
+     "image": "https://img.transistorcdn.com/IUMFEQFEREC_VONYQpfx9Ow5P0DjAoYR9wClL5vqzAI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZWQw/YmViYTQzOWZlYzc5/ZWQ3NmExZjc3ODMy/MTVhZS5qcGc.jpg",
+     "description": "Preachers often have opportunities to give short talks at events from the bible. What is the preacher to do in such situations? What are the challenges? And how can these talks improve our regular pre"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/63386450",
+     "title": "On Preaching in Cross-Cultural Contexts (Ep. 81)",
+     "date": "2024-12-19T10:00:13.000Z",
+     "duration": 1756,
+     "audio": "https://media.transistor.fm/93b18e2c/16e28321.mp3",
+     "image": "https://img.transistorcdn.com/3Rx86oE4H15zd4ly0tpcOkkki5oCScsEe__4LzdG5AQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MDNl/MDhiMWMzZWE1ZWI5/MmVmOWY3ZTNkMWQ2/MjEyOC5qcGc.jpg",
+     "description": "How does one preach cross-culturally? What even counts as cross-cultural? On this episode, Ed and Jeremy sit down with Walter Carter III to discuss the benefits and challenges of preaching outside one"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/62935471",
+     "title": "On Wielding the Gospel Well (Ep. 80)",
+     "date": "2024-11-21T10:00:13.000Z",
+     "duration": 1611,
+     "audio": "https://media.transistor.fm/15934398/ce5fbfd0.mp3",
+     "image": "https://img.transistorcdn.com/iRLv_dsvTce44nSn7e5_eXn6sszVsSkGPIFN2IvrWpg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNTQ1/ZjRhOTNiY2FiNThh/ZjBkOTNlN2FkNjMz/ZmU2ZC5qcGc.jpg",
+     "description": "What is the preacher supposed to do with the gospel in a sermon? How can they use it to further the point of the text and not ruin it? Ed, Dave, and Jeremy take up these questions and give examples fr"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/62648855",
+     "title": "On Preaching Short Passages (Ep. 79)",
+     "date": "2024-11-07T10:00:07.000Z",
+     "duration": 1732,
+     "audio": "https://media.transistor.fm/5bb3b430/4dea01fa.mp3",
+     "image": "https://img.transistorcdn.com/ZX-Tvx28BnBsG4AYuEhPz-VybL24ArA5VoeS6ZlucVM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Yzk5/MzA4NDlmNzhkNjA3/NjllMDA2N2U4NDY4/NDMzOC5qcGc.jpg",
+     "description": "How does one go about preaching short texts? Why would a preacher consider doing so? Listen in as Dave, Ed, and Jeremy discuss these questions and more."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/62482785",
+     "title": "On Beginning a New Preaching Role (Ep. 78)",
+     "date": "2024-10-24T09:00:06.000Z",
+     "duration": 1809,
+     "audio": "https://media.transistor.fm/69c25783/b175e642.mp3",
+     "image": "https://img.transistorcdn.com/G55g9blRrpma7nTMK8nKHsPbZyxkWj-fZbLPvfOW7yY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YTMw/NjJlNjRhMjliYTM0/ODY2ZjVmNTE2MGVm/YjdiMC5qcGc.jpg",
+     "description": "How should a seasoned preacher approach a new preaching role? What does pastoral wisdom look like in such a position? Ed, Dave, and Jeremy draw on their own successes and failures to answer these impo"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/62205671",
+     "title": "On Re-preaching Sermons (Ep. 77)",
+     "date": "2024-10-03T09:00:08.000Z",
+     "duration": 1856,
+     "audio": "https://media.transistor.fm/31a6afb9/3e2f387a.mp3",
+     "image": "https://img.transistorcdn.com/sO9ULrpBq-Xl8JPxZG3n_aQa6eR0Q9rYV9yoy-ZGrVA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kN2Yy/YjA0ZmFkM2FjNWRj/N2M2NTBiZjEzNWRk/Y2U4ZS5qcGc.jpg",
+     "description": "Can a preacher re-preach a sermon? If so, where and when? What might the benefits and pitfalls be of such a practice? Listen in as Dave, Ed, and Jeremy talk it out."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/62026778",
+     "title": "On Obedient Playfulness (Ep. 76)",
+     "date": "2024-09-19T11:32:44.000Z",
+     "duration": 1473,
+     "audio": "https://media.transistor.fm/26ba06a1/628626bd.mp3",
+     "image": "https://img.transistorcdn.com/HDEXS_HpzCmNsAZkVw7nfc77PNZVpDxNjW7iMJUnc7k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYmQ4/ZGM1OWU3OTEwZGU3/ZGUwZDMwZDQ2MmVm/NDdkZC5qcGc.jpg",
+     "description": "What do we do with the strange, gross, and just plain weird parts of the bible? Why is playfulness an important element in the preacher's pursuit of faithfulness to the text? Listen in as Ed, Dave, an"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/61268641",
+     "title": "On Preaching the Main Point (Ep. 75)",
+     "date": "2024-09-05T10:00:02.000Z",
+     "duration": 1720,
+     "audio": "https://media.transistor.fm/d0e47221/b73862c9.mp3",
+     "image": "https://img.transistorcdn.com/PJmDoi9cwpxXSmITVMDkFrdeWOYEnUxXROFMwKtr_pE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ZGVj/M2QzODNmMDM3MmZm/ZDI1ZWNhZjdhMzg5/YWVmYS5qcGc.jpg",
+     "description": "What does one do once they have gotten to the heart of the text? How does one effectively wield the main point of a passage? This week Dave, Ed, and Jeremy tackle these important challenges."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/59524001",
+     "title": "Preacher Mailbag #6 (Preachers Talk, Ep. 74)",
+     "date": "2024-04-18T09:00:06.000Z",
+     "duration": 1446,
+     "audio": "https://media.transistor.fm/374645b2/e635abc9.mp3",
+     "image": "https://img.transistorcdn.com/2fk-9IfRzQJoS5-ezQHXQV0292M4vNF-eJCCexl8dOg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDgx/YjdkOTQ4N2ExNDhh/ZTRjMjk2NTgwNGYz/NWI0OC5qcGc.jpg",
+     "description": "Just how much of the text should a preacher read before he preaches it? What about rereading while you preach? And how do you deal with a text that has multiple popular interpretations? These are just"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/59287450",
+     "title": "On Preaching Apocalyptic Literature (Preachers Talk, Ep. 73)",
+     "date": "2024-04-04T09:00:03.000Z",
+     "duration": 1842,
+     "audio": "https://media.transistor.fm/af9a25c3/7078cea9.mp3",
+     "image": "https://img.transistorcdn.com/-S9rpvE14hi8Co3m9vzO-7UmKKY-4CA13vMHvec4f8U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYTI1/ZDhmMjQ2NmIxZTRi/Y2Q3NDI1MDc2MjQw/YzA4My5qcGc.jpg",
+     "description": "There is no denying it, preaching apocalyptic literature is tough, so why should we do it? What are the unique benefits and challenges to preaching it well? In this episode Dave, Ed, and Jeremy discus"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/59122176",
+     "title": "On Life and the Pulpit (Preachers Talk, Ep. 72)",
+     "date": "2024-03-21T09:00:02.000Z",
+     "duration": 1492,
+     "audio": "https://media.transistor.fm/a0e2cb0b/f07602f7.mp3",
+     "image": "https://img.transistorcdn.com/42RZXG5h92YBwfUcswNKpzzRtxRD0_hTPVoHIJ6K83Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yM2M5/MjU2MTE3ZWFmMTg2/NzJlOWNkMTUzZTcw/ZjBkOC5qcGc.jpg",
+     "description": "Every pastor lives the majority of life outside the pulpit. How does it affect the preacher? How does the preacher embrace the moment they are in without it dominate the preaching? Dave, Ed, and Jerem"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/58954493",
+     "title": "On Preaching Epistles (Preachers Talk, Ep. 71)",
+     "date": "2024-03-07T10:00:02.000Z",
+     "duration": 1754,
+     "audio": "https://media.transistor.fm/386b0b5c/6952c8fe.mp3",
+     "image": "https://img.transistorcdn.com/Aa_9oVCU7YhrPxWTHBPdsl60aTHPZIti9e3CBXjXe6Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MDJh/NjdhN2Y4ZjhkYTg3/ZTdmODg4NDUzMzJi/YmQyZS5qcGc.jpg",
+     "description": "Most of us who were trained in preaching were trained to preach Epistles. What are the challenges of preaching them? Why is preaching them beneficial for the church? Hear Ed, Dave, and Jeremy discuss "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/58773101",
+     "title": "On PhDs and Preaching, with Robert Kinney (Preachers Talk, Ep. 70)",
+     "date": "2024-02-22T10:00:02.000Z",
+     "duration": 1224,
+     "audio": "https://media.transistor.fm/b82a1f97/3a3a4710.mp3",
+     "image": "https://img.transistorcdn.com/4LhZCfbA3YHN3DGSG86u90SWQKhSeDh2nfX8QZRW_f0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85YjIy/MDQ4OWFjZTVhYmY3/NDE5YWJkNzRkNTdk/M2VhOC5qcGc.jpg",
+     "description": "Does a preacher need a PhD? What are the benefits...and substantial challenges to getting one? Dave and Jeremy are joined by Robert Kinney to discuss this important topic."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/58606464",
+     "title": "On Preaching Long Passages (Preachers Talk, Ep. 69)",
+     "date": "2024-02-08T10:00:02.000Z",
+     "duration": 1649,
+     "audio": "https://media.transistor.fm/12ec446d/5ca171bb.mp3",
+     "image": "https://img.transistorcdn.com/rIO8sPTEjEUN9m__Ui9mu6v-GybV48yzQHySzmSPbvY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZTRi/ZjAxZGQ4MjQ1YTFk/MjU3MzBiNDVkZjg3/YTJhZS5qcGc.jpg",
+     "description": "How should a preacher go about preaching long passages? Why should anyone do so in the first place? Dave, Ed, and Jeremy have a short conversation on long texts."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/58440707",
+     "title": "On Preaching Gospels/Acts (Preachers Talk, Ep. 68)",
+     "date": "2024-01-25T10:00:02.000Z",
+     "duration": 1568,
+     "audio": "https://media.transistor.fm/c5bf92af/497c1aa0.mp3",
+     "image": "https://img.transistorcdn.com/ugCCrIR9d49GbBdJ6-h85zkthViDUNhU3XCWS_ekUqg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNzk2/NjFmOGM5M2U5ZTBm/N2IwNWI2NTJiZjE3/MzhkMS5qcGc.jpg",
+     "description": "What makes Gospels/Acts so interesting and yet so challenging to preach? How can the preacher preach them well? Ed, Dave, and Jeremy answer these kinds of questions, providing examples from their own "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/58003869",
+     "title": "On Preaching Amidst Church Conflict (Preachers Talk, Ep. 67)",
+     "date": "2023-12-14T10:35:02.000Z",
+     "duration": 1610,
+     "audio": "https://media.transistor.fm/fe1fd1dc/c8d98a99.mp3",
+     "image": "https://img.transistorcdn.com/yhoazeHTfyqXEwgFHD5BfLGI_yR7ApQEApG0AMp1UWQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWE4/NjJjM2RiMzQzNWFj/NDNjODRjZWU2ODRi/ZjlkYS5qcGc.jpg",
+     "description": "How does a preacher do his job well when he knows there is strife in the congregation? Dave, Ed, and Jeremy tackle this difficult topic, giving insight into what to do...and what to avoid."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/57857468",
+     "title": "Preacher Mailbag #5 (Preachers Talk, Ep. 66)",
+     "date": "2023-11-30T10:00:03.000Z",
+     "duration": 1376,
+     "audio": "https://media.transistor.fm/ea0bbeba/23ead79b.mp3",
+     "image": "https://img.transistorcdn.com/9Vr1ZesfnZncVW6G038fUZhspNb2KyhbZYe1-lSX2sY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNjRm/NDM3N2M3NDE0Nzcw/MDg1OWEzZTU1YTA5/MjNiOC5qcGc.jpg",
+     "description": "Should there be a primary preacher in a pulpit or is team teaching ideal? How do you preach when you just don't feel like it? These questions, and many more, are pulled out of the mail bag and tossed "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/57656068",
+     "title": "On Preaching Wisdom Literature (Preachers Talk, Ep. 65)",
+     "date": "2023-11-16T10:00:03.000Z",
+     "duration": 1922,
+     "audio": "https://media.transistor.fm/84ce2473/93abc378.mp3",
+     "image": "https://img.transistorcdn.com/UjDPwhYDyoHm_2DuzON3no-uWO_uPfNg4UE7eZYx9X0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MTcw/N2VjNjAyOWE1MGYz/NTkxODM3MGM4Y2Qz/NzJhMS5qcGc.jpg",
+     "description": "Wisdom is intensely practical, and yet also intensely difficult to preach sometimes. How can a preacher do it well? Why should we preach it in the first place? Listen in as Dave Helm, Ed Copeland, and"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/57299264",
+     "title": "On Clarity, with Robert Kinney (Preachers Talk, Ep. 64)",
+     "date": "2023-10-19T09:00:03.000Z",
+     "duration": 1405,
+     "audio": "https://media.transistor.fm/7746574a/47cd5f6c.mp3",
+     "image": "https://img.transistorcdn.com/JZ-QLMxXAQzWY7z4Mrpt37TojHJzoUXze9heKo1arMc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mM2Nk/NjJlYzFmMGZhZjVl/MGIxNzIxMjY5NGRk/NDNmZC5qcGc.jpg",
+     "description": "Why is clarity important in preaching? What leads to a lack of clarity and how can the preacher strive for it? Listen in as Dave Helm and Jeremy Meeks discuss the issue with Robert Kinney."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/57073097",
+     "title": "On Preaching in Diverse International Contexts, with John Folmar (Preachers Talk, Ep. 63)",
+     "date": "2023-10-05T09:00:03.000Z",
+     "duration": 1314,
+     "audio": "https://media.transistor.fm/b5c98109/290e677d.mp3",
+     "image": "https://img.transistorcdn.com/LB9Naobw_guwnvDHOLWpac-5iW0U6OF2SJXHhSlsyZw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNDhj/NDg4MTQwN2M4NmQ2/NWE2ODM3NTcxOWEy/ZGIyZS5qcGc.jpg",
+     "description": "Preaching is never easy, but the diversity of one's audience can make it a particular challenge...and joy. John Folmar joins Dave and Jeremy to discuss preaching and training others to do the same in "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/56876996",
+     "title": "On Adornment, with Robert Kinney (Preachers Talk, Ep. 62)",
+     "date": "2023-09-21T09:00:03.000Z",
+     "duration": 1425,
+     "audio": "https://media.transistor.fm/a4665086/780bdce1.mp3",
+     "image": "https://img.transistorcdn.com/Cl_7o_p67cMVYudrRKK4171jIoHbL-PN3i1kHrmh1lA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iOTMx/YjBkMjA1OTY0YWJk/ODg4ODAxYTY3M2Vm/NDg2NC5qcGc.jpg",
+     "description": "What does it mean to make our sermons pleasing and moving? Should we do that in the first place? If so, why? Robert Kinney joins Dave and Jeremy as they wrestle with some of the artistic elements of p"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/56721289",
+     "title": "On Preaching as Pastoral Ministry, with Mark Dever (Preachers Talk, Ep. 61)",
+     "date": "2023-09-07T09:00:03.000Z",
+     "duration": 1433,
+     "audio": "https://media.transistor.fm/4454b5ac/93aec9e8.mp3",
+     "image": "https://img.transistorcdn.com/P78TXjhxroOo2r0mtOPgYhNXJTnXpLsMuX3rpIFUAJ8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNDNl/MTdjZWNiODRhMzc5/NzJkMDRhYTk2NDNm/ZjRhYS5qcGc.jpg",
+     "description": "Preachers Talk is back! In this episode, Dave and Jeremy are joined by a special guest, Mark Dever."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/56080282",
+     "title": "On Preaching Prophets (Preachers Talk, Ep. 60)",
+     "date": "2023-07-13T09:00:02.000Z",
+     "duration": 1875,
+     "audio": "https://media.transistor.fm/361b3f5a/e5ea91fe.mp3",
+     "image": "https://img.transistorcdn.com/kX4b_Q7jWbkmAK44939mazTRpaNiPjyygrFNuBN-_h4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Y2Zm/NmMyZmE4NmFkYmVm/MDExZTM4ZDM0NjY2/MzY0YS5qcGc.jpg",
+     "description": "It's not uncommon for a pastor's preaching schedule to linger on the Gospels and epistles and look past the major and minor prophets. In this episode of Preachers Talk, Jeremy chats with Dave and Ed a"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/55446687",
+     "title": "On Weddings (Preachers Talk, Ep. 59)",
+     "date": "2023-06-29T09:00:02.000Z",
+     "duration": 1450,
+     "audio": "https://media.transistor.fm/417d2af4/a13a0b68.mp3",
+     "image": "https://img.transistorcdn.com/2JMnjlTIs-Ij8mhThx17j-O2CQvawVeljBZj5qJiyyc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80Mzg3/NTRkM2FhYTVjMDQ5/NTliNzQwODFiZDY2/ZWYyZi5qcGc.jpg",
+     "description": "Weddings are wonderful celebrations, but the preaching at a wedding can be a challenging affair. How does one choose a text? How should the preacher approach the moment? Dave, Ed, and Jeremy draw from"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/54445651",
+     "title": "On Training Preachers, with Michael Lawrence (Preachers Talk, Ep. 58)",
+     "date": "2023-06-15T14:35:51.000Z",
+     "duration": 1637,
+     "audio": "https://media.transistor.fm/a029eb2c/0e246826.mp3",
+     "image": "https://img.transistorcdn.com/N377_oCqzCRr4nr6vVcnJztCE232m_rzWHgZDtjJqGU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZWZi/ZmUzODQ3YWIzOGM1/MTZiNjU3MjJjM2Zj/ODRhMi5qcGc.jpg",
+     "description": "Is it even possible to train preachers? If so, why is going to seminary only helpful but insufficient? In this episode of Preachers Talk, Dave and Jeremy discuss all this and more with their guest Mic"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/54062251",
+     "title": "On Preaching Old Testament History (Preachers Talk, Ep. 57)",
+     "date": "2023-06-01T09:00:03.000Z",
+     "duration": 1427,
+     "audio": "https://media.transistor.fm/d75068c6/77f98d02.mp3",
+     "image": "https://img.transistorcdn.com/vjyeXHAWauz8_YjCNGtAeu4N0bbe2qfrx72JiJPu3pA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MzQ5/OGQ3Mjc4MzNmNmJm/M2E2ZjA4MDA0YTBj/MTNiZi5qcGc.jpg",
+     "description": "Many people love bible stories, but preachers can be reluctant to preach them. Why are they challenging and why should preachers take up the challenge? Listen in as Ed, Dave, and Jeremy discuss preach"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/53913940",
+     "title": "On Funerals (Preachers Talk, Ep. 56)",
+     "date": "2023-05-18T09:00:02.000Z",
+     "duration": 1547,
+     "audio": "https://media.transistor.fm/ea97e38b/9a1580a3.mp3",
+     "image": "https://img.transistorcdn.com/0h9NQ9iaIrmcy-tw2RQ5OqjsqVLFmpoo4ROsI6e_5N4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMThm/MzVkZmI0OTE5NDdj/OWQxNmIzODdjZDI2/NmY3Yi5qcGc.jpg",
+     "description": "How do you determine what to preach in the challenging, unique, and evangelistically-loaded moment of a funeral? Dave, Ed, and Jeremy share their wisdom on how to be sensitive to God's word and the mo"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/53738539",
+     "title": "Preacher Mailbag #4 (Preachers Talk, Ep. 55)",
+     "date": "2023-05-04T11:03:53.000Z",
+     "duration": 1493,
+     "audio": "https://media.transistor.fm/e2908479/4b2f84f4.mp3",
+     "image": "https://img.transistorcdn.com/G_zf27r3OcTgBRUIXW2ZqPUjA6wvDf9GM5Pm1qzICtQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OTgw/YmY5ODc3MDJlZThl/NzI2OTVjYzU2ZDhh/MDY4Yy5qcGc.jpg",
+     "description": "How should a preacher deal with people talking about football rather than the sermon after church? Just how artful should sermons be anyways? Jeremy digs into the mailbag once again to fire your quest"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/53590212",
+     "title": "On AI and Preaching (Preachers Talk, Ep. 54)",
+     "date": "2023-04-20T09:00:03.000Z",
+     "duration": 1377,
+     "audio": "https://media.transistor.fm/cf0a38ad/33598369.mp3",
+     "image": "https://img.transistorcdn.com/ML0WnLXeF2pqHI232Rfq0ed6w6G5c71BfqeYyFKfLzM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMDZm/YjdkNGI1ZGQwYjNh/OGViMWZmNmNlM2Zh/NzFmZC5qcGc.jpg",
+     "description": "If AI could write a sermon for you, should you let it? What if it wrote one better than you could? Listen in as Dave, Ed, and Jeremy figure out how AI can be utilized in preaching...and why we should "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/53458073",
+     "title": "On Avoiding Boredom (Preachers Talk, Ep. 53)",
+     "date": "2023-04-06T09:00:02.000Z",
+     "duration": 1324,
+     "audio": "https://media.transistor.fm/aa15f53a/1fcc2be2.mp3",
+     "image": "https://img.transistorcdn.com/zv_SjJ-ps4ZyeBj-bs_zaHVxn_pnhvznxT9Xm04dbg8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZGNk/ZThmYTllYTI3Yjdm/MDQyODA3ZTJiZGRi/ZTQ5OS5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, the hosts discuss on avoiding boredom"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/53304635",
+     "title": "On Text Size Selection (Preachers Talk, Ep. 52)",
+     "date": "2023-03-23T09:00:03.000Z",
+     "duration": 1602,
+     "audio": "https://media.transistor.fm/6440512a/c8dd918d.mp3",
+     "image": "https://img.transistorcdn.com/3J7Z0BA4QgeRaVYSSZZbehxrKoaUa_6PYNybzkUjwc0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OTgy/NmY2YzY3ODczOGQz/MWE2ZmEyNjBkZGE2/OGJmYy5qcGc.jpg",
+     "description": "Should we preach books fast or slow? Listen to Ed, Dave, and Jeremy discuss the benefits and dangers of the extremes while seeking to free the preacher from the burdens of thinking there is a perfect "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/53143153",
+     "title": "On Audience (Preachers Talk, Ep. 51)",
+     "date": "2023-03-09T10:00:03.000Z",
+     "duration": 1776,
+     "audio": "https://media.transistor.fm/a7c1eb34/9f6abde6.mp3",
+     "image": "https://img.transistorcdn.com/tOHKtguvz7mxYoe04OFDVBRXOD_-dDDiEbqL8xgBh4M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMDRk/NDg3MWIwNTM4NDcx/YTRmNTlhYTU3YmM0/ODU1MC5qcGc.jpg",
+     "description": "How should the preacher take the audience into consideration as he prepares his sermon? Hear Ed, Dave, and Jeremy wrestle with the joys and complexities of preaching with one's particular audience in "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/52821895",
+     "title": "On Biblical Context (Preachers Talk, Ep. 50)",
+     "date": "2023-02-23T10:00:03.000Z",
+     "duration": 1519,
+     "audio": "https://media.transistor.fm/78e4d9d7/23323e35.mp3",
+     "image": "https://img.transistorcdn.com/Zozv1TbSqS7OAeo_cGbZRsbaoLObd5GRjBtiXAvJVe4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNjAz/ZWU1MTdiYWY4OGIx/OTJkMWI1ZDJmZjJj/M2I3YS5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/52677694",
+     "title": "On Homiletical Structure (Preachers Talk, Ep. 49)",
+     "date": "2023-02-09T10:00:02.000Z",
+     "duration": 1529,
+     "audio": "https://media.transistor.fm/55b70fc7/2405a745.mp3",
+     "image": "https://img.transistorcdn.com/TIwizpoURnb35dX-oFpIT16x-aVblutQqVxKpVzf5ZU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMzk5/NDIzMWIxMWY4ODVm/MmExZTk0ODVkOTNj/MGU0ZC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/52480576",
+     "title": "On Cultural Context (Preachers Talk, Ep. 48)",
+     "date": "2023-01-19T10:00:02.000Z",
+     "duration": 1488,
+     "audio": "https://media.transistor.fm/fd463ec3/cf9f5d16.mp3",
+     "image": "https://img.transistorcdn.com/JEiyQ1JECKJN_aZ25N3XR5uKoDSzpjUvy8bkIiAees0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NWQ2/MmYyODZkZWQ4ZjAz/N2Y4YzJkNWYyMTdj/OTNiOS5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/52127329",
+     "title": "On Preaching During the Holidays (Preachers Talk, Ep. 47)",
+     "date": "2022-12-08T10:00:03.000Z",
+     "duration": 1297,
+     "audio": "https://media.transistor.fm/62993202/74d8a945.mp3",
+     "image": "https://img.transistorcdn.com/wAD9z8-JIRmoBXrESrubQFaXBx2av7ZMDCnavbiWhZQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NjNi/ZGUxMjRlZGM1YzJh/YTlmN2MxZTE1NWFj/NjFkZC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/51924101",
+     "title": "On Historical Context (Preachers Talk, Ep. 46)",
+     "date": "2022-11-17T10:00:02.000Z",
+     "duration": 1601,
+     "audio": "https://media.transistor.fm/a14bb391/7bb19a09.mp3",
+     "image": "https://img.transistorcdn.com/5DuTtB1aIR1TOUwIKxYJLJqe8y-Ha-9nrC0jy44JUHg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODc5/MDFjMTM5YWQ3OWE1/ZjExYmJkZTk2MTBl/MWMwOC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/51614594",
+     "title": "On Engaging the Listener | Preachers Talk, Ep. 45",
+     "date": "2022-10-20T09:00:02.000Z",
+     "duration": 1426,
+     "audio": "https://media.transistor.fm/28c6b74e/5eaf3ad9.mp3",
+     "image": "https://img.transistorcdn.com/dGnfJW9y50t7WDvJew6qoECWLb-HoE57jr4Ib5MBMbU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZjY4/NzJkMmJjMTUwZGEx/Y2NmZGM5ZTkxZGI0/Y2Q2NC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/51482568",
+     "title": "On Literary Context | Preachers Talk, Ep. 44",
+     "date": "2022-10-06T09:00:02.000Z",
+     "duration": 1312,
+     "audio": "https://media.transistor.fm/38912e15/8cace77c.mp3",
+     "image": "https://img.transistorcdn.com/dF0YtdO4U6lc_aZoQDG_PzvfYcwaPwtlLKkWZ-xey20/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMzEx/YmY0MmZmMDljNmQx/NDMyZTUyZDlkNWNk/NmE2Mi5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/50567481",
+     "title": "On Preachers Mailbag #3 | Preachers Talk, Ep 43",
+     "date": "2022-07-14T09:00:03.000Z",
+     "duration": 1395,
+     "audio": "https://media.transistor.fm/23b4c173/a180068a.mp3",
+     "image": "https://img.transistorcdn.com/KjWujkQQzbfOj0DPzSfYI-ypCRR-wKXfz6K-MYkEV9o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjdh/MDhhNjc2MmQyNzk3/MDVkZDJlNTZhZTFi/YTJmZi5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/50411537",
+     "title": "On Cultural Relevance | Preachers Talk, Ep. 42",
+     "date": "2022-06-30T09:00:04.000Z",
+     "duration": 1297,
+     "audio": "https://media.transistor.fm/4d0e18d8/e693e6e6.mp3",
+     "image": "https://img.transistorcdn.com/VcMKDEo47_rRdPNAbaZgVcs07fv8c95n3xbCe_QBTkM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MWU3/MzMxNDlhNzNhOWZl/MDdhNDk2MjQxYzJl/MjY5NC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/50134982",
+     "title": "On Exposition for All (with Mervyn Eloff) | Preachers Talk, Ep. 41",
+     "date": "2022-06-09T09:00:03.000Z",
+     "duration": 1282,
+     "audio": "https://media.transistor.fm/a924081d/05a076e9.mp3",
+     "image": "https://img.transistorcdn.com/0V7Xfbo159kO1L9nz9--xV3Dvcmk0QButcHOm6E0Ceg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MmNi/NDc2OWZkYmM1MTY5/OGUzODAwMDNkMWUx/MDk5OC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/49948036",
+     "title": "On Beginning Well | Preachers Talk, Ep. 40",
+     "date": "2022-05-26T09:00:02.000Z",
+     "duration": 1417,
+     "audio": "https://media.transistor.fm/95910cb8/7f5f24eb.mp3",
+     "image": "https://img.transistorcdn.com/nIFBV-ZN9u21WJEtwG4XOWa725LC8EJ_wqdbVq9rkeo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWE5/YTVlZDQ2Yzk1ZDZk/MWM0YTkyMzI2NTZh/OTg4YS5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/49669954",
+     "title": "On Preaching Discourse | Preachers Talk, Ep. 39",
+     "date": "2022-05-05T09:00:03.000Z",
+     "duration": 1435,
+     "audio": "https://media.transistor.fm/54490bf4/c2101acb.mp3",
+     "image": "https://img.transistorcdn.com/Ig-V4s5ssro6MH371Z0e1LvYCKfN6WWjxPxTIyiRo8Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZTI0/ZTgzYzc4MDM3ZGM1/ZGU5MjVkMjI2ZDBh/ODg2MS5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/49349680",
+     "title": "On Preaching Hard Texts | Preachers Talk, Ep. 38",
+     "date": "2022-04-07T09:00:06.000Z",
+     "duration": 1414,
+     "audio": "https://media.transistor.fm/7b5b6671/f7d19b7e.mp3",
+     "image": "https://img.transistorcdn.com/E0XpGmJXecYSenO9tk-F5xJ27elPKC47JJTZWSh9Vsw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMGVj/NGMxNzMzOWM5NzQ2/NTkyYzc5OTE3Yjhk/YzU3Ni5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/48930509",
+     "title": "On Preaching Poetry | Preachers Talk, Ep. 37",
+     "date": "2022-03-03T10:00:04.000Z",
+     "duration": 1351,
+     "audio": "https://media.transistor.fm/c9d1b0f4/99b11811.mp3",
+     "image": "https://img.transistorcdn.com/E_c8enL78NdPWMUAY-b8WLoFg_xfSf66GiVbps1L2uQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2Yz/OTc2NGRiMTI5YWYw/ZWMyODQxYWRjYjVh/MTU2Ny5qcGc.jpg",
+     "description": "Poetry takes up a significant amount of Scripture. It can be of great help to the hearer and a gift to the preacher. This week Ed, Dave, and Jeremy explain why poetry is so useful and how they preach "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/48770917",
+     "title": "On Effective Illustration | Preachers Talk, Ep. 36",
+     "date": "2022-02-17T14:28:30.000Z",
+     "duration": 1381,
+     "audio": "https://media.transistor.fm/01549717/73ea8b90.mp3",
+     "image": "https://img.transistorcdn.com/AZPApauVLx6kQiL5CPQNDjVRcwwiSrig8QtXud5baNc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNzdl/MjVhMmMzMzVlZjA1/YTEyZjk5ZTI0YjRj/NjhkMS5qcGc.jpg",
+     "description": "What are illustrations for? How can preachers use them to good effect in their preaching? In this episode Dave, Ed, and Jeremy seek to answer these questions and more while giving examples from their "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/48566818",
+     "title": "On Preaching Narrative | Preachers Talk, Ep. 35",
+     "date": "2022-02-03T08:15:02.000Z",
+     "duration": 1490,
+     "audio": "https://media.transistor.fm/ff4251d5/0fde011e.mp3",
+     "image": "https://img.transistorcdn.com/ovmRnnSmmrNhqBgANPK7rfV4cJ-41IZa8B9ZW3hy-No/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kOGUy/MDhhOWJlZGY2Zjk1/NGIyYmVmYTM5ZmMw/ZGE5Yi5qcGc.jpg",
+     "description": "Everyone love stories. The Bible is full of stories. In this episode of Preachers Talk, Jeremy Meeks chats with Dave Helm and Ed Copeland about how to preach the Bible’s narratives well."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/48376250",
+     "title": "On Training Women for Exposition (with Colleen McFadden) | Preachers Talk, Ep. 34",
+     "date": "2022-01-20T13:53:19.000Z",
+     "duration": 1213,
+     "audio": "https://media.transistor.fm/e82e9f25/e5f16136.mp3",
+     "image": "https://img.transistorcdn.com/AtwMy6DdurrdJ6HB11n5NKHkU6IvcwftDgsBnDSu5DQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMWJl/M2ZlOGY0NzY5NWZh/MWFmOWYwNDBlNTQx/YTcwOC5qcGc.jpg",
+     "description": "This week, Jeremy and Dave sit down with Colleen McFadden to discuss how to train women to teach the Bible in complementarian settings."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/47968885",
+     "title": "On Introductions | Preachers Talk, Ep. 33",
+     "date": "2021-12-17T21:41:53.000Z",
+     "duration": 1374,
+     "audio": "https://media.transistor.fm/6dfd2320/f172f000.mp3",
+     "image": "https://img.transistorcdn.com/ov_Yd7-YXyvDMtK-6eHXst8nAqUjE18KQYlS3UrS47M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NmYz/N2MyZTk5Y2Q0Yzkx/NmU2NjJkMTUzNzhh/ODM3Zi5qcGc.jpg",
+     "description": "Every preacher begins a sermon, but most could begin them better. On this episode Ed, Dave, and Jeremy discuss what should be in our introductions and why."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/47762100",
+     "title": "On Getting Started Late | Preachers Talk, Ep. 32",
+     "date": "2021-12-03T00:01:09.000Z",
+     "duration": 1319,
+     "audio": "https://media.transistor.fm/19e6bbf6/9be1fa70.mp3",
+     "image": "https://img.transistorcdn.com/C4UIvr8p3H1T-FuDFY33WcqKMJgGlf8_-K4t-ZhlPsY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NTU5/YTVjNzQyOWJhOGU3/ZmExZDVjNjBmY2Ez/YjU2OS5qcGc.jpg",
+     "description": "Is preaching just a \"young man's game\"? On this episode Jeremy, Ed, and Dave consider the benefits to older preachers, both those who start late and those who have been at it for a while."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/47548661",
+     "title": "On Application (with Michael Lawrence) | Preachers Talk, Ep. 31",
+     "date": "2021-11-19T01:57:35.000Z",
+     "duration": 1408,
+     "audio": "https://media.transistor.fm/80f3bab3/f58eaa1a.mp3",
+     "image": "https://img.transistorcdn.com/ZEZenOxgBhk_C7H0rvw_xo8seE78EbB8rLIgvc7A7Xc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjRi/Mzg3NDIzNjVkNzdl/YWEwZmM2ZGE3Njg1/MWQ5My5qcGc.jpg",
+     "description": "Every pastor knows they should apply the text. How should we do it well? How can we do it better?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/47201111",
+     "title": "Preacher's Talk Mailbag #2",
+     "date": "2021-10-28T16:08:48.000Z",
+     "duration": 1357,
+     "audio": "https://media.transistor.fm/d2a9f573/1d06b943.mp3",
+     "image": "https://img.transistorcdn.com/m6b3OWYAWW76USWUe1D3A4xZ7thh_6k-fvFwcszPDew/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yY2Ew/NzEyZTk2ZTU1MjMw/ZWQxYjhjODk5NGU1/YTY2Mi5qcGc.jpg",
+     "description": "In this episode Jeremy goes through the mailbag, asking a wide variety of questions submitted by listeners to Dave and Ed."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/46865211",
+     "title": "On Concession and Refutation | Preachers Talk, Ep. 29",
+     "date": "2021-10-07T14:04:29.000Z",
+     "duration": 1308,
+     "audio": "https://media.transistor.fm/e47ce6d8/d1fc788c.mp3",
+     "image": "https://img.transistorcdn.com/pESr6XaHqyzPV1Uaz3eWAeej_rZPp7f6GXBriAdWOks/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MWIx/OGUyMDQ2ZjBhODFk/MTQxMGVkYTVkODk4/YmNhOS5qcGc.jpg",
+     "description": "Sermon listeners have objections to what preachers say, believer and unbeliever alike. Dave, Ed, and Jeremy answer the question - What should and can the preacher do in order to name and navigate thes"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/46343825",
+     "title": "On Argument | Preachers Talk, Ep. 28",
+     "date": "2021-09-02T11:19:47.000Z",
+     "duration": 1463,
+     "audio": "https://media.transistor.fm/f6929b44/db6495c6.mp3",
+     "image": "https://img.transistorcdn.com/QhEkoSLNiWmxskxAC-941tsZYXTrntXI6rCACa6evqs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZDIz/NGQ4Y2Y0NzQ3NGM3/ZWU2YjY3NmY3OTM3/OTkyNy5qcGc.jpg",
+     "description": "What is it the preacher is trying to do when he preaches? David Helm, Ed Copeland, and Jeremy Meeks discuss the vital task of making an argument in preaching. They tackle what it is and how they go ab"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/45888925",
+     "title": "On Pride vs. Contempt of Praise (with Mike Bullmore) | Preachers Talk, Ep. 27",
+     "date": "2021-07-29T12:59:45.000Z",
+     "duration": 1254,
+     "audio": "https://media.transistor.fm/f4b905dd/29b64cf9.mp3",
+     "image": "https://img.transistorcdn.com/F3du0KP0rDdALLvk_MblEKU8tlEwd6DAvelp80fpTVo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMzlk/NTEyZWYxZDk5NDJh/NzljMzUzMTNmMTc0/Y2I3OS5qcGc.jpg",
+     "description": "How do we pursue humility while we also pursue excellence in preaching? On this episode Dave Helm and Jeremy Meeks sit down with Mike Bullmore to wrestle with the task of preaching without pride."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/45625697",
+     "title": "On Doing Your Own Work | Preachers Talk, Ep. 26",
+     "date": "2021-07-08T13:27:17.000Z",
+     "duration": 1463,
+     "audio": "https://media.transistor.fm/e4aaaa87/ca9f4043.mp3",
+     "image": "https://img.transistorcdn.com/PITNLMaO4JvWfTXolC6cRT0UWAK5yGN4ijF_POKy5k8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTli/ZTkxMmEwZWU4ZDI4/Y2I1N2M2YjliY2Qx/MmM1Mi5qcGc.jpg",
+     "description": "Though the question of what it means to do your own work in the pulpit has been raised a lot recently, Dave Helm, Ed Copeland, and Jeremy Meeks had a conversation months ago about this perennially imp"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/45426589",
+     "title": "On Cross-Cultural Preaching (with John Onwuchekwa) | Preachers Talk, Ep. 26",
+     "date": "2021-06-24T14:28:24.000Z",
+     "duration": 1482,
+     "audio": "https://media.transistor.fm/6c19ac28/61caf942.mp3",
+     "image": "https://img.transistorcdn.com/CNN4hYe7ZF5rbwwMwnAjpF5g9qKN6apGHa9ucmyFf84/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NjZl/YjI0MmE2ZTQwNGFi/YjY1OWI4ZmVmZTQz/Yzc4OS5qcGc.jpg",
+     "description": "God’s Word is for everyone. But how do we preach to people who are quite different from our ordinary audience? In this episode of Preachers Talk, Jeremy Meeks, Ed Copeland, and John Onwuchekwa tackle "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/45250559",
+     "title": "On Preaching as an Assistant | Preachers Talk, Ep. 25",
+     "date": "2021-06-10T18:24:28.000Z",
+     "duration": 1484,
+     "audio": "https://media.transistor.fm/bd11e49a/6d35c9b7.mp3",
+     "image": "https://img.transistorcdn.com/ROg34Jn7Nij1eU-LiomcfUpMeypM0JgeUHiZMS-UsWM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MjZm/ZTQxNzg4MmU1OTU0/YzU5OWI3NTFhZmM3/MzdjOC5qcGc.jpg",
+     "description": ""
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/44812891",
+     "title": "On Power for Proclamation | Preachers Talk, Ep. 24",
+     "date": "2021-05-14T13:20:26.000Z",
+     "duration": 1187,
+     "audio": "https://media.transistor.fm/762ed672/51e93569.mp3",
+     "image": "https://img.transistorcdn.com/Nz3kFGRboso2dgoRITy9NcdryJPe76XiFwi6-sn-5sE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYjRj/ODU2NTJiZGM0MGY0/MWJjMDVmMTgxZWFm/YjQ0ZC5qcGc.jpg",
+     "description": "What does it mean to preach in a way that demonstrates the Spirit and power (1 Cor. 2:4–5)? In this episode of Preachers Talk, Dave Helm, Ed Copeland, and Jeremy Meeks discuss the significance of the "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/44575431",
+     "title": "On Power for Preparation | Preachers Talk, Ep. 23",
+     "date": "2021-04-30T16:40:01.000Z",
+     "duration": 1345,
+     "audio": "https://media.transistor.fm/767168a8/6d6df58b.mp3",
+     "image": "https://img.transistorcdn.com/7noOpxYOjamQkqVIg8qRwjhvt7Jxgs58Jk85Zm_Z_WQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMjRi/NWYxOTZiYmQ5Yzc5/NzkzN2UyN2E0NjZm/NTk3YS5qcGc.jpg",
+     "description": "Preachers need the Holy Spirit’s help as they prepare. In this episode of Preachers Talk, Jeremy Meeks chats with Ed Copeland and David Helm about “power for preparation.”"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/44256499",
+     "title": "On Ethos | Preachers Talk, Ep. 22",
+     "date": "2021-04-08T13:20:41.000Z",
+     "duration": 1265,
+     "audio": "https://media.transistor.fm/6e17ea44/6f7d424f.mp3",
+     "image": "https://img.transistorcdn.com/kn55E-9kBSQzk7NRXC7vzZMYHWhSGA6Ar8AMZNjvRRQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lN2Nm/MjkwYmJiMmZjNmQz/NmUyODcwYWJiZDZh/YzczYi5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, Jeremy Meeks chats with David Helm and K. Edward Copeland about a preacher’s need for “ethos.” What’s ethos? David defines it as that vital and indispensable attribu"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/44048165",
+     "title": "Preachers Talk Mailbag #1",
+     "date": "2021-03-25T14:37:30.000Z",
+     "duration": 1242,
+     "audio": "https://media.transistor.fm/e6950c7c/7b462e5d.mp3",
+     "image": "https://img.transistorcdn.com/GPNrH846FP7C6qAA1F5b4Lwqw1oTg0khvjm-HLnelDQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YjRl/ZWQ0NGQxNTE5YjAy/YmM0NTlmNzgxMjkz/MmFiMC5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, Jeremy Meeks pulls from the mailbag and asks Ed Copeland and David Helm questions about preaching. If you have questions about preaching, send them to feedback@preac"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/43844193",
+     "title": "On Conclusions | Preachers Talk, Ep. 20",
+     "date": "2021-03-11T17:10:40.000Z",
+     "duration": 1258,
+     "audio": "https://media.transistor.fm/e5dc0aa0/8f053d6b.mp3",
+     "image": "https://img.transistorcdn.com/rx1jqUpGV5ubD4LtKhuvXtRI3QzZTTT_QVNWLRKCti8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjE0/YTU3YjQ5ZWY1NzA2/ZjM5NmYxOTBmODZi/OWVlMS5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, Jeremy Meeks chats with David Helm and K. Edward Copeland about how to thoughtfully conclude a sermon."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/43634083",
+     "title": "On Typology | Preachers Talk, Ep. 19",
+     "date": "2021-02-25T13:56:02.000Z",
+     "duration": 1340,
+     "audio": "https://media.transistor.fm/6f62f583/1e4bd6f0.mp3",
+     "image": "https://img.transistorcdn.com/R31dDP9GKBDfpWcX0GJ9cTkM4xMLL_Q1mK2GsHbXOUE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzk5/ZDYyYzIxODU0MTcz/MzE5ZTAwM2I3MmRm/YjI4Ni5qcGc.jpg",
+     "description": "Typology is a legitimate means from getting to your text from the gospel—through people, objects, events, or patterns. Jeremy Meeks chats with David Helm and K. Edward Copeland about preaching and typ"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/43408459",
+     "title": "On Rhetoric (with Robert Kinney) | Preachers Talk, Ep. 18",
+     "date": "2021-02-11T22:10:20.000Z",
+     "duration": 1246,
+     "audio": "https://media.transistor.fm/0c1d953c/8f556b5c.mp3",
+     "image": "https://img.transistorcdn.com/9OLjdhtv3CHK-OxCskEmKSC2a5QqZ59eLZYByRzrDlE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZDZi/YWNkOTk5Yzc3YzUx/ZTI4ZTA2NzVhY2Fh/ZDViZi5qcGc.jpg",
+     "description": "How important is a preacher’s rhetoric? Jeremy Meeks chats with David Helm and Robert Kinney of The Charles Simeon Trust about this under-discussed topic."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/43166120",
+     "title": "On Guest Preaching | Preachers Talk, Ep. 17",
+     "date": "2021-01-28T15:27:40.000Z",
+     "duration": 1351,
+     "audio": "https://media.transistor.fm/f7f96d28/881e1343.mp3",
+     "image": "https://img.transistorcdn.com/KPXJs124y4CHT4-3DJYcYDI-hA9mDCvzNFzw99hhdo0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzUz/ZDE1ZDQzYzU5MWQ5/ZTdiZDMyMGZlYjk0/YWQ3Yy5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, David Helm sits in the interviewer’s chair and chats with Ed Copeland and Jeremy Meeks about how to approach guest preaching."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/42932520",
+     "title": "On Biblical Quotations and Allusions (with Michael Lawrence) | Preachers Talk, Ep. 16",
+     "date": "2021-01-14T12:02:19.000Z",
+     "duration": 1330,
+     "audio": "https://media.transistor.fm/c6c802ff/fb396fe6.mp3",
+     "image": "https://img.transistorcdn.com/tG5sRbVelA0DmrOnT_GsLKrytvOWqH97NX0dUJk3K1Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMWUw/YjdlNGFkMWMxYzIy/M2JiNzY4ZmUzMmY5/YmRiNC5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, Jeremy Meeks chats with David Helm and Michael Lawrence about how preachers ought to approach the Bible’s many quotations and allusions."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/42535740",
+     "title": "On The Preaching Moment (Preachers Talk, Ep. 15)",
+     "date": "2020-12-17T12:35:45.000Z",
+     "duration": 1268,
+     "audio": "https://media.transistor.fm/4b3a0426/964c9c67.mp3",
+     "image": "https://img.transistorcdn.com/c2X0sE1uB0uSjXyUwaQPvwB-GaNhfPxUPs6c_vBnljo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNzU0/NTI5MWI5OTg4Mjg3/ZTQ1Yjg4MzJiZTFl/NmI0Ni5qcGc.jpg",
+     "description": "When God’s people gather for corporate worship to sit under God’s Word, it’s different than a Bible study or a Sunday School class. It is—or at least it should be—transcendent."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/42296161",
+     "title": "Episode 14: On Historical Trajectory",
+     "date": "2020-12-03T12:58:33.000Z",
+     "duration": 1515,
+     "audio": "https://media.transistor.fm/7c65ecb0/5cef346f.mp3",
+     "image": "https://img.transistorcdn.com/_k4S9yJZ3M2OgddHKbWHxnLravSSPUWIQxMQ3qY7cUA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYWI3/Y2Y5ZjA1ZjZkYmNl/YmUwMzYwM2U1YjRi/YjkxOC5qcGc.jpg",
+     "description": "While preparing a sermon, preachers need to pay careful attention to their text’s historical trajectory. What’s “historical trajectory”?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/41938213",
+     "title": "Episode 13: On the Personal Process of Writing a Sermon",
+     "date": "2020-11-12T12:18:44.000Z",
+     "duration": 1311,
+     "audio": "https://media.transistor.fm/08eb8458/d5bb9df9.mp3",
+     "image": "https://img.transistorcdn.com/oPNzdaA9iobrGJpe7Zf98_qIhNVEyy4g6UKbq72MtIU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzhm/YzlmODQ5NzBiMGZh/ZDViOTljOWQyZmY5/ZTYzNS5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, Jeremy Meeks asks Ed and David how the “sermon sausage gets made.” From Sunday to Sunday, how does this sermon-prep and sermon-writing process work?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/41586322",
+     "title": "Episode 12: On Discerning the Structure of A Biblical Text",
+     "date": "2020-10-22T14:58:17.000Z",
+     "duration": 1429,
+     "audio": "https://media.transistor.fm/f033c207/4014263a.mp3",
+     "image": "https://img.transistorcdn.com/wE808DzTJy0DdSIDOAcM_E_ixUE4rks2xHnup02RLBc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNTc1/ZmE2ZjFlYjhjM2Mw/NWQxZDcyNTQ3M2Fj/N2RiMy5qcGc.jpg",
+     "description": "How do you figure out the structure of a biblical text? After you figure out the structure, how then do you create an outline for your sermon? In Episode 12 of Preachers Talk, Jeremy Meeks chats with "
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/41362507",
+     "title": "Episode 11: On Finding Your Voice",
+     "date": "2020-10-08T12:38:19.000Z",
+     "duration": 1184,
+     "audio": "https://media.transistor.fm/7b2e6092/c01dbcc5.mp3",
+     "image": "https://img.transistorcdn.com/ZzbVMEhdx7ftvA39EcSjU4_XPFlvnmqxiLN-wyqGosM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYmQ1/MDY0ODQ4NjUyYmIw/ZjA4NmZjODIwNGUz/Nzk1YS5qcGc.jpg",
+     "description": "Every preacher has been shaped by others preachers. That’s inevitable. But how can preachers find their own voice even as they appreciate their various influences?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/41099400",
+     "title": "Episode 10: On Preaching the Gospel",
+     "date": "2020-09-24T12:17:31.000Z",
+     "duration": 1246,
+     "audio": "https://media.transistor.fm/4050fcfe/2b29ffe1.mp3",
+     "image": "https://img.transistorcdn.com/iB_6pOHQV63iDTfp7-6mDSA4aue3G1Pb_hC60_EJg1Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YmRk/MjJkNTM2NDAyZGVk/Njc0MGM2MjczNGQ4/NzMyZi5qcGc.jpg",
+     "description": "Must you preach it in every sermon? How do you prevent every sermon from sounding the same or flattening your text?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/40424750",
+     "title": "Episode 9: On Giving and Receiving Feedback on Preaching",
+     "date": "2020-08-20T17:10:31.000Z",
+     "duration": 1489,
+     "audio": "https://media.transistor.fm/041c1810/7d713b88.mp3",
+     "image": "https://img.transistorcdn.com/FQvG_IGi3W4sTvRkYbz8C-fb0ULOpdFYlpLOXHi2c-A/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NGEz/N2E2ZDgxYzliMWMz/YTEwODg2MWJlNDRl/NWNkMC5qcGc.jpg",
+     "description": "In this episode of Preachers Talk, Jeremy Meeks talks with David Helm and K. Edward Copeland about the value of giving and receiving feedback on preaching."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/39918309",
+     "title": "Episode 8: On Planning a Preaching Calendar",
+     "date": "2020-07-23T12:59:34.000Z",
+     "duration": 1448,
+     "audio": "https://media.transistor.fm/bd39e45b/cdf08ce7.mp3",
+     "image": "https://img.transistorcdn.com/qljgUGbVLdVuz67myIEpTtWRSHS4-Ylhdpfn_Ku_2L0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZmI4/MjQzZDUzZmM4ZDFj/YTE4OGYxOTljOTI5/ZTUyNC5qcGc.jpg",
+     "description": "How do you decide what to preach? How long should you stay in a book? Doesn’t planning sermons several months out “quench the Spirit”?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/33275222",
+     "title": "Episode 7: On Preaching over the Long Haul",
+     "date": "2020-06-25T14:48:30.000Z",
+     "duration": 1439,
+     "audio": "https://media.transistor.fm/f5e623b8/ec709f3b.mp3",
+     "image": "https://img.transistorcdn.com/t6043JxXZqMS0gYQ2PvIOb308KdGmVPUY3XCK78PiTo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lN2Fh/NjZkNjg1NDQxMzNl/MWRlYTg2YjY3MTBl/ZjRjMC5qcGc.jpg",
+     "description": "David Helm and Ed Copeland have both been preaching at the same place for more than 20 years. In this episode of Preachers Talk, Jeremy Meeks chats with them about how all preachers should think about"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/28641286",
+     "title": "Episode 6: On Preaching in a Troubled Age",
+     "date": "2020-05-29T15:38:38.000Z",
+     "duration": 1513,
+     "audio": "https://media.transistor.fm/fea274ef/e26dc45e.mp3",
+     "image": "https://img.transistorcdn.com/WaM8L6faCMWjZCpWF9JBNdTTTy1EmzpHdSEjDmrP0uQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MzE5/ZjAzNWRiZGY1ODk3/YjIxMzQ5N2RlNGZm/MjIzZC5qcGc.jpg",
+     "description": "The nation is reeling, and Sunday is coming. So what should preachers do?"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/27905080",
+     "title": "Episode 5: On Preaching in a Distracted Age",
+     "date": "2020-05-21T08:00:18.000Z",
+     "duration": 1348,
+     "audio": "https://media.transistor.fm/452c2faf/bcb413e1.mp3",
+     "image": "https://img.transistorcdn.com/myeRgT0MbKdZtNXIfbnVJA8pNYYTojitHdPM4qL739Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83N2U4/ZDVkOGJlZTgwNzdj/OTQ1ZjdmZjRhMGVl/YzNmZS5qcGc.jpg",
+     "description": "We live in a distracted age in which many people are addicted to images and intimidated by reading. In this episode of Preachers’ Talk, Jeremy Meeks chats with Ed Copeland and David Helm about the sub"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/25929894",
+     "title": "Episode 4: On Preaching in a Pandemic",
+     "date": "2020-04-23T08:55:19.000Z",
+     "duration": 1267,
+     "audio": "https://media.transistor.fm/951a0e0f/6a570d32.mp3",
+     "image": "https://img.transistorcdn.com/cO90cXwdaAGI_Of2MxcNFuQZ9V2M40HBdzXiuZnJqdo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZmYy/NWI2OThkNDVmYjY4/MzM0OTZiMzJhNDFh/MGRjMS5qcGc.jpg",
+     "description": "Preachers' Talk is a podcast for preachers and all those who love preaching, created by a partnership between Simeon Trust and 9Marks. https://simeontrust.org http://9marks.org"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/24362449",
+     "title": "Episode 3: On Inebriated Preaching",
+     "date": "2020-03-26T08:00:04.000Z",
+     "duration": 1259,
+     "audio": "https://media.transistor.fm/99e05b2b/55f84364.mp3",
+     "image": "https://img.transistorcdn.com/fez_VgUUvFS9q8SE_Gh1RM62RqRgkh2Mwm1_ZFBpUqQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Zjhj/ZjYyN2FiNTNmZWNi/ZDkxZmU3NjkxNWI2/YzA5ZS5qcGc.jpg",
+     "description": "What does it mean to be “drunk in the pulpit”? It means to lean on the Bible more for support than illumination. On this episode of Preachers’ Talk, listen to David Helm, Jeremy Meeks, and K. Edward C"
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/22974128",
+     "title": "Episode 2: On Defining \"Expositional Preaching\" (with H. B. Charles)",
+     "date": "2020-02-20T08:00:09.000Z",
+     "duration": 1354,
+     "audio": "https://media.transistor.fm/518cbc22/99820919.mp3",
+     "image": "https://img.transistorcdn.com/MpyMSxddjgQooNrw3FLY52LjkxgjHSTCjnYUu5k7i3I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZDIz/NzAxZDgyOGYyYjRl/OGNlZmZiNTE0MzBi/NDk5OC5qcGc.jpg",
+     "description": "Preachers' Talk: a podcast by the Charles Simeon Trust and 9Marks. Learn more at simeontrust.org."
+    },
+    {
+     "id": "1495972590|https://api.spreaker.com/episode/21950592",
+     "title": "Episode 1: On the State of Preaching Today (with Jonathan Leeman)",
+     "date": "2020-01-22T11:53:04.000Z",
+     "duration": 1788,
+     "audio": "https://media.transistor.fm/fe557d96/27b5c760.mp3",
+     "image": "https://img.transistorcdn.com/RBJ-ruXCst9Qq0CLe-NqTDUzhTF2sfYsU9A3fDevcMg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZGRk/YmRiNmM5NDRhNzlk/NzliOTZjNzJjMTlk/MTc1MS5qcGc.jpg",
+     "description": "In the inaugural episode of Preachers’ Talk, Jonathan Leeman chats with three friends from Simeon Trust—David Helm, Ed Copeland, and Jeremy Meeks—about preaching. https://simeontrust.org http://9marks"
+    }
+   ]
+  },
   {
    "id": "1530600146",
    "name": "Bible Talk — A podcast by 9Marks & Southern Seminary",
@@ -6964,978 +7945,6 @@
      "audio": "https://media.transistor.fm/ed5531a1/bb99ddb4.mp3",
      "image": "",
      "description": "Entre Pastores es el podcast de 9Marcas en español, con Sugel Michelén y Alejandro Molero: conversaciones claras, bíblicas y prácticas entre pastores para pastores y miembros, centradas en Cristo y su"
-    }
-   ]
-  },
-  {
-   "id": "1495972590",
-   "name": "Preachers Talk - A podcast by 9Marks & The Charles Simeon Trust",
-   "author": "9Marks",
-   "image": "https://img.transistorcdn.com/n8RoplwiRNaf-3orMmhe_0kS6iLq6RWYJuTn7izHQv8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85M2Jj/NWQwMTY2Y2JmODA2/NjgwN2NmMDFjNzVm/ZGUyNC5qcGc.jpg",
-   "link": "https://www.9marks.org/podcast/preachers-talk/",
-   "episodes": [
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/72092558",
-     "title": "On Specific Audiences (Ep. 106)",
-     "date": "2026-05-21T11:54:37.000Z",
-     "duration": 1371,
-     "audio": "https://media.transistor.fm/9a831311/d2340e29.mp3",
-     "image": "https://img.transistorcdn.com/dZ47nAmeXT4qrEXU87QxhwQ8d70pYwvAi1PMDolGlec/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNDg4/MjgwYzNmN2M4ZDg2/ZDU2ZWU5MmU3MDkz/ODIwYi5qcGc.jpg",
-     "description": "How is preaching to a very specific audience (youth group, prisoners, etc.) differ from a Sunday morning? How does one preach well in these settings? Dave, Ed, and Jeremy speak from personal experienc"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/71901215",
-     "title": "On One-Off Sermons (Ep. 105)",
-     "date": "2026-05-07T09:00:19.000Z",
-     "duration": 1645,
-     "audio": "https://media.transistor.fm/f78ea328/f27c89f5.mp3",
-     "image": "https://img.transistorcdn.com/sjrMHqQe2cjtLHScaK2xlZ5hN6ymPXaRAUF5KrZ7byY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Y2Uw/MzEyYmI4YjI3NDVm/M2IzYTI0ZTllMzFh/M2IxYy5qcGc.jpg",
-     "description": "When should a pastor break into a series to do a one-off sermon? What kinds of things need to be kept in mind to help determine if it should be done? What does one need to keep in mind when doing a on"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/70293296",
-     "title": "On Preacher's Mailbag #9 (Ep. 104)",
-     "date": "2026-02-26T10:00:38.000Z",
-     "duration": 1408,
-     "audio": "https://media.transistor.fm/5ddc36f0/785524e1.mp3",
-     "image": "https://img.transistorcdn.com/0EYHNQVrefKxTd6aGc4s-sqSB5GHnfNsVD71Rp7e0bA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZWYz/NGU3MzEzYTVkMTVi/NjdjN2ExNTQ3Zjg0/OTFiZi5qcGc.jpg",
-     "description": "Jeremy dives into the mailbag once again to ask listener submitted questions to Ed and Dave."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/70004786",
-     "title": "On the Tone of the Text (Ep. 103)",
-     "date": "2026-02-12T10:00:17.000Z",
-     "duration": 1720,
-     "audio": "https://media.transistor.fm/ce9b6cbd/edf99e79.mp3",
-     "image": "https://img.transistorcdn.com/LNWuqaRPMrB0f3MKTnPPpV4EpxywAymx479V7zOBo8s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OGNi/MzU4MmYxODY3NTk1/N2ViZWExOWYxYzI0/ZDMwYS5qcGc.jpg",
-     "description": "What should the preacher do with the tone of the text? How does the distinction in the audience affect the sermon? Dave, Ed, and Jeremy discuss this important topic."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/69660781",
-     "title": "On Learning to Preach the Bible from the Bible #1 (Ep. 102)",
-     "date": "2026-01-29T10:00:23.000Z",
-     "duration": 1278,
-     "audio": "https://media.transistor.fm/81a80a82/0ed882cf.mp3",
-     "image": "https://img.transistorcdn.com/Fv2rJILHGlZx72G74eRGv7ekH_K52qccLpu9Kk02XuM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mYTBi/ZmU1NDY2NmI0YzU4/MDU1YTJiMDE4NWVm/ZDE3My5qcGc.jpg",
-     "description": "Dave, Ed, and Jeremy begin an occasional series sharing things they are learning about preaching the Bible from the Bible itself."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/69454472",
-     "title": "On Humility in Preaching (Ep. 101)",
-     "date": "2026-01-15T15:52:55.000Z",
-     "duration": 1717,
-     "audio": "https://media.transistor.fm/d21c1bcd/30ddee7d.mp3",
-     "image": "https://img.transistorcdn.com/njkvQEFyVQHRYqZt0AsMk1EPBgILJexJ2flmm-BFgZQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNDNl/ZjQ0YWIxYzYzM2Rl/MDNmNGIzNmMxZGUw/OWQ1Ny5qcGc.jpg",
-     "description": "Why is humility important in preaching? How does a preacher cultivate humility? Why do some texts demand more humility than others? Listen in as Ed, Dave, and Jeremy discuss."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/68869981",
-     "title": "On 25 years of the Simeon Trust (Ep. 100)",
-     "date": "2025-12-04T10:00:22.000Z",
-     "duration": 1738,
-     "audio": "https://media.transistor.fm/28c99117/aa433d05.mp3",
-     "image": "https://img.transistorcdn.com/EixsuCoxi29SEQxGzepMZBzeASUsnKBsgxallY-j7mw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZGU0/OGRjYjAwOTIwYjA2/Nzc4ZTFhNjlmMGJk/YzhhNS5qcGc.jpg",
-     "description": "Where did the Simeon Trust come from? Why does it exist? Where is it headed? Listen in as Dave, Ed, and Jeremy reminisce and thank God together for what he has done. We’d love to hear from you! Let us"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/68649246",
-     "title": "On Using Analogies As Illustrations (Ep. 99)",
-     "date": "2025-11-20T10:00:22.000Z",
-     "duration": 1666,
-     "audio": "https://media.transistor.fm/4a819512/3c90201f.mp3",
-     "image": "https://img.transistorcdn.com/IEWEyWUmby6tLl_Fv_aptsUFDFpDChB82e-eclqFzkA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZjRk/NGFhNTc1MGU5MjA4/MjExYWQ5NzExZjAy/Yjg2NC5qcGc.jpg",
-     "description": "Using illustrations is often challenging or overly alluring for the preacher. How can analogies help the preacher use compact and powerful illustrations? How does the Bible use analogies? Listen in as"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/68442105",
-     "title": "On Secondary Resources in Preaching (Ep. 98)",
-     "date": "2025-11-06T10:00:18.000Z",
-     "duration": 1600,
-     "audio": "https://media.transistor.fm/fe50514d/577d09b9.mp3",
-     "image": "https://img.transistorcdn.com/RDLls3xNspaoyxZG2gQ4i3NED41TlHrOLbJbqzoOd3U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOWFi/ZmRmZTI2Y2ZlYjk0/OGM0YTJmNzQ0NjUz/YmMxMy5qcGc.jpg",
-     "description": "The Bible is a fascinating, ancient document. What is the utility of secondary literature to understand the text? How can the preacher best utilize it in preaching? Dave and Jeremy sit down with Scott"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/68248109",
-     "title": "On Preaching for Repentance (Ep. 97)",
-     "date": "2025-10-23T09:00:16.000Z",
-     "duration": 1486,
-     "audio": "https://media.transistor.fm/2a3d3509/dec23636.mp3",
-     "image": "https://img.transistorcdn.com/KFUV1L3NahIGbwiCxscYSxn_hxsW0VLIWIyp-sGeavU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYTBj/ZDRiMjlmZjhjZjlm/MjMxM2I5NjRjYjQ3/MDM1Yi5qcGc.jpg",
-     "description": "Preachers need to be aimed at far more than information distribution. How does one preach with the goal of repentance? Dave, Ed, and Jeremy wrestle with the challenge."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/68072495",
-     "title": "On Preaching Broadly (Ep. 96)",
-     "date": "2025-10-09T09:00:19.000Z",
-     "duration": 1458,
-     "audio": "https://media.transistor.fm/2334553f/40e4488b.mp3",
-     "image": "https://img.transistorcdn.com/EIQ7Q0V64b1g29cUEwS6hI-yrVFNzGE7ZlP4cx-l8ik/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYWU4/OTE4OThiZjQ3NzY1/ZTNjNTA5OTkyMjAy/NjYxYi5qcGc.jpg",
-     "description": "How does a preacher speak to the whole audience in ways that go deep without losing people and broad without being boring? Ed, Dave, and Jeremy give some insights."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/67886857",
-     "title": "On Using Your Voice (Ep. 95)",
-     "date": "2025-09-25T09:00:20.000Z",
-     "duration": 1570,
-     "audio": "https://media.transistor.fm/bce5210c/a6ff60a5.mp3",
-     "image": "https://img.transistorcdn.com/_YuBoLIub8ZqLBcttao5rCJsF554sZncJmtNAsZue6k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNTUx/ZWQ3ZTc2Yzg0MzQ0/OTBmMmU4MjFhYTRm/NzliZC5qcGc.jpg",
-     "description": "It can be a challenge to know how to speak naturally in the pulpit. How can a preacher grow in the maintenance and use of their voice? Dave, Ed, and Jeremy talk from personal experience."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/67713501",
-     "title": "Preachers Mailbag #8 (Ep. 94)",
-     "date": "2025-09-11T09:00:18.000Z",
-     "duration": 1523,
-     "audio": "https://media.transistor.fm/8553839f/842118bd.mp3",
-     "image": "https://img.transistorcdn.com/leMhZK9SUz4qCY2pqK4bUCNZlMY9K9gkLdjwrLPVDtY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMmIy/ZmEyMGI0ZmM1M2Nj/N2ExNmRiZmMxNjdm/NTA0OS5qcGc.jpg",
-     "description": "Jeremy dives back into the mailbag to ask listener questions to Ed and Dave about preaching."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/67538214",
-     "title": "On Humor in Preaching (Ep. 93)",
-     "date": "2025-08-28T09:00:18.000Z",
-     "duration": 1444,
-     "audio": "https://media.transistor.fm/5019e79c/ca22e139.mp3",
-     "image": "https://img.transistorcdn.com/DD9Ehbg09uvBMMTioqKsO6vBWHGxulKYXOMDo6QMOOA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Nzlk/MTU2NGU4ZDJlOTZh/N2I2ZTJkYmNlMGEy/YzJlNi5qcGc.jpg",
-     "description": "Is humor ever appropriate in preaching? If so, what are some principles to keep in mind as we utilize it? Hear Dave, Ed, and Jeremy, who have very different personalities, discuss."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/67362982",
-     "title": "On The Systematic Theology of the Father (Ep. 92)",
-     "date": "2025-08-14T09:00:16.000Z",
-     "duration": 1734,
-     "audio": "https://media.transistor.fm/e84f8b04/eb0e3dc1.mp3",
-     "image": "https://img.transistorcdn.com/nCAP4rLs6wp2OzBxyy5dM-jMUftE-mf--lCbG_8ND6w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNjZi/ZDVkZWQwYmE2Nzg3/Y2Y5MDgwNjM2YzRi/NTI4ZC5qcGc.jpg",
-     "description": "How does the doctrine of God help in preaching texts? How do we say what we should without saying to little or too much in a sermon? Ed, Dave, and Jeremy discuss, providing examples from their own wor"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/66408191",
-     "title": "On Simplicity (Ep. 91)",
-     "date": "2025-06-05T14:11:33.000Z",
-     "duration": 1607,
-     "audio": "https://media.transistor.fm/afb0d317/44ccc6a3.mp3",
-     "image": "https://img.transistorcdn.com/xKvPHmNrlVqUQ358eQU6u_weccyFQVrllV-229gW6ag/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMGQ1/N2Y3YzRiOTM4Mzll/YWVlODdkZWIwNTgw/OWY5ZC5qcGc.jpg",
-     "description": "Why is simplicity in preaching important? Who benefits? How do we strive for it without being simplistic? Kevin Walker joins Ed and Jeremy to discuss."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/66196645",
-     "title": "On Creativity (Ep. 90)",
-     "date": "2025-05-22T09:00:14.000Z",
-     "duration": 1682,
-     "audio": "https://media.transistor.fm/6345b5d7/23db8c14.mp3",
-     "image": "https://img.transistorcdn.com/_pwLrjz9Khik13i-9coe-pVZDuY5LoZnqIqJLv-bQCw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZTVl/YTkwYWE4MWRhNzk1/NTEyZTYwYjgxNWU5/MTJmNS5qcGc.jpg",
-     "description": "Should a preacher seek to be creative? How might such an attempt go wrong? Ed, Dave, and Jeremy revel in the creativity of the Bible and what it has to teach us about our own use of creativity with wo"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/65989480",
-     "title": "On Using Systematic Theology in Preaching (Ep. 89)",
-     "date": "2025-05-08T09:00:12.000Z",
-     "duration": 1763,
-     "audio": "https://media.transistor.fm/8abc68c3/2e3f7eea.mp3",
-     "image": "https://img.transistorcdn.com/lPwDAN7uFgpmEX3WTNBrpZimFVuzPEc1ppW_KXKl8Xo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZGJk/NmUyZWQ4NWM3NDhk/ZmYxMWU0MDQ2OWM4/OGRjYy5qcGc.jpg",
-     "description": "How does one utilize systematic theology in exposition well? What are the benefits of attempting such a thing? Dave, Ed, and Jeremy begin a mini-series on the use of systematic theology in preaching."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/65694015",
-     "title": "On Topical Preaching (Ep. 88)",
-     "date": "2025-04-24T09:00:13.000Z",
-     "duration": 1846,
-     "audio": "https://media.transistor.fm/e1001027/545f1812.mp3",
-     "image": "https://img.transistorcdn.com/sQ7LyXqB9hKQzMtJ1BhBKR9wxPlpg8fsb0kkOXPqvqU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xM2Rk/ZDVjNmI0OGRiZmRl/MzJjYzE5OGUzYjUy/OTYxNS5qcGc.jpg",
-     "description": "There seem to be moments that demand a topical sermon. What are they? How can a topical sermon be done well? Dave, Ed, and Jeremy discuss and provide examples."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/65504285",
-     "title": "On Preaching to the Heart (Ep. 87)",
-     "date": "2025-04-10T09:00:13.000Z",
-     "duration": 1875,
-     "audio": "https://media.transistor.fm/80f2bf36/e39ab2c7.mp3",
-     "image": "https://img.transistorcdn.com/Zw-oPF6QGp20B1-Qhw7C0SbNOib-IgqTrgqTMFADLsA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYjQx/Y2Y0NWYyOTc2NGM4/MTAxYzM0ZGFmNzUy/MjlmNy5qcGc.jpg",
-     "description": "Engaging the emotions and the will can be tricky. Should we do such a thing in preaching? How do we do so well? Listen in as Ed, Dave, and Jeremy discuss. Topics Discussed (00:06) - Preaching to the H"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/65144422",
-     "title": "On Preaching Memorable Sermons (Ep. 86)",
-     "date": "2025-03-27T09:00:12.000Z",
-     "duration": 1581,
-     "audio": "https://media.transistor.fm/40d882ae/a7c0d637.mp3",
-     "image": "https://img.transistorcdn.com/yiY0d7Aw0CWuinQUo2DpFCOVJcT-eUD5gBJ91HyWBPM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTBl/OWQwZDZmMmIxNmEy/YWM4MzAyODIwZTg3/YWQxZC5qcGc.jpg",
-     "description": "Every preacher has a sermon or two that sticks out in their mind from a fellow preacher. What makes a sermon memorable? How do we thread the needle between wanting to be memorable and legitimately hel"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/64853584",
-     "title": "On Precision in Application (Ep. 85)",
-     "date": "2025-03-13T09:00:11.000Z",
-     "duration": 1726,
-     "audio": "https://media.transistor.fm/5118a678/86f9430c.mp3",
-     "image": "https://img.transistorcdn.com/5UumDY7d4KtIhKuECD1OuGX4-kQb7AKePJqddrBSUOE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMWNl/N2M2YjY0MDE1NjI4/OGQ4ZmFjM2Y4MzU4/NjlhNS5qcGc.jpg",
-     "description": "It is easy to float away from the text and talk about the same things every week. We should apply sermons, but how? How do we do application without getting sidetracked? Dave, Ed, and Jeremy discuss."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/64598608",
-     "title": "On Training Preachers in Asia (Ep. 84)",
-     "date": "2025-02-27T10:00:12.000Z",
-     "duration": 1332,
-     "audio": "https://media.transistor.fm/b8859bb7/1be3948c.mp3",
-     "image": "https://img.transistorcdn.com/lfbeWdK0DuY49VOIIEC4hGmNx45ncLd_7UZXqtESulM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZDk3/ZWIxNTIzODQyYzgw/NDg4MzZhODJmOTIy/OTdjYy5qcGc.jpg",
-     "description": "What is going on in Asia these days when it comes to training preachers? What are the challenges and encouragements? Darrell Young, the Simeon Trust's man in Asia, joins Dave and Jeremy to discuss. Su"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/64352786",
-     "title": "Preacher Mailbag #7 (Ep. 83)",
-     "date": "2025-02-13T10:00:13.000Z",
-     "duration": 1469,
-     "audio": "https://media.transistor.fm/0e6aa161/3750412c.mp3",
-     "image": "https://img.transistorcdn.com/7aVE43ACfd7uxajsEs5lH3dJKTPZTjCadHmVe51hAQE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iODU1/NDZhYTgzY2YzYThh/MDFhYTgyODMxYjQ4/N2U3ZC5qcGc.jpg",
-     "description": "How should pastors listen to preaching without getting distracted or overly critical? Should kids ever not be present in a sermon, given the content? As for personal illustrations, is it ever ok to be"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/64044981",
-     "title": "On Short Bible Talks (Ep. 82)",
-     "date": "2025-01-30T15:36:47.000Z",
-     "duration": 1829,
-     "audio": "https://media.transistor.fm/d7f002b8/6a9c44eb.mp3",
-     "image": "https://img.transistorcdn.com/IUMFEQFEREC_VONYQpfx9Ow5P0DjAoYR9wClL5vqzAI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZWQw/YmViYTQzOWZlYzc5/ZWQ3NmExZjc3ODMy/MTVhZS5qcGc.jpg",
-     "description": "Preachers often have opportunities to give short talks at events from the bible. What is the preacher to do in such situations? What are the challenges? And how can these talks improve our regular pre"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/63386450",
-     "title": "On Preaching in Cross-Cultural Contexts (Ep. 81)",
-     "date": "2024-12-19T10:00:13.000Z",
-     "duration": 1756,
-     "audio": "https://media.transistor.fm/93b18e2c/16e28321.mp3",
-     "image": "https://img.transistorcdn.com/3Rx86oE4H15zd4ly0tpcOkkki5oCScsEe__4LzdG5AQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MDNl/MDhiMWMzZWE1ZWI5/MmVmOWY3ZTNkMWQ2/MjEyOC5qcGc.jpg",
-     "description": "How does one preach cross-culturally? What even counts as cross-cultural? On this episode, Ed and Jeremy sit down with Walter Carter III to discuss the benefits and challenges of preaching outside one"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/62935471",
-     "title": "On Wielding the Gospel Well (Ep. 80)",
-     "date": "2024-11-21T10:00:13.000Z",
-     "duration": 1611,
-     "audio": "https://media.transistor.fm/15934398/ce5fbfd0.mp3",
-     "image": "https://img.transistorcdn.com/iRLv_dsvTce44nSn7e5_eXn6sszVsSkGPIFN2IvrWpg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNTQ1/ZjRhOTNiY2FiNThh/ZjBkOTNlN2FkNjMz/ZmU2ZC5qcGc.jpg",
-     "description": "What is the preacher supposed to do with the gospel in a sermon? How can they use it to further the point of the text and not ruin it? Ed, Dave, and Jeremy take up these questions and give examples fr"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/62648855",
-     "title": "On Preaching Short Passages (Ep. 79)",
-     "date": "2024-11-07T10:00:07.000Z",
-     "duration": 1732,
-     "audio": "https://media.transistor.fm/5bb3b430/4dea01fa.mp3",
-     "image": "https://img.transistorcdn.com/ZX-Tvx28BnBsG4AYuEhPz-VybL24ArA5VoeS6ZlucVM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Yzk5/MzA4NDlmNzhkNjA3/NjllMDA2N2U4NDY4/NDMzOC5qcGc.jpg",
-     "description": "How does one go about preaching short texts? Why would a preacher consider doing so? Listen in as Dave, Ed, and Jeremy discuss these questions and more."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/62482785",
-     "title": "On Beginning a New Preaching Role (Ep. 78)",
-     "date": "2024-10-24T09:00:06.000Z",
-     "duration": 1809,
-     "audio": "https://media.transistor.fm/69c25783/b175e642.mp3",
-     "image": "https://img.transistorcdn.com/G55g9blRrpma7nTMK8nKHsPbZyxkWj-fZbLPvfOW7yY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YTMw/NjJlNjRhMjliYTM0/ODY2ZjVmNTE2MGVm/YjdiMC5qcGc.jpg",
-     "description": "How should a seasoned preacher approach a new preaching role? What does pastoral wisdom look like in such a position? Ed, Dave, and Jeremy draw on their own successes and failures to answer these impo"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/62205671",
-     "title": "On Re-preaching Sermons (Ep. 77)",
-     "date": "2024-10-03T09:00:08.000Z",
-     "duration": 1856,
-     "audio": "https://media.transistor.fm/31a6afb9/3e2f387a.mp3",
-     "image": "https://img.transistorcdn.com/sO9ULrpBq-Xl8JPxZG3n_aQa6eR0Q9rYV9yoy-ZGrVA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kN2Yy/YjA0ZmFkM2FjNWRj/N2M2NTBiZjEzNWRk/Y2U4ZS5qcGc.jpg",
-     "description": "Can a preacher re-preach a sermon? If so, where and when? What might the benefits and pitfalls be of such a practice? Listen in as Dave, Ed, and Jeremy talk it out."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/62026778",
-     "title": "On Obedient Playfulness (Ep. 76)",
-     "date": "2024-09-19T11:32:44.000Z",
-     "duration": 1473,
-     "audio": "https://media.transistor.fm/26ba06a1/628626bd.mp3",
-     "image": "https://img.transistorcdn.com/HDEXS_HpzCmNsAZkVw7nfc77PNZVpDxNjW7iMJUnc7k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYmQ4/ZGM1OWU3OTEwZGU3/ZGUwZDMwZDQ2MmVm/NDdkZC5qcGc.jpg",
-     "description": "What do we do with the strange, gross, and just plain weird parts of the bible? Why is playfulness an important element in the preacher's pursuit of faithfulness to the text? Listen in as Ed, Dave, an"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/61268641",
-     "title": "On Preaching the Main Point (Ep. 75)",
-     "date": "2024-09-05T10:00:02.000Z",
-     "duration": 1720,
-     "audio": "https://media.transistor.fm/d0e47221/b73862c9.mp3",
-     "image": "https://img.transistorcdn.com/PJmDoi9cwpxXSmITVMDkFrdeWOYEnUxXROFMwKtr_pE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ZGVj/M2QzODNmMDM3MmZm/ZDI1ZWNhZjdhMzg5/YWVmYS5qcGc.jpg",
-     "description": "What does one do once they have gotten to the heart of the text? How does one effectively wield the main point of a passage? This week Dave, Ed, and Jeremy tackle these important challenges."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/59524001",
-     "title": "Preacher Mailbag #6 (Preachers Talk, Ep. 74)",
-     "date": "2024-04-18T09:00:06.000Z",
-     "duration": 1446,
-     "audio": "https://media.transistor.fm/374645b2/e635abc9.mp3",
-     "image": "https://img.transistorcdn.com/2fk-9IfRzQJoS5-ezQHXQV0292M4vNF-eJCCexl8dOg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDgx/YjdkOTQ4N2ExNDhh/ZTRjMjk2NTgwNGYz/NWI0OC5qcGc.jpg",
-     "description": "Just how much of the text should a preacher read before he preaches it? What about rereading while you preach? And how do you deal with a text that has multiple popular interpretations? These are just"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/59287450",
-     "title": "On Preaching Apocalyptic Literature (Preachers Talk, Ep. 73)",
-     "date": "2024-04-04T09:00:03.000Z",
-     "duration": 1842,
-     "audio": "https://media.transistor.fm/af9a25c3/7078cea9.mp3",
-     "image": "https://img.transistorcdn.com/-S9rpvE14hi8Co3m9vzO-7UmKKY-4CA13vMHvec4f8U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYTI1/ZDhmMjQ2NmIxZTRi/Y2Q3NDI1MDc2MjQw/YzA4My5qcGc.jpg",
-     "description": "There is no denying it, preaching apocalyptic literature is tough, so why should we do it? What are the unique benefits and challenges to preaching it well? In this episode Dave, Ed, and Jeremy discus"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/59122176",
-     "title": "On Life and the Pulpit (Preachers Talk, Ep. 72)",
-     "date": "2024-03-21T09:00:02.000Z",
-     "duration": 1492,
-     "audio": "https://media.transistor.fm/a0e2cb0b/f07602f7.mp3",
-     "image": "https://img.transistorcdn.com/42RZXG5h92YBwfUcswNKpzzRtxRD0_hTPVoHIJ6K83Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yM2M5/MjU2MTE3ZWFmMTg2/NzJlOWNkMTUzZTcw/ZjBkOC5qcGc.jpg",
-     "description": "Every pastor lives the majority of life outside the pulpit. How does it affect the preacher? How does the preacher embrace the moment they are in without it dominate the preaching? Dave, Ed, and Jerem"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/58954493",
-     "title": "On Preaching Epistles (Preachers Talk, Ep. 71)",
-     "date": "2024-03-07T10:00:02.000Z",
-     "duration": 1754,
-     "audio": "https://media.transistor.fm/386b0b5c/6952c8fe.mp3",
-     "image": "https://img.transistorcdn.com/Aa_9oVCU7YhrPxWTHBPdsl60aTHPZIti9e3CBXjXe6Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MDJh/NjdhN2Y4ZjhkYTg3/ZTdmODg4NDUzMzJi/YmQyZS5qcGc.jpg",
-     "description": "Most of us who were trained in preaching were trained to preach Epistles. What are the challenges of preaching them? Why is preaching them beneficial for the church? Hear Ed, Dave, and Jeremy discuss "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/58773101",
-     "title": "On PhDs and Preaching, with Robert Kinney (Preachers Talk, Ep. 70)",
-     "date": "2024-02-22T10:00:02.000Z",
-     "duration": 1224,
-     "audio": "https://media.transistor.fm/b82a1f97/3a3a4710.mp3",
-     "image": "https://img.transistorcdn.com/4LhZCfbA3YHN3DGSG86u90SWQKhSeDh2nfX8QZRW_f0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85YjIy/MDQ4OWFjZTVhYmY3/NDE5YWJkNzRkNTdk/M2VhOC5qcGc.jpg",
-     "description": "Does a preacher need a PhD? What are the benefits...and substantial challenges to getting one? Dave and Jeremy are joined by Robert Kinney to discuss this important topic."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/58606464",
-     "title": "On Preaching Long Passages (Preachers Talk, Ep. 69)",
-     "date": "2024-02-08T10:00:02.000Z",
-     "duration": 1649,
-     "audio": "https://media.transistor.fm/12ec446d/5ca171bb.mp3",
-     "image": "https://img.transistorcdn.com/rIO8sPTEjEUN9m__Ui9mu6v-GybV48yzQHySzmSPbvY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZTRi/ZjAxZGQ4MjQ1YTFk/MjU3MzBiNDVkZjg3/YTJhZS5qcGc.jpg",
-     "description": "How should a preacher go about preaching long passages? Why should anyone do so in the first place? Dave, Ed, and Jeremy have a short conversation on long texts."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/58440707",
-     "title": "On Preaching Gospels/Acts (Preachers Talk, Ep. 68)",
-     "date": "2024-01-25T10:00:02.000Z",
-     "duration": 1568,
-     "audio": "https://media.transistor.fm/c5bf92af/497c1aa0.mp3",
-     "image": "https://img.transistorcdn.com/ugCCrIR9d49GbBdJ6-h85zkthViDUNhU3XCWS_ekUqg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNzk2/NjFmOGM5M2U5ZTBm/N2IwNWI2NTJiZjE3/MzhkMS5qcGc.jpg",
-     "description": "What makes Gospels/Acts so interesting and yet so challenging to preach? How can the preacher preach them well? Ed, Dave, and Jeremy answer these kinds of questions, providing examples from their own "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/58003869",
-     "title": "On Preaching Amidst Church Conflict (Preachers Talk, Ep. 67)",
-     "date": "2023-12-14T10:35:02.000Z",
-     "duration": 1610,
-     "audio": "https://media.transistor.fm/fe1fd1dc/c8d98a99.mp3",
-     "image": "https://img.transistorcdn.com/yhoazeHTfyqXEwgFHD5BfLGI_yR7ApQEApG0AMp1UWQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWE4/NjJjM2RiMzQzNWFj/NDNjODRjZWU2ODRi/ZjlkYS5qcGc.jpg",
-     "description": "How does a preacher do his job well when he knows there is strife in the congregation? Dave, Ed, and Jeremy tackle this difficult topic, giving insight into what to do...and what to avoid."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/57857468",
-     "title": "Preacher Mailbag #5 (Preachers Talk, Ep. 66)",
-     "date": "2023-11-30T10:00:03.000Z",
-     "duration": 1376,
-     "audio": "https://media.transistor.fm/ea0bbeba/23ead79b.mp3",
-     "image": "https://img.transistorcdn.com/9Vr1ZesfnZncVW6G038fUZhspNb2KyhbZYe1-lSX2sY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNjRm/NDM3N2M3NDE0Nzcw/MDg1OWEzZTU1YTA5/MjNiOC5qcGc.jpg",
-     "description": "Should there be a primary preacher in a pulpit or is team teaching ideal? How do you preach when you just don't feel like it? These questions, and many more, are pulled out of the mail bag and tossed "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/57656068",
-     "title": "On Preaching Wisdom Literature (Preachers Talk, Ep. 65)",
-     "date": "2023-11-16T10:00:03.000Z",
-     "duration": 1922,
-     "audio": "https://media.transistor.fm/84ce2473/93abc378.mp3",
-     "image": "https://img.transistorcdn.com/UjDPwhYDyoHm_2DuzON3no-uWO_uPfNg4UE7eZYx9X0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MTcw/N2VjNjAyOWE1MGYz/NTkxODM3MGM4Y2Qz/NzJhMS5qcGc.jpg",
-     "description": "Wisdom is intensely practical, and yet also intensely difficult to preach sometimes. How can a preacher do it well? Why should we preach it in the first place? Listen in as Dave Helm, Ed Copeland, and"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/57299264",
-     "title": "On Clarity, with Robert Kinney (Preachers Talk, Ep. 64)",
-     "date": "2023-10-19T09:00:03.000Z",
-     "duration": 1405,
-     "audio": "https://media.transistor.fm/7746574a/47cd5f6c.mp3",
-     "image": "https://img.transistorcdn.com/JZ-QLMxXAQzWY7z4Mrpt37TojHJzoUXze9heKo1arMc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mM2Nk/NjJlYzFmMGZhZjVl/MGIxNzIxMjY5NGRk/NDNmZC5qcGc.jpg",
-     "description": "Why is clarity important in preaching? What leads to a lack of clarity and how can the preacher strive for it? Listen in as Dave Helm and Jeremy Meeks discuss the issue with Robert Kinney."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/57073097",
-     "title": "On Preaching in Diverse International Contexts, with John Folmar (Preachers Talk, Ep. 63)",
-     "date": "2023-10-05T09:00:03.000Z",
-     "duration": 1314,
-     "audio": "https://media.transistor.fm/b5c98109/290e677d.mp3",
-     "image": "https://img.transistorcdn.com/LB9Naobw_guwnvDHOLWpac-5iW0U6OF2SJXHhSlsyZw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNDhj/NDg4MTQwN2M4NmQ2/NWE2ODM3NTcxOWEy/ZGIyZS5qcGc.jpg",
-     "description": "Preaching is never easy, but the diversity of one's audience can make it a particular challenge...and joy. John Folmar joins Dave and Jeremy to discuss preaching and training others to do the same in "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/56876996",
-     "title": "On Adornment, with Robert Kinney (Preachers Talk, Ep. 62)",
-     "date": "2023-09-21T09:00:03.000Z",
-     "duration": 1425,
-     "audio": "https://media.transistor.fm/a4665086/780bdce1.mp3",
-     "image": "https://img.transistorcdn.com/Cl_7o_p67cMVYudrRKK4171jIoHbL-PN3i1kHrmh1lA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iOTMx/YjBkMjA1OTY0YWJk/ODg4ODAxYTY3M2Vm/NDg2NC5qcGc.jpg",
-     "description": "What does it mean to make our sermons pleasing and moving? Should we do that in the first place? If so, why? Robert Kinney joins Dave and Jeremy as they wrestle with some of the artistic elements of p"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/56721289",
-     "title": "On Preaching as Pastoral Ministry, with Mark Dever (Preachers Talk, Ep. 61)",
-     "date": "2023-09-07T09:00:03.000Z",
-     "duration": 1433,
-     "audio": "https://media.transistor.fm/4454b5ac/93aec9e8.mp3",
-     "image": "https://img.transistorcdn.com/P78TXjhxroOo2r0mtOPgYhNXJTnXpLsMuX3rpIFUAJ8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNDNl/MTdjZWNiODRhMzc5/NzJkMDRhYTk2NDNm/ZjRhYS5qcGc.jpg",
-     "description": "Preachers Talk is back! In this episode, Dave and Jeremy are joined by a special guest, Mark Dever."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/56080282",
-     "title": "On Preaching Prophets (Preachers Talk, Ep. 60)",
-     "date": "2023-07-13T09:00:02.000Z",
-     "duration": 1875,
-     "audio": "https://media.transistor.fm/361b3f5a/e5ea91fe.mp3",
-     "image": "https://img.transistorcdn.com/kX4b_Q7jWbkmAK44939mazTRpaNiPjyygrFNuBN-_h4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Y2Zm/NmMyZmE4NmFkYmVm/MDExZTM4ZDM0NjY2/MzY0YS5qcGc.jpg",
-     "description": "It's not uncommon for a pastor's preaching schedule to linger on the Gospels and epistles and look past the major and minor prophets. In this episode of Preachers Talk, Jeremy chats with Dave and Ed a"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/55446687",
-     "title": "On Weddings (Preachers Talk, Ep. 59)",
-     "date": "2023-06-29T09:00:02.000Z",
-     "duration": 1450,
-     "audio": "https://media.transistor.fm/417d2af4/a13a0b68.mp3",
-     "image": "https://img.transistorcdn.com/2JMnjlTIs-Ij8mhThx17j-O2CQvawVeljBZj5qJiyyc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80Mzg3/NTRkM2FhYTVjMDQ5/NTliNzQwODFiZDY2/ZWYyZi5qcGc.jpg",
-     "description": "Weddings are wonderful celebrations, but the preaching at a wedding can be a challenging affair. How does one choose a text? How should the preacher approach the moment? Dave, Ed, and Jeremy draw from"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/54445651",
-     "title": "On Training Preachers, with Michael Lawrence (Preachers Talk, Ep. 58)",
-     "date": "2023-06-15T14:35:51.000Z",
-     "duration": 1637,
-     "audio": "https://media.transistor.fm/a029eb2c/0e246826.mp3",
-     "image": "https://img.transistorcdn.com/N377_oCqzCRr4nr6vVcnJztCE232m_rzWHgZDtjJqGU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZWZi/ZmUzODQ3YWIzOGM1/MTZiNjU3MjJjM2Zj/ODRhMi5qcGc.jpg",
-     "description": "Is it even possible to train preachers? If so, why is going to seminary only helpful but insufficient? In this episode of Preachers Talk, Dave and Jeremy discuss all this and more with their guest Mic"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/54062251",
-     "title": "On Preaching Old Testament History (Preachers Talk, Ep. 57)",
-     "date": "2023-06-01T09:00:03.000Z",
-     "duration": 1427,
-     "audio": "https://media.transistor.fm/d75068c6/77f98d02.mp3",
-     "image": "https://img.transistorcdn.com/vjyeXHAWauz8_YjCNGtAeu4N0bbe2qfrx72JiJPu3pA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MzQ5/OGQ3Mjc4MzNmNmJm/M2E2ZjA4MDA0YTBj/MTNiZi5qcGc.jpg",
-     "description": "Many people love bible stories, but preachers can be reluctant to preach them. Why are they challenging and why should preachers take up the challenge? Listen in as Ed, Dave, and Jeremy discuss preach"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/53913940",
-     "title": "On Funerals (Preachers Talk, Ep. 56)",
-     "date": "2023-05-18T09:00:02.000Z",
-     "duration": 1547,
-     "audio": "https://media.transistor.fm/ea97e38b/9a1580a3.mp3",
-     "image": "https://img.transistorcdn.com/0h9NQ9iaIrmcy-tw2RQ5OqjsqVLFmpoo4ROsI6e_5N4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMThm/MzVkZmI0OTE5NDdj/OWQxNmIzODdjZDI2/NmY3Yi5qcGc.jpg",
-     "description": "How do you determine what to preach in the challenging, unique, and evangelistically-loaded moment of a funeral? Dave, Ed, and Jeremy share their wisdom on how to be sensitive to God's word and the mo"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/53738539",
-     "title": "Preacher Mailbag #4 (Preachers Talk, Ep. 55)",
-     "date": "2023-05-04T11:03:53.000Z",
-     "duration": 1493,
-     "audio": "https://media.transistor.fm/e2908479/4b2f84f4.mp3",
-     "image": "https://img.transistorcdn.com/G_zf27r3OcTgBRUIXW2ZqPUjA6wvDf9GM5Pm1qzICtQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OTgw/YmY5ODc3MDJlZThl/NzI2OTVjYzU2ZDhh/MDY4Yy5qcGc.jpg",
-     "description": "How should a preacher deal with people talking about football rather than the sermon after church? Just how artful should sermons be anyways? Jeremy digs into the mailbag once again to fire your quest"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/53590212",
-     "title": "On AI and Preaching (Preachers Talk, Ep. 54)",
-     "date": "2023-04-20T09:00:03.000Z",
-     "duration": 1377,
-     "audio": "https://media.transistor.fm/cf0a38ad/33598369.mp3",
-     "image": "https://img.transistorcdn.com/ML0WnLXeF2pqHI232Rfq0ed6w6G5c71BfqeYyFKfLzM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMDZm/YjdkNGI1ZGQwYjNh/OGViMWZmNmNlM2Zh/NzFmZC5qcGc.jpg",
-     "description": "If AI could write a sermon for you, should you let it? What if it wrote one better than you could? Listen in as Dave, Ed, and Jeremy figure out how AI can be utilized in preaching...and why we should "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/53458073",
-     "title": "On Avoiding Boredom (Preachers Talk, Ep. 53)",
-     "date": "2023-04-06T09:00:02.000Z",
-     "duration": 1324,
-     "audio": "https://media.transistor.fm/aa15f53a/1fcc2be2.mp3",
-     "image": "https://img.transistorcdn.com/zv_SjJ-ps4ZyeBj-bs_zaHVxn_pnhvznxT9Xm04dbg8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZGNk/ZThmYTllYTI3Yjdm/MDQyODA3ZTJiZGRi/ZTQ5OS5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, the hosts discuss on avoiding boredom"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/53304635",
-     "title": "On Text Size Selection (Preachers Talk, Ep. 52)",
-     "date": "2023-03-23T09:00:03.000Z",
-     "duration": 1602,
-     "audio": "https://media.transistor.fm/6440512a/c8dd918d.mp3",
-     "image": "https://img.transistorcdn.com/3J7Z0BA4QgeRaVYSSZZbehxrKoaUa_6PYNybzkUjwc0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OTgy/NmY2YzY3ODczOGQz/MWE2ZmEyNjBkZGE2/OGJmYy5qcGc.jpg",
-     "description": "Should we preach books fast or slow? Listen to Ed, Dave, and Jeremy discuss the benefits and dangers of the extremes while seeking to free the preacher from the burdens of thinking there is a perfect "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/53143153",
-     "title": "On Audience (Preachers Talk, Ep. 51)",
-     "date": "2023-03-09T10:00:03.000Z",
-     "duration": 1776,
-     "audio": "https://media.transistor.fm/a7c1eb34/9f6abde6.mp3",
-     "image": "https://img.transistorcdn.com/tOHKtguvz7mxYoe04OFDVBRXOD_-dDDiEbqL8xgBh4M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMDRk/NDg3MWIwNTM4NDcx/YTRmNTlhYTU3YmM0/ODU1MC5qcGc.jpg",
-     "description": "How should the preacher take the audience into consideration as he prepares his sermon? Hear Ed, Dave, and Jeremy wrestle with the joys and complexities of preaching with one's particular audience in "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/52821895",
-     "title": "On Biblical Context (Preachers Talk, Ep. 50)",
-     "date": "2023-02-23T10:00:03.000Z",
-     "duration": 1519,
-     "audio": "https://media.transistor.fm/78e4d9d7/23323e35.mp3",
-     "image": "https://img.transistorcdn.com/Zozv1TbSqS7OAeo_cGbZRsbaoLObd5GRjBtiXAvJVe4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNjAz/ZWU1MTdiYWY4OGIx/OTJkMWI1ZDJmZjJj/M2I3YS5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/52677694",
-     "title": "On Homiletical Structure (Preachers Talk, Ep. 49)",
-     "date": "2023-02-09T10:00:02.000Z",
-     "duration": 1529,
-     "audio": "https://media.transistor.fm/55b70fc7/2405a745.mp3",
-     "image": "https://img.transistorcdn.com/TIwizpoURnb35dX-oFpIT16x-aVblutQqVxKpVzf5ZU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kMzk5/NDIzMWIxMWY4ODVm/MmExZTk0ODVkOTNj/MGU0ZC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/52480576",
-     "title": "On Cultural Context (Preachers Talk, Ep. 48)",
-     "date": "2023-01-19T10:00:02.000Z",
-     "duration": 1488,
-     "audio": "https://media.transistor.fm/fd463ec3/cf9f5d16.mp3",
-     "image": "https://img.transistorcdn.com/JEiyQ1JECKJN_aZ25N3XR5uKoDSzpjUvy8bkIiAees0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NWQ2/MmYyODZkZWQ4ZjAz/N2Y4YzJkNWYyMTdj/OTNiOS5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/52127329",
-     "title": "On Preaching During the Holidays (Preachers Talk, Ep. 47)",
-     "date": "2022-12-08T10:00:03.000Z",
-     "duration": 1297,
-     "audio": "https://media.transistor.fm/62993202/74d8a945.mp3",
-     "image": "https://img.transistorcdn.com/wAD9z8-JIRmoBXrESrubQFaXBx2av7ZMDCnavbiWhZQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NjNi/ZGUxMjRlZGM1YzJh/YTlmN2MxZTE1NWFj/NjFkZC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/51924101",
-     "title": "On Historical Context (Preachers Talk, Ep. 46)",
-     "date": "2022-11-17T10:00:02.000Z",
-     "duration": 1601,
-     "audio": "https://media.transistor.fm/a14bb391/7bb19a09.mp3",
-     "image": "https://img.transistorcdn.com/5DuTtB1aIR1TOUwIKxYJLJqe8y-Ha-9nrC0jy44JUHg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODc5/MDFjMTM5YWQ3OWE1/ZjExYmJkZTk2MTBl/MWMwOC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/51614594",
-     "title": "On Engaging the Listener | Preachers Talk, Ep. 45",
-     "date": "2022-10-20T09:00:02.000Z",
-     "duration": 1426,
-     "audio": "https://media.transistor.fm/28c6b74e/5eaf3ad9.mp3",
-     "image": "https://img.transistorcdn.com/dGnfJW9y50t7WDvJew6qoECWLb-HoE57jr4Ib5MBMbU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZjY4/NzJkMmJjMTUwZGEx/Y2NmZGM5ZTkxZGI0/Y2Q2NC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/51482568",
-     "title": "On Literary Context | Preachers Talk, Ep. 44",
-     "date": "2022-10-06T09:00:02.000Z",
-     "duration": 1312,
-     "audio": "https://media.transistor.fm/38912e15/8cace77c.mp3",
-     "image": "https://img.transistorcdn.com/dF0YtdO4U6lc_aZoQDG_PzvfYcwaPwtlLKkWZ-xey20/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMzEx/YmY0MmZmMDljNmQx/NDMyZTUyZDlkNWNk/NmE2Mi5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/50567481",
-     "title": "On Preachers Mailbag #3 | Preachers Talk, Ep 43",
-     "date": "2022-07-14T09:00:03.000Z",
-     "duration": 1395,
-     "audio": "https://media.transistor.fm/23b4c173/a180068a.mp3",
-     "image": "https://img.transistorcdn.com/KjWujkQQzbfOj0DPzSfYI-ypCRR-wKXfz6K-MYkEV9o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMjdh/MDhhNjc2MmQyNzk3/MDVkZDJlNTZhZTFi/YTJmZi5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/50411537",
-     "title": "On Cultural Relevance | Preachers Talk, Ep. 42",
-     "date": "2022-06-30T09:00:04.000Z",
-     "duration": 1297,
-     "audio": "https://media.transistor.fm/4d0e18d8/e693e6e6.mp3",
-     "image": "https://img.transistorcdn.com/VcMKDEo47_rRdPNAbaZgVcs07fv8c95n3xbCe_QBTkM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MWU3/MzMxNDlhNzNhOWZl/MDdhNDk2MjQxYzJl/MjY5NC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/50134982",
-     "title": "On Exposition for All (with Mervyn Eloff) | Preachers Talk, Ep. 41",
-     "date": "2022-06-09T09:00:03.000Z",
-     "duration": 1282,
-     "audio": "https://media.transistor.fm/a924081d/05a076e9.mp3",
-     "image": "https://img.transistorcdn.com/0V7Xfbo159kO1L9nz9--xV3Dvcmk0QButcHOm6E0Ceg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MmNi/NDc2OWZkYmM1MTY5/OGUzODAwMDNkMWUx/MDk5OC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/49948036",
-     "title": "On Beginning Well | Preachers Talk, Ep. 40",
-     "date": "2022-05-26T09:00:02.000Z",
-     "duration": 1417,
-     "audio": "https://media.transistor.fm/95910cb8/7f5f24eb.mp3",
-     "image": "https://img.transistorcdn.com/nIFBV-ZN9u21WJEtwG4XOWa725LC8EJ_wqdbVq9rkeo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWE5/YTVlZDQ2Yzk1ZDZk/MWM0YTkyMzI2NTZh/OTg4YS5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/49669954",
-     "title": "On Preaching Discourse | Preachers Talk, Ep. 39",
-     "date": "2022-05-05T09:00:03.000Z",
-     "duration": 1435,
-     "audio": "https://media.transistor.fm/54490bf4/c2101acb.mp3",
-     "image": "https://img.transistorcdn.com/Ig-V4s5ssro6MH371Z0e1LvYCKfN6WWjxPxTIyiRo8Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZTI0/ZTgzYzc4MDM3ZGM1/ZGU5MjVkMjI2ZDBh/ODg2MS5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/49349680",
-     "title": "On Preaching Hard Texts | Preachers Talk, Ep. 38",
-     "date": "2022-04-07T09:00:06.000Z",
-     "duration": 1414,
-     "audio": "https://media.transistor.fm/7b5b6671/f7d19b7e.mp3",
-     "image": "https://img.transistorcdn.com/E0XpGmJXecYSenO9tk-F5xJ27elPKC47JJTZWSh9Vsw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMGVj/NGMxNzMzOWM5NzQ2/NTkyYzc5OTE3Yjhk/YzU3Ni5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/48930509",
-     "title": "On Preaching Poetry | Preachers Talk, Ep. 37",
-     "date": "2022-03-03T10:00:04.000Z",
-     "duration": 1351,
-     "audio": "https://media.transistor.fm/c9d1b0f4/99b11811.mp3",
-     "image": "https://img.transistorcdn.com/E_c8enL78NdPWMUAY-b8WLoFg_xfSf66GiVbps1L2uQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2Yz/OTc2NGRiMTI5YWYw/ZWMyODQxYWRjYjVh/MTU2Ny5qcGc.jpg",
-     "description": "Poetry takes up a significant amount of Scripture. It can be of great help to the hearer and a gift to the preacher. This week Ed, Dave, and Jeremy explain why poetry is so useful and how they preach "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/48770917",
-     "title": "On Effective Illustration | Preachers Talk, Ep. 36",
-     "date": "2022-02-17T14:28:30.000Z",
-     "duration": 1381,
-     "audio": "https://media.transistor.fm/01549717/73ea8b90.mp3",
-     "image": "https://img.transistorcdn.com/AZPApauVLx6kQiL5CPQNDjVRcwwiSrig8QtXud5baNc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNzdl/MjVhMmMzMzVlZjA1/YTEyZjk5ZTI0YjRj/NjhkMS5qcGc.jpg",
-     "description": "What are illustrations for? How can preachers use them to good effect in their preaching? In this episode Dave, Ed, and Jeremy seek to answer these questions and more while giving examples from their "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/48566818",
-     "title": "On Preaching Narrative | Preachers Talk, Ep. 35",
-     "date": "2022-02-03T08:15:02.000Z",
-     "duration": 1490,
-     "audio": "https://media.transistor.fm/ff4251d5/0fde011e.mp3",
-     "image": "https://img.transistorcdn.com/ovmRnnSmmrNhqBgANPK7rfV4cJ-41IZa8B9ZW3hy-No/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kOGUy/MDhhOWJlZGY2Zjk1/NGIyYmVmYTM5ZmMw/ZGE5Yi5qcGc.jpg",
-     "description": "Everyone love stories. The Bible is full of stories. In this episode of Preachers Talk, Jeremy Meeks chats with Dave Helm and Ed Copeland about how to preach the Bible’s narratives well."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/48376250",
-     "title": "On Training Women for Exposition (with Colleen McFadden) | Preachers Talk, Ep. 34",
-     "date": "2022-01-20T13:53:19.000Z",
-     "duration": 1213,
-     "audio": "https://media.transistor.fm/e82e9f25/e5f16136.mp3",
-     "image": "https://img.transistorcdn.com/AtwMy6DdurrdJ6HB11n5NKHkU6IvcwftDgsBnDSu5DQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMWJl/M2ZlOGY0NzY5NWZh/MWFmOWYwNDBlNTQx/YTcwOC5qcGc.jpg",
-     "description": "This week, Jeremy and Dave sit down with Colleen McFadden to discuss how to train women to teach the Bible in complementarian settings."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/47968885",
-     "title": "On Introductions | Preachers Talk, Ep. 33",
-     "date": "2021-12-17T21:41:53.000Z",
-     "duration": 1374,
-     "audio": "https://media.transistor.fm/6dfd2320/f172f000.mp3",
-     "image": "https://img.transistorcdn.com/ov_Yd7-YXyvDMtK-6eHXst8nAqUjE18KQYlS3UrS47M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NmYz/N2MyZTk5Y2Q0Yzkx/NmU2NjJkMTUzNzhh/ODM3Zi5qcGc.jpg",
-     "description": "Every preacher begins a sermon, but most could begin them better. On this episode Ed, Dave, and Jeremy discuss what should be in our introductions and why."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/47762100",
-     "title": "On Getting Started Late | Preachers Talk, Ep. 32",
-     "date": "2021-12-03T00:01:09.000Z",
-     "duration": 1319,
-     "audio": "https://media.transistor.fm/19e6bbf6/9be1fa70.mp3",
-     "image": "https://img.transistorcdn.com/C4UIvr8p3H1T-FuDFY33WcqKMJgGlf8_-K4t-ZhlPsY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NTU5/YTVjNzQyOWJhOGU3/ZmExZDVjNjBmY2Ez/YjU2OS5qcGc.jpg",
-     "description": "Is preaching just a \"young man's game\"? On this episode Jeremy, Ed, and Dave consider the benefits to older preachers, both those who start late and those who have been at it for a while."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/47548661",
-     "title": "On Application (with Michael Lawrence) | Preachers Talk, Ep. 31",
-     "date": "2021-11-19T01:57:35.000Z",
-     "duration": 1408,
-     "audio": "https://media.transistor.fm/80f3bab3/f58eaa1a.mp3",
-     "image": "https://img.transistorcdn.com/ZEZenOxgBhk_C7H0rvw_xo8seE78EbB8rLIgvc7A7Xc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjRi/Mzg3NDIzNjVkNzdl/YWEwZmM2ZGE3Njg1/MWQ5My5qcGc.jpg",
-     "description": "Every pastor knows they should apply the text. How should we do it well? How can we do it better?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/47201111",
-     "title": "Preacher's Talk Mailbag #2",
-     "date": "2021-10-28T16:08:48.000Z",
-     "duration": 1357,
-     "audio": "https://media.transistor.fm/d2a9f573/1d06b943.mp3",
-     "image": "https://img.transistorcdn.com/m6b3OWYAWW76USWUe1D3A4xZ7thh_6k-fvFwcszPDew/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yY2Ew/NzEyZTk2ZTU1MjMw/ZWQxYjhjODk5NGU1/YTY2Mi5qcGc.jpg",
-     "description": "In this episode Jeremy goes through the mailbag, asking a wide variety of questions submitted by listeners to Dave and Ed."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/46865211",
-     "title": "On Concession and Refutation | Preachers Talk, Ep. 29",
-     "date": "2021-10-07T14:04:29.000Z",
-     "duration": 1308,
-     "audio": "https://media.transistor.fm/e47ce6d8/d1fc788c.mp3",
-     "image": "https://img.transistorcdn.com/pESr6XaHqyzPV1Uaz3eWAeej_rZPp7f6GXBriAdWOks/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MWIx/OGUyMDQ2ZjBhODFk/MTQxMGVkYTVkODk4/YmNhOS5qcGc.jpg",
-     "description": "Sermon listeners have objections to what preachers say, believer and unbeliever alike. Dave, Ed, and Jeremy answer the question - What should and can the preacher do in order to name and navigate thes"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/46343825",
-     "title": "On Argument | Preachers Talk, Ep. 28",
-     "date": "2021-09-02T11:19:47.000Z",
-     "duration": 1463,
-     "audio": "https://media.transistor.fm/f6929b44/db6495c6.mp3",
-     "image": "https://img.transistorcdn.com/QhEkoSLNiWmxskxAC-941tsZYXTrntXI6rCACa6evqs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZDIz/NGQ4Y2Y0NzQ3NGM3/ZWU2YjY3NmY3OTM3/OTkyNy5qcGc.jpg",
-     "description": "What is it the preacher is trying to do when he preaches? David Helm, Ed Copeland, and Jeremy Meeks discuss the vital task of making an argument in preaching. They tackle what it is and how they go ab"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/45888925",
-     "title": "On Pride vs. Contempt of Praise (with Mike Bullmore) | Preachers Talk, Ep. 27",
-     "date": "2021-07-29T12:59:45.000Z",
-     "duration": 1254,
-     "audio": "https://media.transistor.fm/f4b905dd/29b64cf9.mp3",
-     "image": "https://img.transistorcdn.com/F3du0KP0rDdALLvk_MblEKU8tlEwd6DAvelp80fpTVo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMzlk/NTEyZWYxZDk5NDJh/NzljMzUzMTNmMTc0/Y2I3OS5qcGc.jpg",
-     "description": "How do we pursue humility while we also pursue excellence in preaching? On this episode Dave Helm and Jeremy Meeks sit down with Mike Bullmore to wrestle with the task of preaching without pride."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/45625697",
-     "title": "On Doing Your Own Work | Preachers Talk, Ep. 26",
-     "date": "2021-07-08T13:27:17.000Z",
-     "duration": 1463,
-     "audio": "https://media.transistor.fm/e4aaaa87/ca9f4043.mp3",
-     "image": "https://img.transistorcdn.com/PITNLMaO4JvWfTXolC6cRT0UWAK5yGN4ijF_POKy5k8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZTli/ZTkxMmEwZWU4ZDI4/Y2I1N2M2YjliY2Qx/MmM1Mi5qcGc.jpg",
-     "description": "Though the question of what it means to do your own work in the pulpit has been raised a lot recently, Dave Helm, Ed Copeland, and Jeremy Meeks had a conversation months ago about this perennially imp"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/45426589",
-     "title": "On Cross-Cultural Preaching (with John Onwuchekwa) | Preachers Talk, Ep. 26",
-     "date": "2021-06-24T14:28:24.000Z",
-     "duration": 1482,
-     "audio": "https://media.transistor.fm/6c19ac28/61caf942.mp3",
-     "image": "https://img.transistorcdn.com/CNN4hYe7ZF5rbwwMwnAjpF5g9qKN6apGHa9ucmyFf84/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NjZl/YjI0MmE2ZTQwNGFi/YjY1OWI4ZmVmZTQz/Yzc4OS5qcGc.jpg",
-     "description": "God’s Word is for everyone. But how do we preach to people who are quite different from our ordinary audience? In this episode of Preachers Talk, Jeremy Meeks, Ed Copeland, and John Onwuchekwa tackle "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/45250559",
-     "title": "On Preaching as an Assistant | Preachers Talk, Ep. 25",
-     "date": "2021-06-10T18:24:28.000Z",
-     "duration": 1484,
-     "audio": "https://media.transistor.fm/bd11e49a/6d35c9b7.mp3",
-     "image": "https://img.transistorcdn.com/ROg34Jn7Nij1eU-LiomcfUpMeypM0JgeUHiZMS-UsWM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MjZm/ZTQxNzg4MmU1OTU0/YzU5OWI3NTFhZmM3/MzdjOC5qcGc.jpg",
-     "description": ""
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/44812891",
-     "title": "On Power for Proclamation | Preachers Talk, Ep. 24",
-     "date": "2021-05-14T13:20:26.000Z",
-     "duration": 1187,
-     "audio": "https://media.transistor.fm/762ed672/51e93569.mp3",
-     "image": "https://img.transistorcdn.com/Nz3kFGRboso2dgoRITy9NcdryJPe76XiFwi6-sn-5sE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYjRj/ODU2NTJiZGM0MGY0/MWJjMDVmMTgxZWFm/YjQ0ZC5qcGc.jpg",
-     "description": "What does it mean to preach in a way that demonstrates the Spirit and power (1 Cor. 2:4–5)? In this episode of Preachers Talk, Dave Helm, Ed Copeland, and Jeremy Meeks discuss the significance of the "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/44575431",
-     "title": "On Power for Preparation | Preachers Talk, Ep. 23",
-     "date": "2021-04-30T16:40:01.000Z",
-     "duration": 1345,
-     "audio": "https://media.transistor.fm/767168a8/6d6df58b.mp3",
-     "image": "https://img.transistorcdn.com/7noOpxYOjamQkqVIg8qRwjhvt7Jxgs58Jk85Zm_Z_WQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMjRi/NWYxOTZiYmQ5Yzc5/NzkzN2UyN2E0NjZm/NTk3YS5qcGc.jpg",
-     "description": "Preachers need the Holy Spirit’s help as they prepare. In this episode of Preachers Talk, Jeremy Meeks chats with Ed Copeland and David Helm about “power for preparation.”"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/44256499",
-     "title": "On Ethos | Preachers Talk, Ep. 22",
-     "date": "2021-04-08T13:20:41.000Z",
-     "duration": 1265,
-     "audio": "https://media.transistor.fm/6e17ea44/6f7d424f.mp3",
-     "image": "https://img.transistorcdn.com/kn55E-9kBSQzk7NRXC7vzZMYHWhSGA6Ar8AMZNjvRRQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lN2Nm/MjkwYmJiMmZjNmQz/NmUyODcwYWJiZDZh/YzczYi5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, Jeremy Meeks chats with David Helm and K. Edward Copeland about a preacher’s need for “ethos.” What’s ethos? David defines it as that vital and indispensable attribu"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/44048165",
-     "title": "Preachers Talk Mailbag #1",
-     "date": "2021-03-25T14:37:30.000Z",
-     "duration": 1242,
-     "audio": "https://media.transistor.fm/e6950c7c/7b462e5d.mp3",
-     "image": "https://img.transistorcdn.com/GPNrH846FP7C6qAA1F5b4Lwqw1oTg0khvjm-HLnelDQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YjRl/ZWQ0NGQxNTE5YjAy/YmM0NTlmNzgxMjkz/MmFiMC5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, Jeremy Meeks pulls from the mailbag and asks Ed Copeland and David Helm questions about preaching. If you have questions about preaching, send them to feedback@preac"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/43844193",
-     "title": "On Conclusions | Preachers Talk, Ep. 20",
-     "date": "2021-03-11T17:10:40.000Z",
-     "duration": 1258,
-     "audio": "https://media.transistor.fm/e5dc0aa0/8f053d6b.mp3",
-     "image": "https://img.transistorcdn.com/rx1jqUpGV5ubD4LtKhuvXtRI3QzZTTT_QVNWLRKCti8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjE0/YTU3YjQ5ZWY1NzA2/ZjM5NmYxOTBmODZi/OWVlMS5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, Jeremy Meeks chats with David Helm and K. Edward Copeland about how to thoughtfully conclude a sermon."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/43634083",
-     "title": "On Typology | Preachers Talk, Ep. 19",
-     "date": "2021-02-25T13:56:02.000Z",
-     "duration": 1340,
-     "audio": "https://media.transistor.fm/6f62f583/1e4bd6f0.mp3",
-     "image": "https://img.transistorcdn.com/R31dDP9GKBDfpWcX0GJ9cTkM4xMLL_Q1mK2GsHbXOUE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzk5/ZDYyYzIxODU0MTcz/MzE5ZTAwM2I3MmRm/YjI4Ni5qcGc.jpg",
-     "description": "Typology is a legitimate means from getting to your text from the gospel—through people, objects, events, or patterns. Jeremy Meeks chats with David Helm and K. Edward Copeland about preaching and typ"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/43408459",
-     "title": "On Rhetoric (with Robert Kinney) | Preachers Talk, Ep. 18",
-     "date": "2021-02-11T22:10:20.000Z",
-     "duration": 1246,
-     "audio": "https://media.transistor.fm/0c1d953c/8f556b5c.mp3",
-     "image": "https://img.transistorcdn.com/9OLjdhtv3CHK-OxCskEmKSC2a5QqZ59eLZYByRzrDlE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZDZi/YWNkOTk5Yzc3YzUx/ZTI4ZTA2NzVhY2Fh/ZDViZi5qcGc.jpg",
-     "description": "How important is a preacher’s rhetoric? Jeremy Meeks chats with David Helm and Robert Kinney of The Charles Simeon Trust about this under-discussed topic."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/43166120",
-     "title": "On Guest Preaching | Preachers Talk, Ep. 17",
-     "date": "2021-01-28T15:27:40.000Z",
-     "duration": 1351,
-     "audio": "https://media.transistor.fm/f7f96d28/881e1343.mp3",
-     "image": "https://img.transistorcdn.com/KPXJs124y4CHT4-3DJYcYDI-hA9mDCvzNFzw99hhdo0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzUz/ZDE1ZDQzYzU5MWQ5/ZTdiZDMyMGZlYjk0/YWQ3Yy5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, David Helm sits in the interviewer’s chair and chats with Ed Copeland and Jeremy Meeks about how to approach guest preaching."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/42932520",
-     "title": "On Biblical Quotations and Allusions (with Michael Lawrence) | Preachers Talk, Ep. 16",
-     "date": "2021-01-14T12:02:19.000Z",
-     "duration": 1330,
-     "audio": "https://media.transistor.fm/c6c802ff/fb396fe6.mp3",
-     "image": "https://img.transistorcdn.com/tG5sRbVelA0DmrOnT_GsLKrytvOWqH97NX0dUJk3K1Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMWUw/YjdlNGFkMWMxYzIy/M2JiNzY4ZmUzMmY5/YmRiNC5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, Jeremy Meeks chats with David Helm and Michael Lawrence about how preachers ought to approach the Bible’s many quotations and allusions."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/42535740",
-     "title": "On The Preaching Moment (Preachers Talk, Ep. 15)",
-     "date": "2020-12-17T12:35:45.000Z",
-     "duration": 1268,
-     "audio": "https://media.transistor.fm/4b3a0426/964c9c67.mp3",
-     "image": "https://img.transistorcdn.com/c2X0sE1uB0uSjXyUwaQPvwB-GaNhfPxUPs6c_vBnljo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNzU0/NTI5MWI5OTg4Mjg3/ZTQ1Yjg4MzJiZTFl/NmI0Ni5qcGc.jpg",
-     "description": "When God’s people gather for corporate worship to sit under God’s Word, it’s different than a Bible study or a Sunday School class. It is—or at least it should be—transcendent."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/42296161",
-     "title": "Episode 14: On Historical Trajectory",
-     "date": "2020-12-03T12:58:33.000Z",
-     "duration": 1515,
-     "audio": "https://media.transistor.fm/7c65ecb0/5cef346f.mp3",
-     "image": "https://img.transistorcdn.com/_k4S9yJZ3M2OgddHKbWHxnLravSSPUWIQxMQ3qY7cUA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYWI3/Y2Y5ZjA1ZjZkYmNl/YmUwMzYwM2U1YjRi/YjkxOC5qcGc.jpg",
-     "description": "While preparing a sermon, preachers need to pay careful attention to their text’s historical trajectory. What’s “historical trajectory”?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/41938213",
-     "title": "Episode 13: On the Personal Process of Writing a Sermon",
-     "date": "2020-11-12T12:18:44.000Z",
-     "duration": 1311,
-     "audio": "https://media.transistor.fm/08eb8458/d5bb9df9.mp3",
-     "image": "https://img.transistorcdn.com/oPNzdaA9iobrGJpe7Zf98_qIhNVEyy4g6UKbq72MtIU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzhm/YzlmODQ5NzBiMGZh/ZDViOTljOWQyZmY5/ZTYzNS5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, Jeremy Meeks asks Ed and David how the “sermon sausage gets made.” From Sunday to Sunday, how does this sermon-prep and sermon-writing process work?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/41586322",
-     "title": "Episode 12: On Discerning the Structure of A Biblical Text",
-     "date": "2020-10-22T14:58:17.000Z",
-     "duration": 1429,
-     "audio": "https://media.transistor.fm/f033c207/4014263a.mp3",
-     "image": "https://img.transistorcdn.com/wE808DzTJy0DdSIDOAcM_E_ixUE4rks2xHnup02RLBc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNTc1/ZmE2ZjFlYjhjM2Mw/NWQxZDcyNTQ3M2Fj/N2RiMy5qcGc.jpg",
-     "description": "How do you figure out the structure of a biblical text? After you figure out the structure, how then do you create an outline for your sermon? In Episode 12 of Preachers Talk, Jeremy Meeks chats with "
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/41362507",
-     "title": "Episode 11: On Finding Your Voice",
-     "date": "2020-10-08T12:38:19.000Z",
-     "duration": 1184,
-     "audio": "https://media.transistor.fm/7b2e6092/c01dbcc5.mp3",
-     "image": "https://img.transistorcdn.com/ZzbVMEhdx7ftvA39EcSjU4_XPFlvnmqxiLN-wyqGosM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYmQ1/MDY0ODQ4NjUyYmIw/ZjA4NmZjODIwNGUz/Nzk1YS5qcGc.jpg",
-     "description": "Every preacher has been shaped by others preachers. That’s inevitable. But how can preachers find their own voice even as they appreciate their various influences?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/41099400",
-     "title": "Episode 10: On Preaching the Gospel",
-     "date": "2020-09-24T12:17:31.000Z",
-     "duration": 1246,
-     "audio": "https://media.transistor.fm/4050fcfe/2b29ffe1.mp3",
-     "image": "https://img.transistorcdn.com/iB_6pOHQV63iDTfp7-6mDSA4aue3G1Pb_hC60_EJg1Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YmRk/MjJkNTM2NDAyZGVk/Njc0MGM2MjczNGQ4/NzMyZi5qcGc.jpg",
-     "description": "Must you preach it in every sermon? How do you prevent every sermon from sounding the same or flattening your text?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/40424750",
-     "title": "Episode 9: On Giving and Receiving Feedback on Preaching",
-     "date": "2020-08-20T17:10:31.000Z",
-     "duration": 1489,
-     "audio": "https://media.transistor.fm/041c1810/7d713b88.mp3",
-     "image": "https://img.transistorcdn.com/FQvG_IGi3W4sTvRkYbz8C-fb0ULOpdFYlpLOXHi2c-A/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NGEz/N2E2ZDgxYzliMWMz/YTEwODg2MWJlNDRl/NWNkMC5qcGc.jpg",
-     "description": "In this episode of Preachers Talk, Jeremy Meeks talks with David Helm and K. Edward Copeland about the value of giving and receiving feedback on preaching."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/39918309",
-     "title": "Episode 8: On Planning a Preaching Calendar",
-     "date": "2020-07-23T12:59:34.000Z",
-     "duration": 1448,
-     "audio": "https://media.transistor.fm/bd39e45b/cdf08ce7.mp3",
-     "image": "https://img.transistorcdn.com/qljgUGbVLdVuz67myIEpTtWRSHS4-Ylhdpfn_Ku_2L0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZmI4/MjQzZDUzZmM4ZDFj/YTE4OGYxOTljOTI5/ZTUyNC5qcGc.jpg",
-     "description": "How do you decide what to preach? How long should you stay in a book? Doesn’t planning sermons several months out “quench the Spirit”?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/33275222",
-     "title": "Episode 7: On Preaching over the Long Haul",
-     "date": "2020-06-25T14:48:30.000Z",
-     "duration": 1439,
-     "audio": "https://media.transistor.fm/f5e623b8/ec709f3b.mp3",
-     "image": "https://img.transistorcdn.com/t6043JxXZqMS0gYQ2PvIOb308KdGmVPUY3XCK78PiTo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lN2Fh/NjZkNjg1NDQxMzNl/MWRlYTg2YjY3MTBl/ZjRjMC5qcGc.jpg",
-     "description": "David Helm and Ed Copeland have both been preaching at the same place for more than 20 years. In this episode of Preachers Talk, Jeremy Meeks chats with them about how all preachers should think about"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/28641286",
-     "title": "Episode 6: On Preaching in a Troubled Age",
-     "date": "2020-05-29T15:38:38.000Z",
-     "duration": 1513,
-     "audio": "https://media.transistor.fm/fea274ef/e26dc45e.mp3",
-     "image": "https://img.transistorcdn.com/WaM8L6faCMWjZCpWF9JBNdTTTy1EmzpHdSEjDmrP0uQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MzE5/ZjAzNWRiZGY1ODk3/YjIxMzQ5N2RlNGZm/MjIzZC5qcGc.jpg",
-     "description": "The nation is reeling, and Sunday is coming. So what should preachers do?"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/27905080",
-     "title": "Episode 5: On Preaching in a Distracted Age",
-     "date": "2020-05-21T08:00:18.000Z",
-     "duration": 1348,
-     "audio": "https://media.transistor.fm/452c2faf/bcb413e1.mp3",
-     "image": "https://img.transistorcdn.com/myeRgT0MbKdZtNXIfbnVJA8pNYYTojitHdPM4qL739Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83N2U4/ZDVkOGJlZTgwNzdj/OTQ1ZjdmZjRhMGVl/YzNmZS5qcGc.jpg",
-     "description": "We live in a distracted age in which many people are addicted to images and intimidated by reading. In this episode of Preachers’ Talk, Jeremy Meeks chats with Ed Copeland and David Helm about the sub"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/25929894",
-     "title": "Episode 4: On Preaching in a Pandemic",
-     "date": "2020-04-23T08:55:19.000Z",
-     "duration": 1267,
-     "audio": "https://media.transistor.fm/951a0e0f/6a570d32.mp3",
-     "image": "https://img.transistorcdn.com/cO90cXwdaAGI_Of2MxcNFuQZ9V2M40HBdzXiuZnJqdo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZmYy/NWI2OThkNDVmYjY4/MzM0OTZiMzJhNDFh/MGRjMS5qcGc.jpg",
-     "description": "Preachers' Talk is a podcast for preachers and all those who love preaching, created by a partnership between Simeon Trust and 9Marks. https://simeontrust.org http://9marks.org"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/24362449",
-     "title": "Episode 3: On Inebriated Preaching",
-     "date": "2020-03-26T08:00:04.000Z",
-     "duration": 1259,
-     "audio": "https://media.transistor.fm/99e05b2b/55f84364.mp3",
-     "image": "https://img.transistorcdn.com/fez_VgUUvFS9q8SE_Gh1RM62RqRgkh2Mwm1_ZFBpUqQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Zjhj/ZjYyN2FiNTNmZWNi/ZDkxZmU3NjkxNWI2/YzA5ZS5qcGc.jpg",
-     "description": "What does it mean to be “drunk in the pulpit”? It means to lean on the Bible more for support than illumination. On this episode of Preachers’ Talk, listen to David Helm, Jeremy Meeks, and K. Edward C"
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/22974128",
-     "title": "Episode 2: On Defining \"Expositional Preaching\" (with H. B. Charles)",
-     "date": "2020-02-20T08:00:09.000Z",
-     "duration": 1354,
-     "audio": "https://media.transistor.fm/518cbc22/99820919.mp3",
-     "image": "https://img.transistorcdn.com/MpyMSxddjgQooNrw3FLY52LjkxgjHSTCjnYUu5k7i3I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZDIz/NzAxZDgyOGYyYjRl/OGNlZmZiNTE0MzBi/NDk5OC5qcGc.jpg",
-     "description": "Preachers' Talk: a podcast by the Charles Simeon Trust and 9Marks. Learn more at simeontrust.org."
-    },
-    {
-     "id": "1495972590|https://api.spreaker.com/episode/21950592",
-     "title": "Episode 1: On the State of Preaching Today (with Jonathan Leeman)",
-     "date": "2020-01-22T11:53:04.000Z",
-     "duration": 1788,
-     "audio": "https://media.transistor.fm/fe557d96/27b5c760.mp3",
-     "image": "https://img.transistorcdn.com/RBJ-ruXCst9Qq0CLe-NqTDUzhTF2sfYsU9A3fDevcMg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZGRk/YmRiNmM5NDRhNzlk/NzliOTZjNzJjMTlk/MTc1MS5qcGc.jpg",
-     "description": "In the inaugural episode of Preachers’ Talk, Jonathan Leeman chats with three friends from Simeon Trust—David Helm, Ed Copeland, and Jeremy Meeks—about preaching. https://simeontrust.org http://9marks"
     }
    ]
   },
